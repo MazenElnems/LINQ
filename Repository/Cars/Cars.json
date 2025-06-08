@@ -1,0 +1,8002 @@
+[
+  {
+    "Id": "6c6e9435-59cd-4a61-b92e-037a01ad02d8",
+    "make": "Cadillac",
+    "model": "DTS",
+    "price": 36224,
+    "year": 2008,
+    "vin": "1G6DS8ED8B0096844"
+  },
+  {
+    "Id": "1da6df57-29d8-4fb4-919d-7b60af795974",
+    "make": "Isuzu",
+    "model": "Amigo",
+    "price": 18316,
+    "year": 1998,
+    "vin": "JN1CV6AP7CM759435"
+  },
+  {
+    "Id": "82a9ddde-3ad6-4864-8cf4-4d1621464fcd",
+    "make": "Lamborghini",
+    "model": "Diablo",
+    "price": 26557,
+    "year": 1999,
+    "vin": "1GYUCFEJ1AR115873"
+  },
+  {
+    "Id": "902df2a0-8135-4f21-b315-3968bb1e99b3",
+    "make": "GMC",
+    "model": "Suburban 2500",
+    "price": 12085,
+    "year": 1996,
+    "vin": "3C63DRNL7CG122600"
+  },
+  {
+    "Id": "07141c97-2208-47f8-bc8c-ce3299d1d20c",
+    "make": "Lexus",
+    "model": "GS",
+    "price": 18855,
+    "year": 2004,
+    "vin": "WBAFR9C54DD195883"
+  },
+  {
+    "Id": "d374adf7-4341-434a-94eb-162cd4ee7066",
+    "make": "Pontiac",
+    "model": "GTO",
+    "price": 14918,
+    "year": 1968,
+    "vin": "3GYFNEE34CS742582"
+  },
+  {
+    "Id": "593084d7-6d3a-4096-8840-2515d6385ff0",
+    "make": "Ford",
+    "model": "E150",
+    "price": 45307,
+    "year": 2009,
+    "vin": "5LMCJ1A91FU026940"
+  },
+  {
+    "Id": "808999a5-6c08-47d5-b8ee-98e706d14b48",
+    "make": "Isuzu",
+    "model": "Hombre",
+    "price": 20742,
+    "year": 1996,
+    "vin": "WA1CMAFP3EA531393"
+  },
+  {
+    "Id": "24c1d7e5-3954-4abc-ac4b-0186a2c4f07a",
+    "make": "Volvo",
+    "model": "XC70",
+    "price": 17447,
+    "year": 2010,
+    "vin": "WA1BY74L08D320822"
+  },
+  {
+    "Id": "ee0ba1b0-3f76-4d83-adf7-2b986a418d99",
+    "make": "Mazda",
+    "model": "MX-6",
+    "price": 45780,
+    "year": 1992,
+    "vin": "WAULT68E75A524722"
+  },
+  {
+    "Id": "283922e0-8309-4536-aea2-55ee3781fedc",
+    "make": "GMC",
+    "model": "Sonoma Club Coupe",
+    "price": 16947,
+    "year": 1995,
+    "vin": "3N1CE2CP5EL248910"
+  },
+  {
+    "Id": "3824c106-b4e0-4d0c-b7b7-92c083dcae8d",
+    "make": "Chevrolet",
+    "model": "3500",
+    "price": 19625,
+    "year": 1998,
+    "vin": "2T1BURHE8EC356730"
+  },
+  {
+    "Id": "f893ab71-818d-4e40-9c08-03a04fde9cbc",
+    "make": "Volvo",
+    "model": "C30",
+    "price": 17054,
+    "year": 2008,
+    "vin": "3D73Y3CL9BG596906"
+  },
+  {
+    "Id": "932db5dc-5785-4b95-901c-49bfd5c161c8",
+    "make": "Chevrolet",
+    "model": "1500",
+    "price": 10723,
+    "year": 1995,
+    "vin": "WAUUFAFH3DN481354"
+  },
+  {
+    "Id": "8e27ff45-a01b-44e5-abfc-b09d6d17d119",
+    "make": "Mercury",
+    "model": "Sable",
+    "price": 35478,
+    "year": 1988,
+    "vin": "JN8AZ1MU3CW186667"
+  },
+  {
+    "Id": "19637f70-3c58-4513-a444-9f5f9c5e8193",
+    "make": "Mazda",
+    "model": "MX-6",
+    "price": 52377,
+    "year": 1997,
+    "vin": "5UXFG2C59CL129316"
+  },
+  {
+    "Id": "bdd393c1-9411-4d0c-8dd5-4f034ff359f9",
+    "make": "Mitsubishi",
+    "model": "Eclipse",
+    "price": 44424,
+    "year": 2001,
+    "vin": "WUARL48H58K620796"
+  },
+  {
+    "Id": "2ffcfc3e-7670-4766-8d30-28c72297f596",
+    "make": "Mitsubishi",
+    "model": "Endeavor",
+    "price": 47394,
+    "year": 2006,
+    "vin": "JTDKDTB33F1085344"
+  },
+  {
+    "Id": "a6f2e79c-287a-4acf-8746-908ffa9552f4",
+    "make": "Mercedes-Benz",
+    "model": "SLS AMG",
+    "price": 51158,
+    "year": 2012,
+    "vin": "W04GU5GCXB1275253"
+  },
+  {
+    "Id": "77e922bd-a79d-4539-a583-8350cc8cc98c",
+    "make": "Suzuki",
+    "model": "Grand Vitara",
+    "price": 41585,
+    "year": 2000,
+    "vin": "3N1CN7AP9DL574062"
+  },
+  {
+    "Id": "66813521-710a-43e3-b3ac-5cfb7a52e43d",
+    "make": "GMC",
+    "model": "2500",
+    "price": 46927,
+    "year": 1994,
+    "vin": "1FTSW3B53AE408253"
+  },
+  {
+    "Id": "999c5755-fc2e-42c3-b11c-43a61c07eb38",
+    "make": "Ford",
+    "model": "Crown Victoria",
+    "price": 21814,
+    "year": 1995,
+    "vin": "WBANA73555B170995"
+  },
+  {
+    "Id": "71ec43b7-3511-4951-aa2e-0fd5b958a623",
+    "make": "BMW",
+    "model": "X5",
+    "price": 58327,
+    "year": 2010,
+    "vin": "1N4AL2AP6BN332376"
+  },
+  {
+    "Id": "4cd000ee-6158-4abf-8596-e726ca926215",
+    "make": "Bentley",
+    "model": "Azure",
+    "price": 51346,
+    "year": 2009,
+    "vin": "5UXFH0C58BL663763"
+  },
+  {
+    "Id": "7b4ac6bc-73a7-4ae0-949f-a8af9801f632",
+    "make": "Lexus",
+    "model": "IS",
+    "price": 39020,
+    "year": 2004,
+    "vin": "1GD21XEG2FZ440886"
+  },
+  {
+    "Id": "7d43168b-7da2-47cb-9ab1-726e34b05c77",
+    "make": "Land Rover",
+    "model": "Discovery Series II",
+    "price": 14554,
+    "year": 2001,
+    "vin": "WAUJC68E75A086789"
+  },
+  {
+    "Id": "559f553c-8c0c-4fb7-bca0-57c605c7877d",
+    "make": "Toyota",
+    "model": "Supra",
+    "price": 23841,
+    "year": 1994,
+    "vin": "JA4AS2AW1DU056910"
+  },
+  {
+    "Id": "3a25df63-1095-4e8b-9f27-bb485d46e505",
+    "make": "Toyota",
+    "model": "Sequoia",
+    "price": 17546,
+    "year": 2001,
+    "vin": "1G6DF5E57C0095598"
+  },
+  {
+    "Id": "26bdcd41-1bd5-41ee-b6d4-d5303aa070a0",
+    "make": "Jaguar",
+    "model": "XK",
+    "price": 42589,
+    "year": 2012,
+    "vin": "5J8TB18279A518716"
+  },
+  {
+    "Id": "b5c24b2d-2d0e-404c-9b52-11bbe096a273",
+    "make": "GMC",
+    "model": "Suburban 1500",
+    "price": 52516,
+    "year": 1994,
+    "vin": "2C3CDXJG9DH591070"
+  },
+  {
+    "Id": "ee94fc2f-8abb-49ce-ab83-065778981cc7",
+    "make": "Ford",
+    "model": "Mustang",
+    "price": 11006,
+    "year": 1989,
+    "vin": "WBAGK934X1D726385"
+  },
+  {
+    "Id": "bdf792e4-686e-42cc-8934-0360bac780a7",
+    "make": "Volvo",
+    "model": "C70",
+    "price": 56293,
+    "year": 2010,
+    "vin": "JN1AZ4EHXEM937778"
+  },
+  {
+    "Id": "2d88ddbb-eda5-4a99-9949-b677a02e3918",
+    "make": "Ford",
+    "model": "Ranger",
+    "price": 14869,
+    "year": 2004,
+    "vin": "5N1AA0NC5BN457330"
+  },
+  {
+    "Id": "79741372-ebb7-4ae4-8993-ac3b30d852bb",
+    "make": "GMC",
+    "model": "Canyon",
+    "price": 33288,
+    "year": 2011,
+    "vin": "3VW517AT5FM921296"
+  },
+  {
+    "Id": "03205fc9-054c-4e5d-8f2c-dc7b2eac7aa0",
+    "make": "Ford",
+    "model": "Excursion",
+    "price": 31779,
+    "year": 2005,
+    "vin": "WBAKB4C59CC038859"
+  },
+  {
+    "Id": "919ac483-475f-4620-9c2e-558d41929b75",
+    "make": "Isuzu",
+    "model": "Trooper",
+    "price": 22729,
+    "year": 1996,
+    "vin": "JTEBU4BF6CK556680"
+  },
+  {
+    "Id": "110323bd-abce-437b-97e5-29225b674a60",
+    "make": "GMC",
+    "model": "Jimmy",
+    "price": 51510,
+    "year": 2000,
+    "vin": "3C63DRKL9CG846583"
+  },
+  {
+    "Id": "e0817b26-91c5-4bf8-a5cb-c19b662c80dd",
+    "make": "Acura",
+    "model": "Integra",
+    "price": 15797,
+    "year": 1988,
+    "vin": "WAUAH78E38A236408"
+  },
+  {
+    "Id": "22bd1a74-07a3-48e4-9243-a34faf3270c8",
+    "make": "Dodge",
+    "model": "Viper RT/10",
+    "price": 32593,
+    "year": 1995,
+    "vin": "WBAUL7C59AV751804"
+  },
+  {
+    "Id": "0f72c7f4-e0aa-4ae1-b32b-dacf7d66cf68",
+    "make": "Lamborghini",
+    "model": "Diablo",
+    "price": 20512,
+    "year": 1998,
+    "vin": "WAUVC58E44A094505"
+  },
+  {
+    "Id": "6c75ddc9-4031-4e21-81a8-df2c82a376aa",
+    "make": "Mazda",
+    "model": "B-Series",
+    "price": 12439,
+    "year": 1991,
+    "vin": "JM1NC2EFXA0738928"
+  },
+  {
+    "Id": "91771198-ebae-429c-a2b5-bb7ca6cc28fb",
+    "make": "Ford",
+    "model": "F250",
+    "price": 34687,
+    "year": 1996,
+    "vin": "3FADP0L34AR214581"
+  },
+  {
+    "Id": "9ec50e03-9fb7-4dc1-bc79-6eb2cc87f3b5",
+    "make": "Saturn",
+    "model": "S-Series",
+    "price": 58193,
+    "year": 1993,
+    "vin": "KMHHT6KD3AU520325"
+  },
+  {
+    "Id": "1eea832d-a931-4aad-9861-916298ddc3f4",
+    "make": "Dodge",
+    "model": "Ram Van 2500",
+    "price": 46588,
+    "year": 1999,
+    "vin": "1FTEX1CM2DK182877"
+  },
+  {
+    "Id": "cee94de4-d444-470d-910c-f1b2a5c4bf01",
+    "make": "Mazda",
+    "model": "MX-6",
+    "price": 10357,
+    "year": 1989,
+    "vin": "3C4PDCAB0FT076396"
+  },
+  {
+    "Id": "ab1a8aac-2dd2-436b-9b15-cbc8abec9101",
+    "make": "Toyota",
+    "model": "Xtra",
+    "price": 36647,
+    "year": 1995,
+    "vin": "WAUKFBFL4DA838212"
+  },
+  {
+    "Id": "12f8c6c3-5550-4e28-adf6-f7632c18486c",
+    "make": "GMC",
+    "model": "1500",
+    "price": 35443,
+    "year": 1997,
+    "vin": "WAUVC68E35A582500"
+  },
+  {
+    "Id": "2714960a-9fe1-4964-b032-eef58730673f",
+    "make": "Nissan",
+    "model": "Versa",
+    "price": 17036,
+    "year": 2012,
+    "vin": "5TDBW5G10BS547241"
+  },
+  {
+    "Id": "69a52da7-470c-425d-afbb-b9925523012c",
+    "make": "Pontiac",
+    "model": "Montana SV6",
+    "price": 25915,
+    "year": 2005,
+    "vin": "3GYFNAE30ES450424"
+  },
+  {
+    "Id": "14b698f7-5d25-4459-afba-bb7580235c7c",
+    "make": "Chevrolet",
+    "model": "Monte Carlo",
+    "price": 10175,
+    "year": 2004,
+    "vin": "WAUXL58E84A993795"
+  },
+  {
+    "Id": "cb2d49f6-05e8-4c1b-a305-1a4ba087b2d0",
+    "make": "Ford",
+    "model": "Taurus",
+    "price": 28498,
+    "year": 2008,
+    "vin": "WAUFFAFM2CA381452"
+  },
+  {
+    "Id": "1889a31c-126a-4785-bad9-75a1bbc365c6",
+    "make": "Isuzu",
+    "model": "Rodeo",
+    "price": 47382,
+    "year": 1994,
+    "vin": "WAUVC58E53A319786"
+  },
+  {
+    "Id": "4b75a4f1-6059-4817-b00c-3c8a5e0ad7cd",
+    "make": "Honda",
+    "model": "CR-V",
+    "price": 35216,
+    "year": 2012,
+    "vin": "5UMCN93402L569400"
+  },
+  {
+    "Id": "fcb27916-da0b-45d0-b666-43b9ccf62d99",
+    "make": "Ford",
+    "model": "Crown Victoria",
+    "price": 21661,
+    "year": 2001,
+    "vin": "2G61R5S37E9693793"
+  },
+  {
+    "Id": "a12cb7f7-54f5-4e8c-a3af-bdd75267202e",
+    "make": "Toyota",
+    "model": "4Runner",
+    "price": 35205,
+    "year": 2001,
+    "vin": "1GKKRNED5CJ280458"
+  },
+  {
+    "Id": "deee3598-aa25-4600-b0d3-2751c54ed77d",
+    "make": "Nissan",
+    "model": "Cube",
+    "price": 53167,
+    "year": 2010,
+    "vin": "4T1BF1FKXFU434333"
+  },
+  {
+    "Id": "e47cf15c-1366-4b68-9e49-c65db1485a62",
+    "make": "Dodge",
+    "model": "Ram 3500",
+    "price": 26594,
+    "year": 2001,
+    "vin": "1G4GJ5E35CF006269"
+  },
+  {
+    "Id": "dc6388a4-81f0-410a-8941-a60d867751e9",
+    "make": "Cadillac",
+    "model": "DeVille",
+    "price": 22667,
+    "year": 1999,
+    "vin": "3C6LD5BT4CG976022"
+  },
+  {
+    "Id": "b3a15879-85bb-4941-a701-ec2cdb0ee5be",
+    "make": "Aston Martin",
+    "model": "V8 Vantage",
+    "price": 31864,
+    "year": 2010,
+    "vin": "WBAEU33414P072328"
+  },
+  {
+    "Id": "eac47428-0d40-4328-b00f-5698a22b764c",
+    "make": "Suzuki",
+    "model": "Esteem",
+    "price": 23567,
+    "year": 1999,
+    "vin": "5GADV23L06D761005"
+  },
+  {
+    "Id": "d31aafe8-2b05-4225-a463-379aa833ce53",
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "price": 11724,
+    "year": 2010,
+    "vin": "WBAFR7C59CC874637"
+  },
+  {
+    "Id": "66e61280-e024-4c65-8383-e150074ca87d",
+    "make": "Audi",
+    "model": "A6",
+    "price": 48905,
+    "year": 1999,
+    "vin": "WBANN73547C839551"
+  },
+  {
+    "Id": "85efce1f-acf3-47f8-935a-1e957889f728",
+    "make": "Nissan",
+    "model": "200SX",
+    "price": 10487,
+    "year": 1995,
+    "vin": "2G61P5S35D9422509"
+  },
+  {
+    "Id": "532a1074-ec9f-41a2-913c-5f22ed617b86",
+    "make": "Ford",
+    "model": "Econoline E350",
+    "price": 39691,
+    "year": 1994,
+    "vin": "1G6YX36D695195857"
+  },
+  {
+    "Id": "32f33ec3-4fb6-4bb5-9450-8750641f0121",
+    "make": "Toyota",
+    "model": "4Runner",
+    "price": 31808,
+    "year": 2004,
+    "vin": "3VW517AT1EM007142"
+  },
+  {
+    "Id": "7a2b1987-f5b7-4066-93b9-23c77a4b8f25",
+    "make": "Kia",
+    "model": "Sedona",
+    "price": 53346,
+    "year": 2002,
+    "vin": "JTDKN3DU0B0306725"
+  },
+  {
+    "Id": "899bd6b6-2f79-460a-bdd2-f3e27df82acc",
+    "make": "Nissan",
+    "model": "300ZX",
+    "price": 40408,
+    "year": 1994,
+    "vin": "WA1UFBFLXDA663695"
+  },
+  {
+    "Id": "fae327ff-2b7c-4313-a251-d0cc4166db22",
+    "make": "Ford",
+    "model": "F-350 Super Duty",
+    "price": 22739,
+    "year": 2006,
+    "vin": "WAUMGBFL1CA754515"
+  },
+  {
+    "Id": "b258ebde-99b9-422a-97f4-aade4ad788a4",
+    "make": "Volvo",
+    "model": "S60",
+    "price": 17939,
+    "year": 2004,
+    "vin": "SCBLF34F72C311392"
+  },
+  {
+    "Id": "bbd615d3-2c9a-43e0-b2e0-7eb734d7b466",
+    "make": "Volvo",
+    "model": "XC70",
+    "price": 14523,
+    "year": 2004,
+    "vin": "5TDDK3DC4FS277595"
+  },
+  {
+    "Id": "e0e5ea98-039c-4a7a-bd01-1385a48a7195",
+    "make": "Chevrolet",
+    "model": "Sportvan G10",
+    "price": 43639,
+    "year": 1993,
+    "vin": "WAUBFAFLXCA260562"
+  },
+  {
+    "Id": "394ab944-5966-4629-b435-2ca115e61885",
+    "make": "Suzuki",
+    "model": "Esteem",
+    "price": 38695,
+    "year": 1995,
+    "vin": "3VW4S7AT9EM798495"
+  },
+  {
+    "Id": "de791cbf-be9b-4eb9-be06-6409160c4908",
+    "make": "Maserati",
+    "model": "Coupe",
+    "price": 47586,
+    "year": 2006,
+    "vin": "WP0AA2A95ES523925"
+  },
+  {
+    "Id": "b0b6da9a-c244-473a-8316-d98683982bab",
+    "make": "GMC",
+    "model": "Savana 3500",
+    "price": 11606,
+    "year": 2010,
+    "vin": "5J8TB3H53EL775926"
+  },
+  {
+    "Id": "7175b62e-1b94-43f7-9ac9-4e7febc1a302",
+    "make": "Mercury",
+    "model": "Sable",
+    "price": 21166,
+    "year": 2000,
+    "vin": "1N6AD0CU2EN060599"
+  },
+  {
+    "Id": "f806df5c-bccb-4ad8-a59d-5e68f044ae18",
+    "make": "Mitsubishi",
+    "model": "Lancer Evolution",
+    "price": 25659,
+    "year": 2004,
+    "vin": "WDDHF2EB3DA144834"
+  },
+  {
+    "Id": "66915b23-3a79-46b5-80b6-7859cfbece29",
+    "make": "Dodge",
+    "model": "Viper",
+    "price": 14844,
+    "year": 1993,
+    "vin": "3D73M3HL3BG680160"
+  },
+  {
+    "Id": "480114ad-0709-4bc6-b1fa-e7b6d4749711",
+    "make": "Cadillac",
+    "model": "Seville",
+    "price": 23917,
+    "year": 2002,
+    "vin": "2T1KE4EE9CC776420"
+  },
+  {
+    "Id": "f221aad8-a904-44e1-ac5a-ae20566479ee",
+    "make": "Volkswagen",
+    "model": "Corrado",
+    "price": 10490,
+    "year": 1991,
+    "vin": "2C3CA4CG3BH949457"
+  },
+  {
+    "Id": "e4900c43-690e-4629-a160-2fd564661344",
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "price": 20621,
+    "year": 1995,
+    "vin": "WAUWGAFC6DN062361"
+  },
+  {
+    "Id": "489b5187-3cc2-4337-bdfe-7cf1723ce365",
+    "make": "Buick",
+    "model": "Rendezvous",
+    "price": 22880,
+    "year": 2003,
+    "vin": "WAURMAFD1EN152081"
+  },
+  {
+    "Id": "a58736fb-53d0-4495-aae6-8ed9b460d885",
+    "make": "Mercury",
+    "model": "Topaz",
+    "price": 15011,
+    "year": 1986,
+    "vin": "1D7RW3BKXBS235122"
+  },
+  {
+    "Id": "03a0181b-73d6-4622-a145-785dcb941c6c",
+    "make": "Kia",
+    "model": "Optima",
+    "price": 45724,
+    "year": 2005,
+    "vin": "WBAWB33598P922974"
+  },
+  {
+    "Id": "070675bc-7863-418c-ab08-5e820999738b",
+    "make": "Dodge",
+    "model": "Daytona",
+    "price": 42383,
+    "year": 1984,
+    "vin": "3FADP0L34BR117849"
+  },
+  {
+    "Id": "6c7a6c41-99fc-433b-a92a-33c3592de161",
+    "make": "Ford",
+    "model": "Explorer Sport",
+    "price": 42252,
+    "year": 2002,
+    "vin": "WBAPH5C55AA979955"
+  },
+  {
+    "Id": "2faeb6ab-381a-404d-8b21-e2d903baf41e",
+    "make": "Chevrolet",
+    "model": "Express 2500",
+    "price": 15504,
+    "year": 2000,
+    "vin": "1GYFC16299R392155"
+  },
+  {
+    "Id": "c4faaadb-7ebc-498d-bc07-4647ecab8ec3",
+    "make": "Audi",
+    "model": "100",
+    "price": 50418,
+    "year": 1993,
+    "vin": "WDDPK4HA3FF826494"
+  },
+  {
+    "Id": "33429c37-d8be-4b27-b370-e45a7c2b8450",
+    "make": "Mazda",
+    "model": "MX-5",
+    "price": 59686,
+    "year": 2008,
+    "vin": "WAUWGBFBXBN610520"
+  },
+  {
+    "Id": "4e5c11bd-4669-4c56-a895-b66038dccaac",
+    "make": "Suzuki",
+    "model": "Grand Vitara",
+    "price": 15938,
+    "year": 2006,
+    "vin": "WA1YD64B24N773724"
+  },
+  {
+    "Id": "dddf0dd5-1c60-4084-989c-f9b08d9d6913",
+    "make": "Chevrolet",
+    "model": "Silverado 1500",
+    "price": 31608,
+    "year": 2001,
+    "vin": "4A31K5DF1CE365883"
+  },
+  {
+    "Id": "581000fc-fbe2-49cd-802d-dae2ca9e3e6f",
+    "make": "Mercedes-Benz",
+    "model": "SL-Class",
+    "price": 29778,
+    "year": 1984,
+    "vin": "WAUKD98P36A724932"
+  },
+  {
+    "Id": "fda4b74b-47e8-4b68-859f-9199d76aeb59",
+    "make": "Dodge",
+    "model": "Ram Van 1500",
+    "price": 53971,
+    "year": 2002,
+    "vin": "JHMZF1C62CS321279"
+  },
+  {
+    "Id": "124e6d35-e8c8-454c-8396-6e05c5e67607",
+    "make": "BMW",
+    "model": "Z8",
+    "price": 43979,
+    "year": 2000,
+    "vin": "JTEBU5JR7D5809779"
+  },
+  {
+    "Id": "89d1ccdb-37d9-40fc-9360-9f2b720e2521",
+    "make": "Chevrolet",
+    "model": "Corvette",
+    "price": 19795,
+    "year": 2005,
+    "vin": "JHMZF1C64FS333843"
+  },
+  {
+    "Id": "53801310-bcfa-41f1-9a8d-1a19b4829c40",
+    "make": "Dodge",
+    "model": "Sprinter",
+    "price": 36230,
+    "year": 2009,
+    "vin": "1D7RE3GK9AS891922"
+  },
+  {
+    "Id": "75e5a474-ad33-4071-ac08-a5e80c3def36",
+    "make": "Mazda",
+    "model": "RX-8",
+    "price": 24503,
+    "year": 2004,
+    "vin": "SCBLC37F95C713875"
+  },
+  {
+    "Id": "e657fd75-b98e-44b7-94c9-d02d3e079041",
+    "make": "Pontiac",
+    "model": "Firefly",
+    "price": 25989,
+    "year": 1990,
+    "vin": "1C6RD6JT6CS560600"
+  },
+  {
+    "Id": "9a258312-b197-4a62-aebd-53fc89421b0d",
+    "make": "Volvo",
+    "model": "960",
+    "price": 31308,
+    "year": 1995,
+    "vin": "3N1AB7AP2FY721697"
+  },
+  {
+    "Id": "6f2576b7-05b8-4399-b5e4-232b785ec26d",
+    "make": "Mercedes-Benz",
+    "model": "300SE",
+    "price": 17975,
+    "year": 1992,
+    "vin": "1FTNX2A56AE466170"
+  },
+  {
+    "Id": "e15883dc-1f97-4133-a750-4356ec04b41e",
+    "make": "Nissan",
+    "model": "240SX",
+    "price": 51576,
+    "year": 1998,
+    "vin": "WBA3A9C56CF656613"
+  },
+  {
+    "Id": "7a0974f2-1f69-472a-b0b2-d9872d42d954",
+    "make": "Infiniti",
+    "model": "QX",
+    "price": 32527,
+    "year": 2001,
+    "vin": "1FMJK1G55EE783101"
+  },
+  {
+    "Id": "155efb18-e4d6-419d-aee3-22e63d1b575b",
+    "make": "Volkswagen",
+    "model": "Cabriolet",
+    "price": 20573,
+    "year": 1986,
+    "vin": "JH4DC53834S017696"
+  },
+  {
+    "Id": "6bd9fce5-96b1-4537-8531-109d91757b0d",
+    "make": "Porsche",
+    "model": "928",
+    "price": 39819,
+    "year": 1991,
+    "vin": "SALAB2D43BA508704"
+  },
+  {
+    "Id": "04bb0e15-d7d8-48db-884d-b4ee0b5f5cc4",
+    "make": "Dodge",
+    "model": "Neon",
+    "price": 59520,
+    "year": 2003,
+    "vin": "WAUUL78E55A020549"
+  },
+  {
+    "Id": "f087f853-bf23-4c0a-ab87-32b339987589",
+    "make": "Lincoln",
+    "model": "Town Car",
+    "price": 46717,
+    "year": 1994,
+    "vin": "ZHWGU5BR9EL063073"
+  },
+  {
+    "Id": "3ce6f1f8-ac25-4451-a859-16ccdfd673aa",
+    "make": "Suzuki",
+    "model": "SJ",
+    "price": 53375,
+    "year": 1991,
+    "vin": "JTDKDTB32C1484922"
+  },
+  {
+    "Id": "71c146c8-07c8-4b1d-b5f6-5a79678eb80c",
+    "make": "Nissan",
+    "model": "Maxima",
+    "price": 50280,
+    "year": 1992,
+    "vin": "JH4DC54806S532222"
+  },
+  {
+    "Id": "df1a625e-94e9-45b3-b901-dea2ef50b2e0",
+    "make": "Maserati",
+    "model": "Spyder",
+    "price": 22191,
+    "year": 1990,
+    "vin": "WAUSVAFA1AN321983"
+  },
+  {
+    "Id": "e8f9f374-5671-4008-9581-b4e9f14832be",
+    "make": "Chevrolet",
+    "model": "Suburban 2500",
+    "price": 40076,
+    "year": 1994,
+    "vin": "KNDJT2A59C7691588"
+  },
+  {
+    "Id": "7da3e19e-c036-4a48-bfb6-8620bb7e9bae",
+    "make": "Pontiac",
+    "model": "Vibe",
+    "price": 40998,
+    "year": 2008,
+    "vin": "WBA4B1C58FG247630"
+  },
+  {
+    "Id": "be6cc31f-8140-4397-a02c-ea3dd9c674ca",
+    "make": "Daewoo",
+    "model": "Leganza",
+    "price": 15750,
+    "year": 2002,
+    "vin": "1LNHL9FT9FG178954"
+  },
+  {
+    "Id": "ec8aec15-470b-428b-8771-76d91ed95125",
+    "make": "Nissan",
+    "model": "350Z",
+    "price": 48240,
+    "year": 2005,
+    "vin": "3GYFNKE44AS427740"
+  },
+  {
+    "Id": "9489249b-9485-478b-838b-bb740d725082",
+    "make": "Dodge",
+    "model": "Caravan",
+    "price": 17068,
+    "year": 2000,
+    "vin": "5BZAF0AA2FN921254"
+  },
+  {
+    "Id": "72812464-cc6d-4c8b-b7aa-b75ae217497d",
+    "make": "Chevrolet",
+    "model": "Equinox",
+    "price": 25840,
+    "year": 2007,
+    "vin": "JM1NC2JF9F0040176"
+  },
+  {
+    "Id": "47795124-600c-4733-b356-65c21e00d5db",
+    "make": "Mercedes-Benz",
+    "model": "W201",
+    "price": 19086,
+    "year": 1989,
+    "vin": "2C3CA5CV1AH340449"
+  },
+  {
+    "Id": "afd8e5ca-e7d4-4b56-a79c-99f3db116b2e",
+    "make": "Mitsubishi",
+    "model": "Mirage",
+    "price": 38414,
+    "year": 2001,
+    "vin": "5XXGM4A76DG382688"
+  },
+  {
+    "Id": "45531e6d-f74c-4c88-be39-59ec75577882",
+    "make": "Nissan",
+    "model": "Quest",
+    "price": 58376,
+    "year": 2009,
+    "vin": "SCFAD01A97G631266"
+  },
+  {
+    "Id": "c5d0c1d9-ed27-483a-8784-639c284dcb3b",
+    "make": "Hyundai",
+    "model": "Tiburon",
+    "price": 24309,
+    "year": 1998,
+    "vin": "JN8AZ2ND6F9139883"
+  },
+  {
+    "Id": "aad92e8a-d5a6-474f-973a-4be14a27e4fb",
+    "make": "Ford",
+    "model": "Explorer",
+    "price": 49711,
+    "year": 2000,
+    "vin": "WBANW5C51AC112585"
+  },
+  {
+    "Id": "9286e9a2-eb9a-4977-b352-d71b09b30466",
+    "make": "Nissan",
+    "model": "Sentra",
+    "price": 17744,
+    "year": 2006,
+    "vin": "JN1BV7APXFM523657"
+  },
+  {
+    "Id": "2786a743-b8ce-4578-800f-99551db2f823",
+    "make": "Pontiac",
+    "model": "Grand Prix Turbo",
+    "price": 55993,
+    "year": 1990,
+    "vin": "1G6DA5EY1B0385987"
+  },
+  {
+    "Id": "3cc79e7e-c52a-4a97-ac3a-299a92c6b4b6",
+    "make": "GMC",
+    "model": "Yukon XL 2500",
+    "price": 13977,
+    "year": 2010,
+    "vin": "3VW4A7AT9DM336214"
+  },
+  {
+    "Id": "24f30c9d-8d84-499d-9049-8e73ab74b628",
+    "make": "Volkswagen",
+    "model": "New Beetle",
+    "price": 39225,
+    "year": 1998,
+    "vin": "JTDZN3EUXFJ428506"
+  },
+  {
+    "Id": "f59116ab-7aec-48a3-b28b-5c6832389909",
+    "make": "Pontiac",
+    "model": "Bonneville",
+    "price": 37204,
+    "year": 1997,
+    "vin": "1D7RW3GK0BS626904"
+  },
+  {
+    "Id": "cd66d4d5-2af0-45a7-a2ac-521da47cbce9",
+    "make": "Pontiac",
+    "model": "Sunbird",
+    "price": 58384,
+    "year": 1991,
+    "vin": "2G61U5S30D9184643"
+  },
+  {
+    "Id": "a00aae17-c630-4d7c-800a-54bc30c30d6d",
+    "make": "Mercedes-Benz",
+    "model": "S-Class",
+    "price": 45690,
+    "year": 1985,
+    "vin": "19VDE3F32DE374816"
+  },
+  {
+    "Id": "b7e2d87e-26ef-4119-b102-d8ac15c50901",
+    "make": "Dodge",
+    "model": "Caravan",
+    "price": 12984,
+    "year": 1993,
+    "vin": "JTDKN3DP4C3862966"
+  },
+  {
+    "Id": "c426064f-df78-4990-95a0-b971b6fd2d2e",
+    "make": "Nissan",
+    "model": "300ZX",
+    "price": 21534,
+    "year": 1995,
+    "vin": "WAUUL78E15A445699"
+  },
+  {
+    "Id": "3ac257e9-7d47-4a92-a684-5d664a480925",
+    "make": "Mazda",
+    "model": "929",
+    "price": 14959,
+    "year": 1995,
+    "vin": "WAUWG74F49N153930"
+  },
+  {
+    "Id": "809aa9b8-f4ec-4dfc-ac65-3976656ec08c",
+    "make": "Pontiac",
+    "model": "Trans Sport",
+    "price": 15215,
+    "year": 1991,
+    "vin": "3GYEK62N46G511981"
+  },
+  {
+    "Id": "44d592a7-2875-4c5c-b954-f64632ea8f99",
+    "make": "Mazda",
+    "model": "RX-8",
+    "price": 27666,
+    "year": 2005,
+    "vin": "WBAVC93527K351268"
+  },
+  {
+    "Id": "76f7b62d-90bd-440f-be9f-e8c6793d97c3",
+    "make": "Jaguar",
+    "model": "XJ Series",
+    "price": 30741,
+    "year": 2004,
+    "vin": "5N1AN0NU1AC192168"
+  },
+  {
+    "Id": "462d13be-ae8a-4d06-b3d0-4c3c89d09098",
+    "make": "Hyundai",
+    "model": "Genesis Coupe",
+    "price": 13281,
+    "year": 2011,
+    "vin": "WA1VMBFP1EA847213"
+  },
+  {
+    "Id": "83546319-e033-41ce-b0bc-7691990eb97f",
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "price": 23293,
+    "year": 2001,
+    "vin": "WBALL5C57DJ238319"
+  },
+  {
+    "Id": "a7b00754-5f11-43b8-a0c8-db6f950626b0",
+    "make": "Mitsubishi",
+    "model": "Mighty Max",
+    "price": 36048,
+    "year": 1993,
+    "vin": "3VW517AT3EM138279"
+  },
+  {
+    "Id": "cef751f5-0114-45ba-81d0-0d12f186b1e0",
+    "make": "Acura",
+    "model": "MDX",
+    "price": 54943,
+    "year": 2006,
+    "vin": "5J8TB3H3XGL739796"
+  },
+  {
+    "Id": "d495ae04-9018-40dc-8c5b-a8a3b8f98ce1",
+    "make": "Lexus",
+    "model": "GX",
+    "price": 30366,
+    "year": 2008,
+    "vin": "19XFA1E34AE372224"
+  },
+  {
+    "Id": "5ceaedf3-0132-4fd1-ad2e-75c14bba7a37",
+    "make": "Mercury",
+    "model": "Villager",
+    "price": 34460,
+    "year": 1999,
+    "vin": "WAUGU44D33N912794"
+  },
+  {
+    "Id": "3bcf4acf-ebc4-42ec-8a39-5b21455f085d",
+    "make": "MINI",
+    "model": "Cooper",
+    "price": 36110,
+    "year": 2008,
+    "vin": "WAUFGAFC5EN817145"
+  },
+  {
+    "Id": "051b0482-a43b-4b48-9d4e-212c17abdc3a",
+    "make": "Volvo",
+    "model": "S70",
+    "price": 21002,
+    "year": 1998,
+    "vin": "1FTEW1CM8EF091853"
+  },
+  {
+    "Id": "e388b0f7-d51c-4223-833e-a75176540724",
+    "make": "Lincoln",
+    "model": "Blackwood",
+    "price": 21280,
+    "year": 2002,
+    "vin": "JN8AZ2KR4AT437814"
+  },
+  {
+    "Id": "4d3304b9-e340-4c2b-982f-7e0ebbe4e320",
+    "make": "Hyundai",
+    "model": "Elantra",
+    "price": 18484,
+    "year": 2006,
+    "vin": "5J8TB4H53GL920262"
+  },
+  {
+    "Id": "309ecf58-3e1c-4feb-9e75-0865121a9310",
+    "make": "Acura",
+    "model": "CL",
+    "price": 48505,
+    "year": 1997,
+    "vin": "2C3CCAST3CH265775"
+  },
+  {
+    "Id": "4b01863c-198b-4933-ac26-b3210bb6864a",
+    "make": "GMC",
+    "model": "Savana 3500",
+    "price": 22252,
+    "year": 2002,
+    "vin": "5GADV33W87D125644"
+  },
+  {
+    "Id": "7345c74c-7bb7-467e-b7fb-4923a0202a4a",
+    "make": "Saab",
+    "model": "9-7X",
+    "price": 45539,
+    "year": 2009,
+    "vin": "3GTU2YEJ9CG233810"
+  },
+  {
+    "Id": "83ee6d61-1a01-49d7-88b7-6ee63f020ce7",
+    "make": "Volvo",
+    "model": "C30",
+    "price": 24493,
+    "year": 2010,
+    "vin": "KNAGM4AD7C5561019"
+  },
+  {
+    "Id": "4897a2c3-26e3-4d18-8968-b222c18f8476",
+    "make": "Buick",
+    "model": "Regal",
+    "price": 37981,
+    "year": 1993,
+    "vin": "WVGAV3AX3DW402645"
+  },
+  {
+    "Id": "8865151e-fe5c-4c0b-a8b0-015678bb907e",
+    "make": "Nissan",
+    "model": "Pathfinder",
+    "price": 51313,
+    "year": 2006,
+    "vin": "4T1BF1FK5EU602796"
+  },
+  {
+    "Id": "7c41c797-b76a-43ff-8289-0fc397aeb527",
+    "make": "BMW",
+    "model": "6 Series",
+    "price": 32136,
+    "year": 2008,
+    "vin": "WBAAX13423P502165"
+  },
+  {
+    "Id": "c1bbbab7-10e8-4e49-ac05-4a9c50ad7cbf",
+    "make": "GMC",
+    "model": "Acadia",
+    "price": 41509,
+    "year": 2009,
+    "vin": "WAUPEAFMXCA500243"
+  },
+  {
+    "Id": "69c23ea4-cf0f-4c67-b63d-70e1216d031f",
+    "make": "Saab",
+    "model": "9000",
+    "price": 26782,
+    "year": 1999,
+    "vin": "1G6KE57Y92U555126"
+  },
+  {
+    "Id": "ed85e3b3-62f5-48bf-bc28-90bd7c4fdd24",
+    "make": "Land Rover",
+    "model": "Discovery",
+    "price": 55379,
+    "year": 2012,
+    "vin": "WAUHMBFC3EN806782"
+  },
+  {
+    "Id": "245fc0ad-1235-48c3-ba89-b7072a2c4e18",
+    "make": "Mazda",
+    "model": "MX-5",
+    "price": 24027,
+    "year": 2007,
+    "vin": "KNADM4A3XC6016551"
+  },
+  {
+    "Id": "671eae6a-9712-427f-83de-5f5747f96f01",
+    "make": "Mercedes-Benz",
+    "model": "M-Class",
+    "price": 21626,
+    "year": 2005,
+    "vin": "1C3CCBHG2CN545162"
+  },
+  {
+    "Id": "acdf59b4-a193-459d-82c1-0b7d00cfc11e",
+    "make": "Saab",
+    "model": "9-3",
+    "price": 48224,
+    "year": 2012,
+    "vin": "1D7RV1CT8BS063025"
+  },
+  {
+    "Id": "d8591cfb-9d64-4710-ab93-fd13ffd2c715",
+    "make": "Porsche",
+    "model": "911",
+    "price": 17771,
+    "year": 2000,
+    "vin": "19XFA1F28AE911224"
+  },
+  {
+    "Id": "2ddeb72d-c08d-4f0a-950b-0aac211c9a12",
+    "make": "Jaguar",
+    "model": "XF",
+    "price": 50401,
+    "year": 2009,
+    "vin": "1N6BF0KL1FN342810"
+  },
+  {
+    "Id": "8b33723c-bea8-459e-a48c-12ec95509c46",
+    "make": "Porsche",
+    "model": "Boxster",
+    "price": 33534,
+    "year": 2001,
+    "vin": "1D7RV1CT1BS247593"
+  },
+  {
+    "Id": "d0d40aee-5208-4ab4-8668-3f7f8690028d",
+    "make": "GMC",
+    "model": "Canyon",
+    "price": 27364,
+    "year": 2009,
+    "vin": "WA1BY94LX8D609203"
+  },
+  {
+    "Id": "69e634ae-ed0a-4740-802c-ce70755ac129",
+    "make": "Saab",
+    "model": "9-5",
+    "price": 12288,
+    "year": 2008,
+    "vin": "1GD120EG5BF561309"
+  },
+  {
+    "Id": "0cb2ffbf-13f2-44cb-9fa8-fa472e0f23f0",
+    "make": "Ford",
+    "model": "Fusion",
+    "price": 10753,
+    "year": 2013,
+    "vin": "JHMZE2H32CS989901"
+  },
+  {
+    "Id": "aec7c877-ad1d-4971-8222-e5592774951f",
+    "make": "Mitsubishi",
+    "model": "Diamante",
+    "price": 49498,
+    "year": 1996,
+    "vin": "WA1WKAFP4BA352326"
+  },
+  {
+    "Id": "85835fb1-35f9-4a0f-943e-87897cc96d35",
+    "make": "Audi",
+    "model": "S6",
+    "price": 32418,
+    "year": 2009,
+    "vin": "1G6KS54Y34U156826"
+  },
+  {
+    "Id": "a3920826-ef69-4501-85fa-14584f5119a1",
+    "make": "Lexus",
+    "model": "GS",
+    "price": 46230,
+    "year": 1995,
+    "vin": "3D7TT2CT8BG623554"
+  },
+  {
+    "Id": "6e1c8557-a532-4877-aa9d-8982760fd4b5",
+    "make": "Mitsubishi",
+    "model": "Chariot",
+    "price": 52989,
+    "year": 1990,
+    "vin": "1G6DP577570202441"
+  },
+  {
+    "Id": "4ca5eda6-6100-491e-aa17-fd7db4e4581d",
+    "make": "Chevrolet",
+    "model": "Silverado 1500",
+    "price": 41707,
+    "year": 2005,
+    "vin": "WBAFB33531L092926"
+  },
+  {
+    "Id": "c6836d81-cbf1-4153-b8c0-046b43ddaaa4",
+    "make": "Scion",
+    "model": "xB",
+    "price": 52968,
+    "year": 2005,
+    "vin": "WBAFZ9C52CC152776"
+  },
+  {
+    "Id": "061fed6b-732e-4687-9389-b53750ff2a55",
+    "make": "Mazda",
+    "model": "MPV",
+    "price": 10677,
+    "year": 1994,
+    "vin": "SCBFR7ZA8DC041620"
+  },
+  {
+    "Id": "874a1731-46e4-4dbe-8916-3d17857e97be",
+    "make": "Mitsubishi",
+    "model": "Excel",
+    "price": 51997,
+    "year": 1988,
+    "vin": "1GD21ZCG1BZ083810"
+  },
+  {
+    "Id": "7f0a1210-7b1e-4dbe-9c54-7cd8271d6ca8",
+    "make": "Volkswagen",
+    "model": "Touareg",
+    "price": 29880,
+    "year": 2004,
+    "vin": "2G4GR5GX0F9593860"
+  },
+  {
+    "Id": "e97239b2-4349-4235-9fdd-31f411bcd98d",
+    "make": "Mercury",
+    "model": "Sable",
+    "price": 49220,
+    "year": 1994,
+    "vin": "1FMCU0C70CK643489"
+  },
+  {
+    "Id": "cb9244e2-5b7b-4b6d-bc3d-afae06a1b172",
+    "make": "Ford",
+    "model": "Mustang",
+    "price": 13529,
+    "year": 1985,
+    "vin": "3VW4A7AT9DM141987"
+  },
+  {
+    "Id": "3a0ba306-24c9-4269-9106-eefb9a4c6dd8",
+    "make": "Lexus",
+    "model": "ES",
+    "price": 17190,
+    "year": 1994,
+    "vin": "WUATNAFG9EN969821"
+  },
+  {
+    "Id": "d3593c49-a44f-4993-8ac6-f79b1aecd9ec",
+    "make": "BMW",
+    "model": "8 Series",
+    "price": 17291,
+    "year": 1992,
+    "vin": "JH4DC54882C481881"
+  },
+  {
+    "Id": "6b51a61d-3b12-48e0-847a-a469a1bad5b2",
+    "make": "Chevrolet",
+    "model": "Corvette",
+    "price": 45468,
+    "year": 1999,
+    "vin": "JTHFN2EY5A9970427"
+  },
+  {
+    "Id": "8f9d14ab-212c-49f4-86a9-ad6974d8e436",
+    "make": "Volkswagen",
+    "model": "Scirocco",
+    "price": 12566,
+    "year": 1986,
+    "vin": "WAULL44E75N352386"
+  },
+  {
+    "Id": "45c0586a-a2aa-41a3-8929-f8f7d9e18021",
+    "make": "Audi",
+    "model": "RS 4",
+    "price": 53682,
+    "year": 2007,
+    "vin": "SALGS2TF3FA013079"
+  },
+  {
+    "Id": "04a7622b-8530-46fd-9df1-94bdd2902b6d",
+    "make": "Maserati",
+    "model": "430",
+    "price": 47615,
+    "year": 1990,
+    "vin": "WAUMFAFRXEA310196"
+  },
+  {
+    "Id": "a8d8bd34-5b1e-4986-a094-917a146709cd",
+    "make": "Volvo",
+    "model": "S90",
+    "price": 31400,
+    "year": 1998,
+    "vin": "2FMDK3GC9BB604301"
+  },
+  {
+    "Id": "f74d7576-6860-452a-9c81-0a166d27958f",
+    "make": "Honda",
+    "model": "Odyssey",
+    "price": 51273,
+    "year": 1996,
+    "vin": "NM0AE8F76F1092479"
+  },
+  {
+    "Id": "3be05889-65b3-4d2c-b073-f4d1ed3c8b46",
+    "make": "Kia",
+    "model": "Mohave/Borrego",
+    "price": 13003,
+    "year": 2009,
+    "vin": "WBA3R5C5XFK102617"
+  },
+  {
+    "Id": "4c86b82b-004b-4cc4-833f-6b849857ec35",
+    "make": "Volkswagen",
+    "model": "Rabbit",
+    "price": 45565,
+    "year": 2006,
+    "vin": "WAUJC68E84A806342"
+  },
+  {
+    "Id": "d3da6d02-e964-4938-93f0-e354ba260b7f",
+    "make": "Subaru",
+    "model": "Forester",
+    "price": 44056,
+    "year": 2004,
+    "vin": "1GD422CG1EF485653"
+  },
+  {
+    "Id": "5baefa4e-4edb-402d-a1be-de33f7fb0577",
+    "make": "Subaru",
+    "model": "Forester",
+    "price": 44456,
+    "year": 2005,
+    "vin": "WAUGL68E95A111928"
+  },
+  {
+    "Id": "ebf55480-0219-48e4-9569-2e79fef3cb3c",
+    "make": "Spyker",
+    "model": "C8 Spyder Wide Body",
+    "price": 30713,
+    "year": 2004,
+    "vin": "WAURD68D02A931047"
+  },
+  {
+    "Id": "ffd17391-c4e6-4822-9437-c5be89eb9098",
+    "make": "Volkswagen",
+    "model": "GTI",
+    "price": 17335,
+    "year": 2010,
+    "vin": "JN8AF5MRXFT942531"
+  },
+  {
+    "Id": "66cfdb14-bcaa-44b0-8794-569ef48cc2ef",
+    "make": "Chrysler",
+    "model": "Aspen",
+    "price": 16521,
+    "year": 2007,
+    "vin": "1FTEW1C87AK474008"
+  },
+  {
+    "Id": "a7a5b736-24f8-4375-9fe2-bf8bc7fe4451",
+    "make": "Jaguar",
+    "model": "XJ Series",
+    "price": 19347,
+    "year": 1997,
+    "vin": "WAUBGAFC5CN410843"
+  },
+  {
+    "Id": "8ef565c5-2d68-473a-a82c-692478f4a900",
+    "make": "Audi",
+    "model": "riolet",
+    "price": 48409,
+    "year": 1997,
+    "vin": "1GYS3HEFXER570452"
+  },
+  {
+    "Id": "7a8d3b39-2f09-47aa-ac80-c5e28e9742ab",
+    "make": "Suzuki",
+    "model": "Esteem",
+    "price": 17454,
+    "year": 1999,
+    "vin": "WBA5A5C55ED640709"
+  },
+  {
+    "Id": "b194f968-295d-4bb2-b957-50d96b56f5ae",
+    "make": "Chevrolet",
+    "model": "Caprice Classic",
+    "price": 39604,
+    "year": 1995,
+    "vin": "1G6DU6ED3B0675528"
+  },
+  {
+    "Id": "2ccd0b65-3c8d-43de-9798-98b89ea68df7",
+    "make": "Kia",
+    "model": "Sportage",
+    "price": 18646,
+    "year": 2005,
+    "vin": "WAUPL58E05A244118"
+  },
+  {
+    "Id": "e2d5534f-bb24-468e-b8a9-55ec8db29ef0",
+    "make": "Nissan",
+    "model": "Maxima",
+    "price": 43497,
+    "year": 2002,
+    "vin": "JTDBT4K39A1582500"
+  },
+  {
+    "Id": "94609e31-57ab-4e7f-85d7-3bf4b6ed9e49",
+    "make": "Lexus",
+    "model": "LS",
+    "price": 44035,
+    "year": 2001,
+    "vin": "1G6AH5S39E0231958"
+  },
+  {
+    "Id": "967f0c93-fd0e-4a1c-a4ec-7ec5de44655e",
+    "make": "Chrysler",
+    "model": "Prowler",
+    "price": 57141,
+    "year": 2002,
+    "vin": "WBAKE5C55CE830721"
+  },
+  {
+    "Id": "074a0eb5-b42a-409b-a82f-b27f047a2a5a",
+    "make": "Ford",
+    "model": "Taurus",
+    "price": 27154,
+    "year": 1991,
+    "vin": "WAUHFBFL0AN009457"
+  },
+  {
+    "Id": "bd092326-7ee1-4741-a646-af2d6d327bb8",
+    "make": "Geo",
+    "model": "Prizm",
+    "price": 41550,
+    "year": 1992,
+    "vin": "1N6AF0KX3EN028914"
+  },
+  {
+    "Id": "27793f6a-6c40-47f7-94ea-5ec67337a695",
+    "make": "Cadillac",
+    "model": "Fleetwood",
+    "price": 12297,
+    "year": 1996,
+    "vin": "JN1BJ0HP4EM608260"
+  },
+  {
+    "Id": "5b77e2b4-9966-4ce7-9070-535785dd6fec",
+    "make": "Suzuki",
+    "model": "Sidekick",
+    "price": 52239,
+    "year": 1993,
+    "vin": "WBAFU7C56BC509426"
+  },
+  {
+    "Id": "8ee36867-77e5-49d3-9c41-4ec2d7866546",
+    "make": "Chevrolet",
+    "model": "Cavalier",
+    "price": 59657,
+    "year": 2005,
+    "vin": "WBANB33555C076325"
+  },
+  {
+    "Id": "2f4a6570-0504-439f-bd96-f13552a5777f",
+    "make": "Nissan",
+    "model": "350Z",
+    "price": 56342,
+    "year": 2004,
+    "vin": "SCFHDDAJ0CA895950"
+  },
+  {
+    "Id": "4583b197-413d-493b-9629-546da5d409c4",
+    "make": "Jaguar",
+    "model": "XK",
+    "price": 37266,
+    "year": 2010,
+    "vin": "2FMHK6DC4AB980734"
+  },
+  {
+    "Id": "61e4ed6a-14ad-48f4-b0b1-f299e014131c",
+    "make": "Buick",
+    "model": "Riviera",
+    "price": 46574,
+    "year": 1998,
+    "vin": "WUADUAFG9AN329755"
+  },
+  {
+    "Id": "3e5a443f-008f-41a1-bbec-e09986e624da",
+    "make": "Suzuki",
+    "model": "SX4",
+    "price": 16190,
+    "year": 2010,
+    "vin": "4T1BK3DB4AU819325"
+  },
+  {
+    "Id": "8613f8f3-7c67-4ce8-931e-945aa567e82c",
+    "make": "Volvo",
+    "model": "240",
+    "price": 17193,
+    "year": 1993,
+    "vin": "JTHBL5EF1D5686521"
+  },
+  {
+    "Id": "16077699-015c-4fc2-9bde-30e08f14d840",
+    "make": "Dodge",
+    "model": "Ram 2500",
+    "price": 37254,
+    "year": 2001,
+    "vin": "WBA5B1C58FG317261"
+  },
+  {
+    "Id": "75e79e5a-e902-4910-a742-c297c48e4f95",
+    "make": "Dodge",
+    "model": "Neon",
+    "price": 15616,
+    "year": 2000,
+    "vin": "JH4CU2E81CC734093"
+  },
+  {
+    "Id": "b10d42c4-a9fc-4e11-959a-4cf0aae62ed6",
+    "make": "Chevrolet",
+    "model": "Camaro",
+    "price": 54051,
+    "year": 1978,
+    "vin": "1GD11ZCG4CF250384"
+  },
+  {
+    "Id": "20b7dab2-1cab-41db-9977-0e1554502dde",
+    "make": "Dodge",
+    "model": "Neon",
+    "price": 32155,
+    "year": 2000,
+    "vin": "JH4DC54893S892097"
+  },
+  {
+    "Id": "9c3d4403-69db-4f2a-9a48-e3b03739f16a",
+    "make": "Dodge",
+    "model": "Ram Van 3500",
+    "price": 30491,
+    "year": 2000,
+    "vin": "JM1DE1HY2B0311323"
+  },
+  {
+    "Id": "898c2b9f-1763-42a4-ac02-e2b28fd18f9d",
+    "make": "Ford",
+    "model": "Laser",
+    "price": 16555,
+    "year": 1985,
+    "vin": "WAULFAFH7AN013361"
+  },
+  {
+    "Id": "fe6dd99c-0339-42c2-85dd-e847df4b2dac",
+    "make": "Mercury",
+    "model": "Mystique",
+    "price": 14504,
+    "year": 1995,
+    "vin": "4T1BD1EB3DU534844"
+  },
+  {
+    "Id": "1a01f303-b45f-4f0e-a219-20619b15f834",
+    "make": "Scion",
+    "model": "tC",
+    "price": 39837,
+    "year": 2011,
+    "vin": "1C4AJWAGXEL393883"
+  },
+  {
+    "Id": "2cacd560-d9fa-4519-b0ed-2a013f213ad1",
+    "make": "Mercedes-Benz",
+    "model": "SLK-Class",
+    "price": 21928,
+    "year": 1999,
+    "vin": "3D73M3CL8BG450153"
+  },
+  {
+    "Id": "d14c728e-1c39-427d-a3f1-6b5e300cb8b7",
+    "make": "Chevrolet",
+    "model": "Sportvan G30",
+    "price": 34010,
+    "year": 1994,
+    "vin": "2HNYD18811H366757"
+  },
+  {
+    "Id": "73cc5ff9-95a7-4897-a0b0-c4b751ee5e0f",
+    "make": "Kia",
+    "model": "Sportage",
+    "price": 32374,
+    "year": 2011,
+    "vin": "3C3CFFAR4CT139281"
+  },
+  {
+    "Id": "e6cf6539-30d4-473c-aa93-de0d02dba48b",
+    "make": "Mitsubishi",
+    "model": "Eclipse",
+    "price": 26885,
+    "year": 1997,
+    "vin": "YV1612FH3E2943182"
+  },
+  {
+    "Id": "ce453307-49f5-483e-b015-7404d4fda503",
+    "make": "Chrysler",
+    "model": "Prowler",
+    "price": 21067,
+    "year": 2001,
+    "vin": "3TMJU4GN8EM776236"
+  },
+  {
+    "Id": "e356c5a5-4088-4d25-affd-55905920b7a4",
+    "make": "GMC",
+    "model": "2500 Club Coupe",
+    "price": 51954,
+    "year": 1996,
+    "vin": "WBAUC9C50DV254009"
+  },
+  {
+    "Id": "e4a791a9-18bb-46da-a05b-e7dd32b928b6",
+    "make": "Ford",
+    "model": "F350",
+    "price": 49708,
+    "year": 1993,
+    "vin": "1N6AD0CW4FN636776"
+  },
+  {
+    "Id": "ecb1e493-ad96-4fe7-bf83-71fecb5adae4",
+    "make": "Ford",
+    "model": "Expedition",
+    "price": 48240,
+    "year": 2007,
+    "vin": "1GTG5AE32F1057442"
+  },
+  {
+    "Id": "6ee694df-c1ee-422a-9f59-587492444851",
+    "make": "Ford",
+    "model": "Aerostar",
+    "price": 15415,
+    "year": 1990,
+    "vin": "5TFCY5F15CX264829"
+  },
+  {
+    "Id": "ef761d04-d715-4d39-be84-0608ab4c8d3c",
+    "make": "Kia",
+    "model": "Sportage",
+    "price": 36203,
+    "year": 2007,
+    "vin": "JN1CV6FE9DM015764"
+  },
+  {
+    "Id": "93d18cf0-10f4-4be7-b0c8-dd02ded7eed0",
+    "make": "GMC",
+    "model": "Yukon XL 2500",
+    "price": 26522,
+    "year": 2001,
+    "vin": "4T1BF1FK1CU832851"
+  },
+  {
+    "Id": "bc2ac8d5-defb-4c83-882c-39471a54134c",
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "price": 22141,
+    "year": 2000,
+    "vin": "WBADX1C55DJ842369"
+  },
+  {
+    "Id": "4231a9f4-1fbd-43db-91c8-4ea53d5084fa",
+    "make": "Chevrolet",
+    "model": "S10",
+    "price": 12496,
+    "year": 2001,
+    "vin": "1VWAH7A35EC073530"
+  },
+  {
+    "Id": "57bb670f-dc6e-447e-81f8-0e2b60d694bf",
+    "make": "Plymouth",
+    "model": "Colt",
+    "price": 37529,
+    "year": 1994,
+    "vin": "5GAKVDEDXCJ447674"
+  },
+  {
+    "Id": "6413bfe9-26a8-4035-b09a-4e7d8edb9ab8",
+    "make": "Dodge",
+    "model": "Ram Van 2500",
+    "price": 25452,
+    "year": 2003,
+    "vin": "1G6DP577X50958263"
+  },
+  {
+    "Id": "545a804a-2a79-42f4-9e32-b8700b49e36c",
+    "make": "Volvo",
+    "model": "XC70",
+    "price": 29533,
+    "year": 2005,
+    "vin": "5FRYD3H4XFB785541"
+  },
+  {
+    "Id": "d88fbc80-f0df-46a4-a329-1eb81092e066",
+    "make": "Subaru",
+    "model": "Baja",
+    "price": 13955,
+    "year": 2005,
+    "vin": "WAUHFAFLXDN641154"
+  },
+  {
+    "Id": "1c5729f1-8b29-48ac-88a5-5699cf480244",
+    "make": "Dodge",
+    "model": "Dakota",
+    "price": 18342,
+    "year": 1992,
+    "vin": "WAUCFAFH6EN122593"
+  },
+  {
+    "Id": "feb54879-a3ca-40e5-b39b-74f6d2b2239f",
+    "make": "Rolls-Royce",
+    "model": "Phantom",
+    "price": 54973,
+    "year": 2008,
+    "vin": "2CTALMEC4B6649787"
+  },
+  {
+    "Id": "c7c69280-de06-456d-a0ac-87431fc5b3df",
+    "make": "Mazda",
+    "model": "B-Series",
+    "price": 14829,
+    "year": 2003,
+    "vin": "WAUEH74F36N206413"
+  },
+  {
+    "Id": "413721de-1d89-40b7-80e6-e2c9b80b1daf",
+    "make": "Isuzu",
+    "model": "Ascender",
+    "price": 15797,
+    "year": 2005,
+    "vin": "WBA3C3C58EF576403"
+  },
+  {
+    "Id": "17b903a3-d3f3-462d-9373-6a1bdfc4458d",
+    "make": "Chevrolet",
+    "model": "S10",
+    "price": 24409,
+    "year": 1997,
+    "vin": "1C3BC8EG2BN797687"
+  },
+  {
+    "Id": "62109539-60cf-4a4c-ab58-4cc8209ad784",
+    "make": "Chevrolet",
+    "model": "Malibu",
+    "price": 15423,
+    "year": 2008,
+    "vin": "5FRYD4H87FB875772"
+  },
+  {
+    "Id": "9f515301-b402-4221-855e-53c08291beb6",
+    "make": "Volkswagen",
+    "model": "Golf",
+    "price": 17363,
+    "year": 1985,
+    "vin": "1G6AD5S32E0079081"
+  },
+  {
+    "Id": "ba6f9214-9df6-4c88-b69d-d4b25240b827",
+    "make": "Mazda",
+    "model": "Tribute",
+    "price": 39955,
+    "year": 2009,
+    "vin": "5UXFA93566L325468"
+  },
+  {
+    "Id": "411155c2-5478-4c0f-b7cf-21dac960f899",
+    "make": "Mercedes-Benz",
+    "model": "SLS AMG",
+    "price": 10191,
+    "year": 2011,
+    "vin": "2HKRM3H30CH359061"
+  },
+  {
+    "Id": "27de40db-b8e1-4986-ac4d-8a6da09d94b2",
+    "make": "Buick",
+    "model": "Century",
+    "price": 54100,
+    "year": 1992,
+    "vin": "3C63D3FL3CG162412"
+  },
+  {
+    "Id": "e91b8c58-9b28-4d48-9a0a-ad0f1ce4ff19",
+    "make": "GMC",
+    "model": "Yukon XL 2500",
+    "price": 36286,
+    "year": 2007,
+    "vin": "1GYFK43579R908144"
+  },
+  {
+    "Id": "8c24276c-f52d-4479-928d-5771a11c953f",
+    "make": "Audi",
+    "model": "80",
+    "price": 49042,
+    "year": 1992,
+    "vin": "1G6AL5S38E0763149"
+  },
+  {
+    "Id": "4652bbd7-83b9-4fc7-84a3-f0ad8d1ff667",
+    "make": "Lotus",
+    "model": "Esprit",
+    "price": 40653,
+    "year": 1986,
+    "vin": "WVGAV7AX5CW795313"
+  },
+  {
+    "Id": "fc5088ce-fb5c-425c-93b8-367d17eacdd0",
+    "make": "Volkswagen",
+    "model": "GTI",
+    "price": 40932,
+    "year": 2004,
+    "vin": "1G4GE5GD2BF768046"
+  },
+  {
+    "Id": "869f7912-9332-40d9-b6bc-e57a52c05224",
+    "make": "Isuzu",
+    "model": "Trooper",
+    "price": 11237,
+    "year": 1995,
+    "vin": "KMHGH4JH9EU182098"
+  },
+  {
+    "Id": "58610f8d-14eb-4fd7-a76e-81f31ae442aa",
+    "make": "Saturn",
+    "model": "S-Series",
+    "price": 17264,
+    "year": 2001,
+    "vin": "JA32U2FU0EU941062"
+  },
+  {
+    "Id": "a7795790-7995-46b3-a124-ace35a2dfb0a",
+    "make": "Land Rover",
+    "model": "Discovery Series II",
+    "price": 54764,
+    "year": 2001,
+    "vin": "1D7RB1CP3AS029360"
+  },
+  {
+    "Id": "1add7be0-ec81-4d84-ab5e-ff3dbe1a02b0",
+    "make": "Nissan",
+    "model": "Quest",
+    "price": 36226,
+    "year": 2004,
+    "vin": "WAULT58E52A927507"
+  },
+  {
+    "Id": "c43bf69e-44d3-44eb-a49d-980e469d402a",
+    "make": "Isuzu",
+    "model": "Stylus",
+    "price": 13140,
+    "year": 1992,
+    "vin": "JM1NC2LF7E0698011"
+  },
+  {
+    "Id": "6002c6f0-b225-4d8e-9381-8518ad2dfdaa",
+    "make": "Eagle",
+    "model": "Premier",
+    "price": 53460,
+    "year": 1992,
+    "vin": "5N1AR2MM7FC326514"
+  },
+  {
+    "Id": "944cfd5c-3ee5-4594-84f2-765eea7b62b9",
+    "make": "Mazda",
+    "model": "MPV",
+    "price": 41685,
+    "year": 1995,
+    "vin": "WAUEH98E86A767971"
+  },
+  {
+    "Id": "05962c5e-d6bf-479a-8295-f7c9f6733632",
+    "make": "Dodge",
+    "model": "Caravan",
+    "price": 26339,
+    "year": 1996,
+    "vin": "WAULD54B63N982552"
+  },
+  {
+    "Id": "c5a981f9-b75f-4163-a1ae-b2861193cbab",
+    "make": "Mitsubishi",
+    "model": "Outlander",
+    "price": 30961,
+    "year": 2011,
+    "vin": "SAJWA6AT8F8599714"
+  },
+  {
+    "Id": "6d039eef-486e-4dd8-9bb5-e1c305811b46",
+    "make": "Daihatsu",
+    "model": "Charade",
+    "price": 57997,
+    "year": 1992,
+    "vin": "WBY2Z2C54FV722955"
+  },
+  {
+    "Id": "b840aa29-405b-42e0-bc76-8be37a29f26b",
+    "make": "Toyota",
+    "model": "MR2",
+    "price": 41492,
+    "year": 2004,
+    "vin": "KNDJT2A2XD7948880"
+  },
+  {
+    "Id": "ada78155-e31e-41e0-9587-5daac6cb5570",
+    "make": "Mazda",
+    "model": "Mazda5",
+    "price": 26762,
+    "year": 2007,
+    "vin": "5GAKVCKD7FJ523824"
+  },
+  {
+    "Id": "8353ab9f-b2b4-44e6-95b9-db03d818347c",
+    "make": "Suzuki",
+    "model": "SJ",
+    "price": 27450,
+    "year": 1991,
+    "vin": "JHMFA3F22AS090175"
+  },
+  {
+    "Id": "4289a040-a3ed-43bc-8774-f320e2243fe1",
+    "make": "Dodge",
+    "model": "Charger",
+    "price": 13345,
+    "year": 2009,
+    "vin": "3VW517AT6EM808049"
+  },
+  {
+    "Id": "25d571e9-6191-4737-a6d6-6da802c35f6d",
+    "make": "Dodge",
+    "model": "Ramcharger",
+    "price": 42991,
+    "year": 1993,
+    "vin": "JH4CL96828C800703"
+  },
+  {
+    "Id": "03ea6ea8-d3a5-4a43-af4f-b3ccd6aa6c62",
+    "make": "Suzuki",
+    "model": "X-90",
+    "price": 18633,
+    "year": 1997,
+    "vin": "WAUXG74FX9N458207"
+  },
+  {
+    "Id": "aed98b7f-9036-4a3f-91c2-eeb2dd740610",
+    "make": "Chevrolet",
+    "model": "Tracker",
+    "price": 34494,
+    "year": 1999,
+    "vin": "JTDKN3DU4B0799339"
+  },
+  {
+    "Id": "b70e50fb-7a75-49e4-80d1-cec35bf7c2e6",
+    "make": "Chevrolet",
+    "model": "Silverado 1500",
+    "price": 27161,
+    "year": 2011,
+    "vin": "WBAUN7C50DV897409"
+  },
+  {
+    "Id": "13fe05a5-f0bc-46f3-b3a2-e689c213aaed",
+    "make": "Subaru",
+    "model": "Impreza",
+    "price": 40631,
+    "year": 2004,
+    "vin": "5N1AR2MM6FC472807"
+  },
+  {
+    "Id": "fbd5d802-8d17-47b5-9133-c66ae4ce6298",
+    "make": "Fairthorpe",
+    "model": "Rockette",
+    "price": 11796,
+    "year": 1960,
+    "vin": "2G4WB55K021734944"
+  },
+  {
+    "Id": "309c9cc5-29b2-43e1-aa28-4e9158dedb12",
+    "make": "Maserati",
+    "model": "Quattroporte",
+    "price": 55747,
+    "year": 2011,
+    "vin": "WP0CA2A84BS352922"
+  },
+  {
+    "Id": "e748a74e-ecf7-4575-925d-4e56c01f2b9c",
+    "make": "Subaru",
+    "model": "Tribeca",
+    "price": 27757,
+    "year": 2012,
+    "vin": "1G6AH5S37D0973046"
+  },
+  {
+    "Id": "c763dca4-3c10-494c-ba81-5bf8d435e626",
+    "make": "Ford",
+    "model": "Explorer",
+    "price": 19114,
+    "year": 2006,
+    "vin": "1VWAH7A31EC334619"
+  },
+  {
+    "Id": "69044299-0594-4daf-b8fe-7212ee43dc85",
+    "make": "Volkswagen",
+    "model": "GTI",
+    "price": 12285,
+    "year": 2007,
+    "vin": "19UUA8F7XCA616256"
+  },
+  {
+    "Id": "747e0eb2-ee21-4588-9be1-5322c7b49736",
+    "make": "Mercury",
+    "model": "Sable",
+    "price": 40916,
+    "year": 1992,
+    "vin": "2B3CA9CV2AH618098"
+  },
+  {
+    "Id": "0e6d3c88-a6c8-478d-93c4-0342868cf8b3",
+    "make": "Mercury",
+    "model": "Grand Marquis",
+    "price": 36278,
+    "year": 2004,
+    "vin": "1G6DL8EG1A0273305"
+  },
+  {
+    "Id": "55318b6c-2797-40a4-8d88-bde6b3c2d44c",
+    "make": "Lexus",
+    "model": "LS",
+    "price": 38167,
+    "year": 2000,
+    "vin": "5UXZV4C57DL793260"
+  },
+  {
+    "Id": "996f23dc-8fc3-429f-800b-89c606e042f6",
+    "make": "Mazda",
+    "model": "MX-5",
+    "price": 51588,
+    "year": 1998,
+    "vin": "WAUVC68E64A317911"
+  },
+  {
+    "Id": "3b131898-59ea-4079-8db4-220452d99455",
+    "make": "Saab",
+    "model": "9-7X",
+    "price": 33117,
+    "year": 2006,
+    "vin": "WAULT58E55A499023"
+  },
+  {
+    "Id": "5fe91dce-84d9-4efc-9e6a-0d1350a3a268",
+    "make": "Acura",
+    "model": "NSX",
+    "price": 18096,
+    "year": 1993,
+    "vin": "WVWED7AJ2DW280176"
+  },
+  {
+    "Id": "672911df-01f4-419e-bfa3-44ca1efac45e",
+    "make": "Ford",
+    "model": "Crown Victoria",
+    "price": 24917,
+    "year": 1999,
+    "vin": "1N6AF0LX2EN901969"
+  },
+  {
+    "Id": "76d91bea-3b31-4998-ae2f-dd6bdafba272",
+    "make": "Kia",
+    "model": "Rio",
+    "price": 18201,
+    "year": 2002,
+    "vin": "WP0AB2A80CU979174"
+  },
+  {
+    "Id": "30534334-225d-4625-bc3e-44455a8c9736",
+    "make": "Lotus",
+    "model": "Elise",
+    "price": 35190,
+    "year": 2004,
+    "vin": "JN8AF5MR9ET877315"
+  },
+  {
+    "Id": "5f24ca94-ed90-41ec-a7fc-53dd7b9eeaa8",
+    "make": "Chevrolet",
+    "model": "Aveo",
+    "price": 25242,
+    "year": 2010,
+    "vin": "JTDKTUD3XED555565"
+  },
+  {
+    "Id": "ad494265-df57-49d8-890c-d64ff66033d2",
+    "make": "Plymouth",
+    "model": "Colt Vista",
+    "price": 31636,
+    "year": 1994,
+    "vin": "JTDZN3EU1D3666942"
+  },
+  {
+    "Id": "de6209f3-44b2-4233-8e4f-6c24355526c3",
+    "make": "Chevrolet",
+    "model": "Tracker",
+    "price": 11569,
+    "year": 2000,
+    "vin": "SCBLC43F95C135093"
+  },
+  {
+    "Id": "31377a8d-ff33-4eb1-96b5-f8deb8fbf8e7",
+    "make": "BMW",
+    "model": "530",
+    "price": 31501,
+    "year": 2005,
+    "vin": "WBAUT93559A332394"
+  },
+  {
+    "Id": "e3d37a48-a6ec-4b59-a744-b2100fc3bb1b",
+    "make": "Nissan",
+    "model": "Frontier",
+    "price": 33164,
+    "year": 2005,
+    "vin": "WAUDH94F87N447943"
+  },
+  {
+    "Id": "6750d4bf-bd92-42ef-a71a-1569e34f11e9",
+    "make": "Chevrolet",
+    "model": "Avalanche 2500",
+    "price": 21435,
+    "year": 2006,
+    "vin": "1GYFK23239R154847"
+  },
+  {
+    "Id": "0d6a58f1-3d3d-4e40-94fe-1e0c65967889",
+    "make": "BMW",
+    "model": "6 Series",
+    "price": 30092,
+    "year": 2010,
+    "vin": "SCBLC47J79C089428"
+  },
+  {
+    "Id": "3036b7c1-4513-4264-a44f-0cbb161a35f1",
+    "make": "Chevrolet",
+    "model": "Suburban",
+    "price": 56865,
+    "year": 2009,
+    "vin": "SAJWA1C75D8495942"
+  },
+  {
+    "Id": "b7dcfab7-ae64-4327-9247-6420e2bd02b4",
+    "make": "BMW",
+    "model": "M",
+    "price": 54150,
+    "year": 2000,
+    "vin": "WAUVT58E25A655849"
+  },
+  {
+    "Id": "0e988606-4fd0-4c0d-80b7-6c2642253250",
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "price": 35761,
+    "year": 2009,
+    "vin": "JN8AF5MV9FT554638"
+  },
+  {
+    "Id": "a6616ff7-a6b2-40e6-bc13-f122f93c3c2a",
+    "make": "Acura",
+    "model": "TL",
+    "price": 54891,
+    "year": 2006,
+    "vin": "1FTWX3D53AE237094"
+  },
+  {
+    "Id": "97ffb252-285d-4ce8-ad35-0955b8579776",
+    "make": "Mazda",
+    "model": "Protege",
+    "price": 16432,
+    "year": 1994,
+    "vin": "1D4PU6GXXBW811414"
+  },
+  {
+    "Id": "c70a61b1-30d6-44f2-86a4-e1401e39ab29",
+    "make": "Pontiac",
+    "model": "Grand Prix",
+    "price": 32318,
+    "year": 1972,
+    "vin": "JH4DC53893C587078"
+  },
+  {
+    "Id": "c6a73f11-e89c-46a8-8403-dc001321bc01",
+    "make": "Hummer",
+    "model": "H1",
+    "price": 40495,
+    "year": 2000,
+    "vin": "WDDEJ7GB5AA937172"
+  },
+  {
+    "Id": "b16a07bb-d8aa-4761-88bc-2e6633ce2fb8",
+    "make": "Mazda",
+    "model": "323",
+    "price": 12351,
+    "year": 1994,
+    "vin": "WBAUT9C50AA236578"
+  },
+  {
+    "Id": "a2bfcf85-f1c9-4264-9b36-f7352efe91b1",
+    "make": "Mitsubishi",
+    "model": "Mighty Max",
+    "price": 43580,
+    "year": 1986,
+    "vin": "1C4RDHAG8DC118338"
+  },
+  {
+    "Id": "afe9a868-8698-4af7-b3ad-bdb90df2881c",
+    "make": "Lincoln",
+    "model": "MKX",
+    "price": 58129,
+    "year": 2008,
+    "vin": "WDDPK4HA2FF092625"
+  },
+  {
+    "Id": "a92d95bb-ef3f-4a35-8ee6-a690b9697855",
+    "make": "BMW",
+    "model": "Z4",
+    "price": 11253,
+    "year": 2010,
+    "vin": "3FADP4AJ3BM279185"
+  },
+  {
+    "Id": "c3495cfd-044a-4ea7-8bc8-0e283df896ae",
+    "make": "Volvo",
+    "model": "C70",
+    "price": 44466,
+    "year": 2012,
+    "vin": "2C3CDXFG4DH976593"
+  },
+  {
+    "Id": "4a805ac3-8a7b-4ec0-bf2d-037c1c4ef291",
+    "make": "Kia",
+    "model": "Sedona",
+    "price": 17221,
+    "year": 2002,
+    "vin": "1G6DM5E33C0184752"
+  },
+  {
+    "Id": "05fe5a60-681f-467a-a276-d86052f60df8",
+    "make": "Bentley",
+    "model": "Continental GTC",
+    "price": 47980,
+    "year": 2008,
+    "vin": "1G4GD5EG2AF324177"
+  },
+  {
+    "Id": "9f1f45d9-0767-44ff-a2d2-f326ae956b84",
+    "make": "Buick",
+    "model": "Coachbuilder",
+    "price": 53698,
+    "year": 1990,
+    "vin": "1GYFK53219R720750"
+  },
+  {
+    "Id": "6b1d117d-4df8-4cf8-8c41-e84e91b3f7f2",
+    "make": "Toyota",
+    "model": "Land Cruiser",
+    "price": 22831,
+    "year": 2002,
+    "vin": "WAUAFAFL6DN977269"
+  },
+  {
+    "Id": "63b465e6-5a44-40ec-b373-a89fa2c92bf9",
+    "make": "Mercedes-Benz",
+    "model": "300CE",
+    "price": 46010,
+    "year": 1992,
+    "vin": "4JGBB2FB5BA658185"
+  },
+  {
+    "Id": "1b740858-4740-4ae5-b805-4cc59b699d88",
+    "make": "Mitsubishi",
+    "model": "Mighty Max",
+    "price": 36050,
+    "year": 1986,
+    "vin": "1G4HD57267U227784"
+  },
+  {
+    "Id": "67bd2b87-bfc5-484e-b5cc-47ad156364be",
+    "make": "Volvo",
+    "model": "960",
+    "price": 29772,
+    "year": 1995,
+    "vin": "WVGAV7AX9FW069166"
+  },
+  {
+    "Id": "d95873c7-9568-4d81-88a6-ab4d5d35850c",
+    "make": "Ford",
+    "model": "Fiesta",
+    "price": 34780,
+    "year": 2011,
+    "vin": "3VW517AT9FM554659"
+  },
+  {
+    "Id": "6a64d828-24f3-4900-96f6-28d630865510",
+    "make": "Mitsubishi",
+    "model": "Diamante",
+    "price": 42860,
+    "year": 2001,
+    "vin": "SAJWA2EK2EM967806"
+  },
+  {
+    "Id": "9a9836b5-6761-44a3-93e8-5a223a52fd32",
+    "make": "Mitsubishi",
+    "model": "Diamante",
+    "price": 36770,
+    "year": 1995,
+    "vin": "WAUDL54F35N355725"
+  },
+  {
+    "Id": "0500b361-e504-4001-967e-1b1e6dc2928b",
+    "make": "GMC",
+    "model": "Yukon Denali",
+    "price": 49353,
+    "year": 2000,
+    "vin": "1N6AA0EC1FN597592"
+  },
+  {
+    "Id": "c2879a46-b26a-4a2f-aedf-77430130b01a",
+    "make": "Mazda",
+    "model": "Protege",
+    "price": 34634,
+    "year": 1997,
+    "vin": "SCBGU3ZA6EC563921"
+  },
+  {
+    "Id": "6b090005-0171-4636-80d8-ffe6e2bd7386",
+    "make": "Toyota",
+    "model": "Camry",
+    "price": 23495,
+    "year": 1995,
+    "vin": "1FTEX1CM8BF213071"
+  },
+  {
+    "Id": "a791bce8-12c5-4c8e-93b1-cecf6d0c38d1",
+    "make": "GMC",
+    "model": "Envoy",
+    "price": 57474,
+    "year": 1999,
+    "vin": "WAUDG58E65A147352"
+  },
+  {
+    "Id": "653a4c03-a2cb-4bdd-9783-63a8cde3c94d",
+    "make": "Ford",
+    "model": "F350",
+    "price": 21079,
+    "year": 1992,
+    "vin": "1G4HR54K624948363"
+  },
+  {
+    "Id": "4c09011a-6c72-4ffd-945c-921974ad2b8c",
+    "make": "BMW",
+    "model": "M5",
+    "price": 26078,
+    "year": 1993,
+    "vin": "WBAYM1C50ED411187"
+  },
+  {
+    "Id": "85ded7d1-80d4-403b-9729-a50547c43148",
+    "make": "Chevrolet",
+    "model": "Volt",
+    "price": 29758,
+    "year": 2011,
+    "vin": "1GTN1UEH3FZ402849"
+  },
+  {
+    "Id": "e21bf760-1442-4da7-b5d5-5f2f7e5f0609",
+    "make": "GMC",
+    "model": "Savana 3500",
+    "price": 33840,
+    "year": 2008,
+    "vin": "SALVP2BG0FH592980"
+  },
+  {
+    "Id": "1f58bf42-c831-42d2-83a0-f3b52d95a86e",
+    "make": "Ford",
+    "model": "Ranger",
+    "price": 43139,
+    "year": 2003,
+    "vin": "2T1KE4EE7CC863314"
+  },
+  {
+    "Id": "c0c74395-5c3f-4dc1-9708-cd5ef845696c",
+    "make": "Dodge",
+    "model": "Ram 2500",
+    "price": 38285,
+    "year": 2000,
+    "vin": "SCFFDABE9CG062104"
+  },
+  {
+    "Id": "3ab43662-845e-4a2a-b6e4-59219fe8df07",
+    "make": "BMW",
+    "model": "600",
+    "price": 52449,
+    "year": 1958,
+    "vin": "WAUAF68E65A083633"
+  },
+  {
+    "Id": "e03caf81-be3f-4d95-99cd-5218d2727ddc",
+    "make": "Subaru",
+    "model": "Impreza",
+    "price": 30326,
+    "year": 2008,
+    "vin": "1GYS4LKJ7FR501986"
+  },
+  {
+    "Id": "6defee30-429d-4b69-96ef-c3dd9b80cc28",
+    "make": "Chevrolet",
+    "model": "Sportvan G20",
+    "price": 13642,
+    "year": 1992,
+    "vin": "3C3CFFHH8ET422086"
+  },
+  {
+    "Id": "5c598d5e-a0ec-4d6c-85ea-eaa3be33427e",
+    "make": "Lincoln",
+    "model": "Town Car",
+    "price": 24486,
+    "year": 2006,
+    "vin": "WAUEL74F96N449559"
+  },
+  {
+    "Id": "ea7966f8-109e-48a4-8bae-daf1195b29f1",
+    "make": "Porsche",
+    "model": "911",
+    "price": 26007,
+    "year": 1989,
+    "vin": "5XYZG3AB3BG952539"
+  },
+  {
+    "Id": "bdfb969c-6624-4b6a-8257-f07cc22cf683",
+    "make": "Land Rover",
+    "model": "Discovery",
+    "price": 29047,
+    "year": 2008,
+    "vin": "SALME1D44AA670922"
+  },
+  {
+    "Id": "ec3e33f4-1465-4986-b61a-ef015251f764",
+    "make": "Mitsubishi",
+    "model": "Mirage",
+    "price": 12349,
+    "year": 1986,
+    "vin": "1FMJK2A51AE808293"
+  },
+  {
+    "Id": "10d0f764-d5cd-41ae-8fe7-b4c0721e7331",
+    "make": "Audi",
+    "model": "4000",
+    "price": 55910,
+    "year": 1987,
+    "vin": "3C3CFFHH3FT327579"
+  },
+  {
+    "Id": "52520b4e-d1a1-4089-8913-7d7e98b807a0",
+    "make": "Chevrolet",
+    "model": "Colorado",
+    "price": 45158,
+    "year": 2012,
+    "vin": "WBAEW53423P563429"
+  },
+  {
+    "Id": "c8cffae1-1672-4b69-9424-9b7679bfaa92",
+    "make": "Ford",
+    "model": "Focus",
+    "price": 33358,
+    "year": 2001,
+    "vin": "WBSBR93422P119186"
+  },
+  {
+    "Id": "e38eab9b-4972-441d-b52f-9ae0a70bb93f",
+    "make": "Volkswagen",
+    "model": "GTI",
+    "price": 21921,
+    "year": 2009,
+    "vin": "KNALN4D75F5531023"
+  },
+  {
+    "Id": "f017c5e7-d022-4a3e-bb07-1bec9303d58c",
+    "make": "Volvo",
+    "model": "740",
+    "price": 36484,
+    "year": 1992,
+    "vin": "2G4GT5GX7F9264283"
+  },
+  {
+    "Id": "c43a3ce7-e895-4592-8150-d0be86118de1",
+    "make": "Ford",
+    "model": "F150",
+    "price": 51674,
+    "year": 2012,
+    "vin": "5UXFG2C55BL743374"
+  },
+  {
+    "Id": "606da177-ce1d-4ebd-be2b-174833e0de29",
+    "make": "Audi",
+    "model": "4000CS Quattro",
+    "price": 23234,
+    "year": 1987,
+    "vin": "1GKS1CE05ER261082"
+  },
+  {
+    "Id": "0546f337-89da-4018-870c-f1e8ed06d441",
+    "make": "BMW",
+    "model": "M5",
+    "price": 12742,
+    "year": 2008,
+    "vin": "1G6KE57Y72U126602"
+  },
+  {
+    "Id": "9794c7a3-2243-4dcf-8cff-0f1fdd7e4db5",
+    "make": "Lexus",
+    "model": "IS",
+    "price": 28645,
+    "year": 2002,
+    "vin": "1G6DL8EG8A0615459"
+  },
+  {
+    "Id": "4a6b1f6d-d9e5-4db3-9634-db4fcc1239f6",
+    "make": "Ford",
+    "model": "F250",
+    "price": 17293,
+    "year": 2004,
+    "vin": "WAUAFAFC7CN822289"
+  },
+  {
+    "Id": "2a3cf72f-e25b-4e65-8e02-ddc96d7fe665",
+    "make": "Lexus",
+    "model": "ES",
+    "price": 20173,
+    "year": 2003,
+    "vin": "WBADT63482C258775"
+  },
+  {
+    "Id": "0712078e-2e65-4748-ad7d-2568120fc168",
+    "make": "Ford",
+    "model": "Laser",
+    "price": 50933,
+    "year": 1989,
+    "vin": "1G6DP8ED4B0840487"
+  },
+  {
+    "Id": "dfe0b7d0-250d-492f-947c-6ec41f7882cb",
+    "make": "Chevrolet",
+    "model": "Camaro",
+    "price": 48110,
+    "year": 2000,
+    "vin": "WBA3B1C58DF786781"
+  },
+  {
+    "Id": "82c42392-59fb-4ffb-8542-cff32323f0ba",
+    "make": "Dodge",
+    "model": "Ram Van B250",
+    "price": 15016,
+    "year": 1992,
+    "vin": "1G6ET12911B826220"
+  },
+  {
+    "Id": "660baa4e-42a6-4e34-9dbb-6402e4ea52e9",
+    "make": "Ford",
+    "model": "F250",
+    "price": 51003,
+    "year": 2003,
+    "vin": "WBAKB0C5XCC278785"
+  },
+  {
+    "Id": "a2f6feca-d04c-4d0c-ba6f-46de909bcbff",
+    "make": "Mazda",
+    "model": "MX-5",
+    "price": 53828,
+    "year": 2008,
+    "vin": "19XFB2F52FE728017"
+  },
+  {
+    "Id": "349653bd-e787-4af9-957b-1af82afebf57",
+    "make": "Audi",
+    "model": "Q5",
+    "price": 16979,
+    "year": 2010,
+    "vin": "WBANF73506C175129"
+  },
+  {
+    "Id": "ee0d71ba-862a-466e-bce1-30c9829c6ff6",
+    "make": "Plymouth",
+    "model": "Neon",
+    "price": 59103,
+    "year": 1996,
+    "vin": "WVGAV7AX7CW346957"
+  },
+  {
+    "Id": "329a7be6-0d5a-484e-a630-ef2c057b329d",
+    "make": "Nissan",
+    "model": "Xterra",
+    "price": 42227,
+    "year": 2002,
+    "vin": "WBAPL5G58BN283657"
+  },
+  {
+    "Id": "40e39246-48db-40bb-9388-41cd61b3f18e",
+    "make": "Hyundai",
+    "model": "Tiburon",
+    "price": 40262,
+    "year": 2003,
+    "vin": "WAUKH78E37A983820"
+  },
+  {
+    "Id": "3e638e71-7909-43c4-aff5-1fcf7bf8fdc8",
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "price": 13971,
+    "year": 2011,
+    "vin": "WAUHFAFL4AA828070"
+  },
+  {
+    "Id": "139be609-4c24-4003-b471-d2c9ac1630e6",
+    "make": "Nissan",
+    "model": "Frontier",
+    "price": 54004,
+    "year": 2011,
+    "vin": "WBAAW33421E677569"
+  },
+  {
+    "Id": "5e3d6abb-96f1-4409-b427-14cb10d61a38",
+    "make": "Suzuki",
+    "model": "Swift",
+    "price": 55362,
+    "year": 2000,
+    "vin": "3G5DA03EX4S807752"
+  },
+  {
+    "Id": "451fe0bc-9558-4f75-8e08-649720b54108",
+    "make": "Saab",
+    "model": "9-5",
+    "price": 13105,
+    "year": 2009,
+    "vin": "JH4KA96684C740663"
+  },
+  {
+    "Id": "c7a7457e-f90d-4f43-83b2-f2563b8ddf76",
+    "make": "GMC",
+    "model": "1500 Club Coupe",
+    "price": 42630,
+    "year": 1998,
+    "vin": "1G6AU5S82F0091549"
+  },
+  {
+    "Id": "065317bc-78c3-4f30-979b-2a47bfd3fea0",
+    "make": "GMC",
+    "model": "Sonoma Club Coupe",
+    "price": 27420,
+    "year": 1993,
+    "vin": "1N6AA0EC1EN356016"
+  },
+  {
+    "Id": "1a19a7ce-0909-41ba-9adb-9a8390316fc5",
+    "make": "Honda",
+    "model": "CR-V",
+    "price": 18445,
+    "year": 2011,
+    "vin": "WAUAF68E05A920781"
+  },
+  {
+    "Id": "a3e80e85-5e8b-4a5f-aece-b07274a1be6f",
+    "make": "Oldsmobile",
+    "model": "Toronado",
+    "price": 44548,
+    "year": 1966,
+    "vin": "1G6DA8E51C0032674"
+  },
+  {
+    "Id": "5406d72b-eb0f-47c3-aa95-3782fc7929e1",
+    "make": "Dodge",
+    "model": "Caravan",
+    "price": 55043,
+    "year": 2011,
+    "vin": "WAULF98K69N319115"
+  },
+  {
+    "Id": "2985643c-60fc-4ce2-8081-de360e445419",
+    "make": "Mazda",
+    "model": "Mazda6",
+    "price": 36041,
+    "year": 2006,
+    "vin": "SCBCP73W88C680700"
+  },
+  {
+    "Id": "660169d0-4f09-446e-9ef8-40342f4d0915",
+    "make": "Honda",
+    "model": "Accord",
+    "price": 58658,
+    "year": 2006,
+    "vin": "WA1DGBFE9ED441325"
+  },
+  {
+    "Id": "010aa1a7-8133-495a-a89e-51fdecfac5b9",
+    "make": "Audi",
+    "model": "A6",
+    "price": 13956,
+    "year": 2011,
+    "vin": "WAUBVBFB8BN336528"
+  },
+  {
+    "Id": "8882afef-ed0a-4ec9-aefb-ee55c1adf80e",
+    "make": "Kia",
+    "model": "Optima",
+    "price": 48965,
+    "year": 2005,
+    "vin": "WAUDF68E15A224458"
+  },
+  {
+    "Id": "17e8bc7c-2a4e-48e6-b773-c0a95af779f2",
+    "make": "Infiniti",
+    "model": "I",
+    "price": 42390,
+    "year": 1998,
+    "vin": "3VWPG3AG9AM997762"
+  },
+  {
+    "Id": "0937a8ed-e222-44c2-9377-85039b178d53",
+    "make": "Chevrolet",
+    "model": "Aveo",
+    "price": 52226,
+    "year": 2006,
+    "vin": "1D7RW3GK2AS637966"
+  },
+  {
+    "Id": "2c21124a-2bbe-47e0-92f8-e3ace2ea502d",
+    "make": "Audi",
+    "model": "A4",
+    "price": 14329,
+    "year": 2004,
+    "vin": "WBA3A9C59FK389608"
+  },
+  {
+    "Id": "e18b232c-c5e0-4608-a2c5-24f1e2356eb0",
+    "make": "Jeep",
+    "model": "Wrangler",
+    "price": 54695,
+    "year": 1997,
+    "vin": "WA1LMBFE2ED397494"
+  },
+  {
+    "Id": "9a6ba38e-e271-43b4-9d59-50f0fe98abc1",
+    "make": "Volvo",
+    "model": "V70",
+    "price": 28552,
+    "year": 2009,
+    "vin": "KMHFG4JG7DA408418"
+  },
+  {
+    "Id": "0bbc8620-a554-4925-af0f-0e6960cc4c7b",
+    "make": "Volkswagen",
+    "model": "GTI",
+    "price": 37249,
+    "year": 1992,
+    "vin": "1G6DK67V880089962"
+  },
+  {
+    "Id": "10073d88-946f-4411-b422-c0a7ab9d8b3e",
+    "make": "Chevrolet",
+    "model": "Malibu",
+    "price": 54688,
+    "year": 2006,
+    "vin": "WBA3B3C56FF969868"
+  },
+  {
+    "Id": "0d8595ec-e69b-47db-8262-1733654aa596",
+    "make": "Kia",
+    "model": "Sportage",
+    "price": 43642,
+    "year": 2008,
+    "vin": "WBAXG5C5XDD551952"
+  },
+  {
+    "Id": "2601ddbd-e3b4-48f5-a690-c69e75e7e449",
+    "make": "Nissan",
+    "model": "Titan",
+    "price": 58046,
+    "year": 2012,
+    "vin": "KNDJN2A2XF7615365"
+  },
+  {
+    "Id": "64b69503-b997-44e3-8efd-a4bc63857242",
+    "make": "Chevrolet",
+    "model": "Express 3500",
+    "price": 13135,
+    "year": 2007,
+    "vin": "WBSBL93453J872216"
+  },
+  {
+    "Id": "d6854285-d1bb-416a-b107-be3e15e31a54",
+    "make": "Ford",
+    "model": "Transit Connect",
+    "price": 25557,
+    "year": 2011,
+    "vin": "WAUMFAFL1CN141767"
+  },
+  {
+    "Id": "c0c0ee9d-a258-4ea0-a4fc-b683dcdae631",
+    "make": "Mitsubishi",
+    "model": "Galant",
+    "price": 28634,
+    "year": 2008,
+    "vin": "SAJWJ0EF5E8322289"
+  },
+  {
+    "Id": "9f09667c-b5b9-4276-b447-78033c992fbd",
+    "make": "Toyota",
+    "model": "Camry",
+    "price": 55258,
+    "year": 2008,
+    "vin": "WVGAV7AX3CW901211"
+  },
+  {
+    "Id": "025dacec-918a-4077-8e91-a012e33d6529",
+    "make": "BMW",
+    "model": "X5",
+    "price": 15784,
+    "year": 2013,
+    "vin": "SAJWA0ES7EP127992"
+  },
+  {
+    "Id": "269d0830-4f3d-4f6e-a014-ef61184b493f",
+    "make": "Hyundai",
+    "model": "Scoupe",
+    "price": 10259,
+    "year": 1995,
+    "vin": "SCBBR93WX7C170526"
+  },
+  {
+    "Id": "d7c1566f-3ef4-4e12-b48a-6acaab3e7ee3",
+    "make": "Kia",
+    "model": "Optima",
+    "price": 23812,
+    "year": 2007,
+    "vin": "3D7TP2HT6AG021179"
+  },
+  {
+    "Id": "1c22efcb-193f-4559-acb2-1ca9ce1cda7f",
+    "make": "Lincoln",
+    "model": "Town Car",
+    "price": 42139,
+    "year": 2007,
+    "vin": "WAUKH78E87A830897"
+  },
+  {
+    "Id": "acd26224-2ea7-4a15-8d49-14d2a8ea2c7b",
+    "make": "Porsche",
+    "model": "944",
+    "price": 28963,
+    "year": 1990,
+    "vin": "SALGR2VFXFA984430"
+  },
+  {
+    "Id": "5fb648f0-09b6-45bb-b546-d263cce04f6c",
+    "make": "Volkswagen",
+    "model": "Eurovan",
+    "price": 10063,
+    "year": 2002,
+    "vin": "WAUFGAFC7DN347909"
+  },
+  {
+    "Id": "df6019ae-94a5-4184-b428-8ab2111e1d97",
+    "make": "Infiniti",
+    "model": "I",
+    "price": 29337,
+    "year": 1997,
+    "vin": "WA1CGAFP5EA705200"
+  },
+  {
+    "Id": "80fd465c-b772-43d8-abfd-23b31ad736ab",
+    "make": "Mazda",
+    "model": "Miata MX-5",
+    "price": 31036,
+    "year": 1995,
+    "vin": "3D4PG9FGXBT219737"
+  },
+  {
+    "Id": "5cb710b6-8125-475e-a63f-764a209a0bc5",
+    "make": "Audi",
+    "model": "Coupe Quattro",
+    "price": 38634,
+    "year": 1990,
+    "vin": "WBAFZ9C54DC640516"
+  },
+  {
+    "Id": "12467d3b-0408-46f6-9ec6-6d48b872deac",
+    "make": "Chevrolet",
+    "model": "Avalanche 1500",
+    "price": 24907,
+    "year": 2006,
+    "vin": "1GTN1UEHXFZ431166"
+  },
+  {
+    "Id": "034e977e-57c0-44a7-83a4-79521c4bc5f2",
+    "make": "Dodge",
+    "model": "Caliber",
+    "price": 24246,
+    "year": 2007,
+    "vin": "3TMJU4GN1AM172974"
+  },
+  {
+    "Id": "92fa5921-16c4-48d8-ad61-266d568b2abf",
+    "make": "Acura",
+    "model": "RSX",
+    "price": 57300,
+    "year": 2004,
+    "vin": "TRUTC28N811550287"
+  },
+  {
+    "Id": "7fe41ea2-6335-46df-9286-3556acb12ef6",
+    "make": "Cadillac",
+    "model": "Escalade ESV",
+    "price": 27464,
+    "year": 2003,
+    "vin": "5NPET4AC6AH583983"
+  },
+  {
+    "Id": "d147b8db-c883-48fb-b15f-5ee1a0e0746b",
+    "make": "Mercury",
+    "model": "Mariner",
+    "price": 32399,
+    "year": 2011,
+    "vin": "1N6AA0CJ2DN648838"
+  },
+  {
+    "Id": "33aba8d7-79f6-4514-b8b3-bcf07549e170",
+    "make": "Volkswagen",
+    "model": "Cabriolet",
+    "price": 58599,
+    "year": 1985,
+    "vin": "JN1AZ4FHXFM760939"
+  },
+  {
+    "Id": "1748d2ca-9bca-4d0f-ab32-a637de2fb746",
+    "make": "Dodge",
+    "model": "Journey",
+    "price": 28946,
+    "year": 2011,
+    "vin": "WBAFB33531L715591"
+  },
+  {
+    "Id": "4330c6de-a15f-4abf-94a8-11a151fa910b",
+    "make": "Volkswagen",
+    "model": "Rabbit",
+    "price": 32298,
+    "year": 2010,
+    "vin": "3D7LP2ET3BG718721"
+  },
+  {
+    "Id": "308a75c1-f950-4362-9dea-996853b00ebd",
+    "make": "Chevrolet",
+    "model": "Tahoe",
+    "price": 19950,
+    "year": 2002,
+    "vin": "SAJWA0FA4AH309126"
+  },
+  {
+    "Id": "5f5a99de-4aa7-41b8-9e83-f4e011541b94",
+    "make": "GMC",
+    "model": "Acadia",
+    "price": 33617,
+    "year": 2010,
+    "vin": "WBALW3C51FC702272"
+  },
+  {
+    "Id": "10129b0a-2fbb-494f-b2c5-2d0349632c4c",
+    "make": "Chrysler",
+    "model": "LHS",
+    "price": 49013,
+    "year": 1996,
+    "vin": "2HNYD18945H427551"
+  },
+  {
+    "Id": "9fe4177c-df5d-4b91-9455-7ca461c63204",
+    "make": "Lamborghini",
+    "model": "Murciélago",
+    "price": 27172,
+    "year": 2006,
+    "vin": "2G4GV5GV9C9892298"
+  },
+  {
+    "Id": "40a758c2-3fb4-4488-ade4-277a6beac1f5",
+    "make": "GMC",
+    "model": "2500",
+    "price": 39774,
+    "year": 1997,
+    "vin": "WBALL5C5XEJ194155"
+  },
+  {
+    "Id": "d3a0c20a-cccc-44d5-a3e1-ab19f8794f6c",
+    "make": "Mitsubishi",
+    "model": "Outlander",
+    "price": 45093,
+    "year": 2006,
+    "vin": "WAUDFAFL9CN799238"
+  },
+  {
+    "Id": "3dd9ccbf-7e30-42ce-b936-a1d04a4faf31",
+    "make": "Ford",
+    "model": "LTD Crown Victoria",
+    "price": 38873,
+    "year": 1985,
+    "vin": "1G6DM56T350906853"
+  },
+  {
+    "Id": "031822e1-9baa-4bc8-a445-54d091eba023",
+    "make": "Chrysler",
+    "model": "LHS",
+    "price": 14115,
+    "year": 1995,
+    "vin": "1J4PN2GK3BW589445"
+  },
+  {
+    "Id": "52dd54b7-f6a4-4f5f-904b-d87703a1aa5e",
+    "make": "Volvo",
+    "model": "XC90",
+    "price": 40706,
+    "year": 2011,
+    "vin": "TRUUT28N631906842"
+  },
+  {
+    "Id": "47e76b27-51a0-4298-9e08-445ee3126660",
+    "make": "Honda",
+    "model": "CR-V",
+    "price": 50793,
+    "year": 2006,
+    "vin": "JH4KA96512C245886"
+  },
+  {
+    "Id": "2a4ab1b0-1a01-4fb9-a383-c70a8d14adca",
+    "make": "Mitsubishi",
+    "model": "Montero",
+    "price": 54008,
+    "year": 1995,
+    "vin": "WAULT68EX5A487004"
+  },
+  {
+    "Id": "07206a45-c619-48f0-852d-26a3ac57119c",
+    "make": "Volkswagen",
+    "model": "GLI",
+    "price": 58047,
+    "year": 2009,
+    "vin": "SALFR2BG2FH256732"
+  },
+  {
+    "Id": "a8daaf69-563c-4460-a4f4-469b857b1574",
+    "make": "Pontiac",
+    "model": "Bonneville",
+    "price": 21198,
+    "year": 2002,
+    "vin": "1G6DX67D980814008"
+  },
+  {
+    "Id": "878f29ab-a16d-4003-b3ed-b4c59059f1b5",
+    "make": "Mercury",
+    "model": "Monterey",
+    "price": 58889,
+    "year": 2006,
+    "vin": "JTJHY7AX3A4956936"
+  },
+  {
+    "Id": "13b8faf8-311f-4c2d-833c-32622070a37c",
+    "make": "Audi",
+    "model": "Q7",
+    "price": 16749,
+    "year": 2007,
+    "vin": "3GYFK66N43G798720"
+  },
+  {
+    "Id": "173dfc5a-39d5-4be8-acd9-884dbd3ad00e",
+    "make": "Dodge",
+    "model": "Ram 2500",
+    "price": 42760,
+    "year": 1998,
+    "vin": "KMHTC6AD2EU316407"
+  },
+  {
+    "Id": "caf32d2f-ecfd-42be-8275-73327eb7df78",
+    "make": "Nissan",
+    "model": "Quest",
+    "price": 44692,
+    "year": 2004,
+    "vin": "WAUVC58E02A199362"
+  },
+  {
+    "Id": "44141c5b-d32c-4772-90c6-7a14df7b8c8a",
+    "make": "Kia",
+    "model": "Amanti",
+    "price": 37405,
+    "year": 2009,
+    "vin": "5UXFH0C52AL348374"
+  },
+  {
+    "Id": "8776c5bb-618a-4621-ba07-165f0a43cb8d",
+    "make": "Buick",
+    "model": "Riviera",
+    "price": 57302,
+    "year": 1991,
+    "vin": "1G6KD57919U610397"
+  },
+  {
+    "Id": "e5fc5191-3f35-4d57-b2c5-c9b1889f0e08",
+    "make": "Suzuki",
+    "model": "Sidekick",
+    "price": 26274,
+    "year": 1995,
+    "vin": "WAUML64B13N494106"
+  },
+  {
+    "Id": "4008ccda-ecb5-4cbe-ab88-0654b849c2aa",
+    "make": "Chevrolet",
+    "model": "Silverado",
+    "price": 25693,
+    "year": 2008,
+    "vin": "1GD020CGXBF174253"
+  },
+  {
+    "Id": "994047ae-cf10-4fea-949a-efd34a1b332a",
+    "make": "GMC",
+    "model": "2500",
+    "price": 57292,
+    "year": 1996,
+    "vin": "WAUDG94F35N931986"
+  },
+  {
+    "Id": "f9f3d8bd-a8ef-412c-864d-e473a9c1752d",
+    "make": "BMW",
+    "model": "M3",
+    "price": 15635,
+    "year": 1999,
+    "vin": "5UXWX9C5XE0378835"
+  },
+  {
+    "Id": "8b346b1b-37bb-459e-aa5c-c630f1f0c59d",
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "price": 23980,
+    "year": 2003,
+    "vin": "4T3BA3BB6EU346403"
+  },
+  {
+    "Id": "589547e8-ba85-41ac-9dde-b8b237973f61",
+    "make": "Audi",
+    "model": "Q5",
+    "price": 53352,
+    "year": 2009,
+    "vin": "JH4NA21612T592686"
+  },
+  {
+    "Id": "d7c00df5-9ba3-44db-ba68-531370c329ca",
+    "make": "Volvo",
+    "model": "S80",
+    "price": 48725,
+    "year": 2003,
+    "vin": "SCBCR63W65C314055"
+  },
+  {
+    "Id": "c83e1d85-7d78-4db2-86ee-37b0be2b27da",
+    "make": "Toyota",
+    "model": "Camry",
+    "price": 46798,
+    "year": 2009,
+    "vin": "1N6AA0CC2FN525500"
+  },
+  {
+    "Id": "ce8e8532-3e6b-4d7c-b4c8-85b7d6ede18e",
+    "make": "BMW",
+    "model": "6 Series",
+    "price": 29059,
+    "year": 2006,
+    "vin": "1FTSW2A53AE621263"
+  },
+  {
+    "Id": "43d1ac8a-9ae5-4836-beb1-cf116d682154",
+    "make": "Pontiac",
+    "model": "6000",
+    "price": 27906,
+    "year": 1989,
+    "vin": "WDDGF4HB8DA224018"
+  },
+  {
+    "Id": "e15f73dd-e0df-4c81-b131-bb37657443bb",
+    "make": "Chevrolet",
+    "model": "Suburban 2500",
+    "price": 28323,
+    "year": 2001,
+    "vin": "WAUGL98E75A109676"
+  },
+  {
+    "Id": "717a1732-4653-460a-8d61-d8d08650a9c5",
+    "make": "Subaru",
+    "model": "Legacy",
+    "price": 53138,
+    "year": 2005,
+    "vin": "1FTSW2A55AE655642"
+  },
+  {
+    "Id": "6ea04133-693b-47e8-8017-6f63eb95c0ff",
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "price": 31599,
+    "year": 2011,
+    "vin": "5J6TF1H3XAL214309"
+  },
+  {
+    "Id": "bcd71fc4-4d63-4990-bcf8-c2827d7da39f",
+    "make": "Buick",
+    "model": "Regal",
+    "price": 14898,
+    "year": 2000,
+    "vin": "YV4852CT5B1094666"
+  },
+  {
+    "Id": "cf09fe5d-ca6a-4562-b011-97520b3722f6",
+    "make": "Ford",
+    "model": "Galaxie",
+    "price": 40310,
+    "year": 1964,
+    "vin": "JN8AZ1MU4AW580126"
+  },
+  {
+    "Id": "f30d7022-fb85-4f4b-a50b-e4fc53e86783",
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "price": 30907,
+    "year": 1986,
+    "vin": "2HNYD28437H712688"
+  },
+  {
+    "Id": "c8c6b1d0-188a-496d-92cc-08c38aa22846",
+    "make": "Dodge",
+    "model": "Ram 2500",
+    "price": 36422,
+    "year": 2009,
+    "vin": "WBAUN7C58DV736807"
+  },
+  {
+    "Id": "c9f87a24-2d83-4506-8e0b-f5e2995de325",
+    "make": "Mazda",
+    "model": "CX-7",
+    "price": 11386,
+    "year": 2009,
+    "vin": "1N6AA0CA8FN023542"
+  },
+  {
+    "Id": "b423c4f6-ded0-4e7d-aca3-193c6ef3dcb5",
+    "make": "Nissan",
+    "model": "Maxima",
+    "price": 11946,
+    "year": 2001,
+    "vin": "JN8AF5MR2BT599353"
+  },
+  {
+    "Id": "5399105c-95ca-4a9c-80f6-b189dd778daf",
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "price": 20362,
+    "year": 2009,
+    "vin": "3VW1K7AJ5EM533557"
+  },
+  {
+    "Id": "f0491e37-52fd-4deb-ada6-d2d0b96a4c24",
+    "make": "BMW",
+    "model": "X5",
+    "price": 29887,
+    "year": 2005,
+    "vin": "SCFAD01A65G069999"
+  },
+  {
+    "Id": "c004ec53-e18d-4315-acf1-272f0a031c8a",
+    "make": "Mazda",
+    "model": "Protege",
+    "price": 41880,
+    "year": 1993,
+    "vin": "5N1AT2ML0EC327494"
+  },
+  {
+    "Id": "d9ff8279-1fce-42c6-bef9-959d31433abc",
+    "make": "Pontiac",
+    "model": "Sunbird",
+    "price": 26997,
+    "year": 1993,
+    "vin": "19UUB2F74FA270395"
+  },
+  {
+    "Id": "c3cc7350-13b4-49e2-8950-522b53447572",
+    "make": "Dodge",
+    "model": "Ram 1500",
+    "price": 51946,
+    "year": 1995,
+    "vin": "19UUA8F76CA741223"
+  },
+  {
+    "Id": "79f52308-2bd6-4be9-9d97-5695cb423a4f",
+    "make": "Dodge",
+    "model": "Dakota",
+    "price": 25675,
+    "year": 1996,
+    "vin": "KMHTC6AD0FU268276"
+  },
+  {
+    "Id": "3b82ba1f-5082-45c2-89f2-4e77baef5a00",
+    "make": "Oldsmobile",
+    "model": "Cutlass",
+    "price": 44169,
+    "year": 1997,
+    "vin": "3GTU2YEJ5BG626539"
+  },
+  {
+    "Id": "a0291d85-dd3e-45f3-81d8-04a92a53e353",
+    "make": "Mitsubishi",
+    "model": "Mighty Max Macro",
+    "price": 19332,
+    "year": 1993,
+    "vin": "SAJWA0EX6E8784921"
+  },
+  {
+    "Id": "f0e5eae7-0e2e-45f4-af59-bad9c341a67e",
+    "make": "Saab",
+    "model": "900",
+    "price": 22855,
+    "year": 1985,
+    "vin": "WBAVS13527F266167"
+  },
+  {
+    "Id": "6c56ef2b-5883-4c72-b11c-86048abc180c",
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "price": 58547,
+    "year": 2010,
+    "vin": "3VWKZ8AJ6BM685994"
+  },
+  {
+    "Id": "906dc565-2d4b-4a21-b2d3-4f4adde71e47",
+    "make": "BMW",
+    "model": "530",
+    "price": 58081,
+    "year": 2004,
+    "vin": "1G4HK5ES8BU842273"
+  },
+  {
+    "Id": "59d1a103-479b-46ba-a034-1b0cc34ef0bd",
+    "make": "Kia",
+    "model": "Amanti",
+    "price": 12386,
+    "year": 2005,
+    "vin": "WAUDF98E27A727968"
+  },
+  {
+    "Id": "29b8e66c-0714-4cfa-88ed-9a87abfa2710",
+    "make": "GMC",
+    "model": "Sierra",
+    "price": 43995,
+    "year": 2010,
+    "vin": "SAJWA6FC4E8951498"
+  },
+  {
+    "Id": "5dee1444-ce8f-4403-a379-56ddae702f41",
+    "make": "Chevrolet",
+    "model": "Astro",
+    "price": 44291,
+    "year": 1992,
+    "vin": "JTJBC1BA6D2236848"
+  },
+  {
+    "Id": "d73a8a21-eadf-4e0b-ae8a-db9ac85b5f86",
+    "make": "Acura",
+    "model": "TSX",
+    "price": 10582,
+    "year": 2010,
+    "vin": "SCFAD02A28G244722"
+  },
+  {
+    "Id": "20768fe6-7f05-42a7-813b-39141bf10b1c",
+    "make": "Mazda",
+    "model": "Miata MX-5",
+    "price": 45983,
+    "year": 2011,
+    "vin": "2HKRM3H51DH682845"
+  },
+  {
+    "Id": "1c81d694-8bc3-41da-ad46-c3888c437df1",
+    "make": "Saturn",
+    "model": "Outlook",
+    "price": 14815,
+    "year": 2007,
+    "vin": "1C4RDJDG9CC798879"
+  },
+  {
+    "Id": "d9fa9730-e4d6-40ce-a89c-8616b84403f1",
+    "make": "BMW",
+    "model": "M3",
+    "price": 19066,
+    "year": 1998,
+    "vin": "5J8TB3H35DL414968"
+  },
+  {
+    "Id": "f3a625af-3a7c-44bd-be78-5590b216e561",
+    "make": "Honda",
+    "model": "CR-V",
+    "price": 22626,
+    "year": 2004,
+    "vin": "19UUA75557A203452"
+  },
+  {
+    "Id": "79213ca8-8f01-4bc5-ae94-aaebcf26f4aa",
+    "make": "Cadillac",
+    "model": "Escalade",
+    "price": 10233,
+    "year": 2005,
+    "vin": "JA32X2HU1DU924127"
+  },
+  {
+    "Id": "02157ea6-069f-4c33-bfce-aeb92b3ca798",
+    "make": "Chevrolet",
+    "model": "Corvette",
+    "price": 55910,
+    "year": 2010,
+    "vin": "1N6AD0CU9AC335276"
+  },
+  {
+    "Id": "5536672b-3eb9-4cbe-8133-af1a4e653377",
+    "make": "Aston Martin",
+    "model": "DB9",
+    "price": 45229,
+    "year": 2007,
+    "vin": "JHMZF1C69CS447218"
+  },
+  {
+    "Id": "8d4eebc2-6d6f-4ce2-8527-e44f816e043e",
+    "make": "Mercury",
+    "model": "Grand Marquis",
+    "price": 48243,
+    "year": 2005,
+    "vin": "1N4AL2AP7BC666752"
+  },
+  {
+    "Id": "f370af77-58f1-4c10-8123-30d8293a0206",
+    "make": "Ford",
+    "model": "F-Series",
+    "price": 55483,
+    "year": 1986,
+    "vin": "JTJBM7FX1C5206992"
+  },
+  {
+    "Id": "8d10c58f-405e-450e-b051-927569405eb6",
+    "make": "Honda",
+    "model": "Prelude",
+    "price": 10810,
+    "year": 1993,
+    "vin": "1N6AA0EC9FN777371"
+  },
+  {
+    "Id": "351a0525-054a-4026-82f6-dc89e86c2bc7",
+    "make": "Suzuki",
+    "model": "XL-7",
+    "price": 17283,
+    "year": 2005,
+    "vin": "JTHFE2C22B2397589"
+  },
+  {
+    "Id": "14789db6-c5ea-4e0e-81b1-e605864639f2",
+    "make": "Buick",
+    "model": "Coachbuilder",
+    "price": 15578,
+    "year": 1995,
+    "vin": "1N6AF0LX1EN594441"
+  },
+  {
+    "Id": "46cce7e1-0f0c-41de-945e-ff82ebacd8f9",
+    "make": "Volkswagen",
+    "model": "Eos",
+    "price": 23151,
+    "year": 2009,
+    "vin": "WAUSF98K89A831378"
+  },
+  {
+    "Id": "4bd87619-3039-4fec-add6-b702c6d0b36a",
+    "make": "Audi",
+    "model": "100",
+    "price": 46681,
+    "year": 1992,
+    "vin": "4T1BF3EK4BU097262"
+  },
+  {
+    "Id": "1bb70259-a353-402f-a4fe-66499a493711",
+    "make": "Lexus",
+    "model": "IS-F",
+    "price": 30793,
+    "year": 2010,
+    "vin": "5YMGY0C56AL838815"
+  },
+  {
+    "Id": "557e6e55-4e7d-4624-beb0-5a608039c6ce",
+    "make": "Ford",
+    "model": "Econoline E350",
+    "price": 32479,
+    "year": 1993,
+    "vin": "WAUAH74F29N812384"
+  },
+  {
+    "Id": "b12e7647-73cb-43f2-bb9f-22132f4b7bd4",
+    "make": "Mazda",
+    "model": "929",
+    "price": 56527,
+    "year": 1992,
+    "vin": "1YVHZ8BH5A5042351"
+  },
+  {
+    "Id": "575abed7-4dbc-48a0-a4ff-720978e11800",
+    "make": "Honda",
+    "model": "Odyssey",
+    "price": 13727,
+    "year": 2001,
+    "vin": "WAUVT68E43A844666"
+  },
+  {
+    "Id": "8f494897-5ab3-4a90-837a-08a2bb6cad32",
+    "make": "Chevrolet",
+    "model": "Express 2500",
+    "price": 38373,
+    "year": 2012,
+    "vin": "SCBZK22EX2C835064"
+  },
+  {
+    "Id": "5e3994b1-80f1-4b41-bc20-d1f1ce176485",
+    "make": "Chevrolet",
+    "model": "Cobalt",
+    "price": 48745,
+    "year": 2009,
+    "vin": "1C6RD7MT7CS184524"
+  },
+  {
+    "Id": "2839c5ce-e013-4a5a-9b4c-f70383987b55",
+    "make": "Acura",
+    "model": "TL",
+    "price": 23274,
+    "year": 1996,
+    "vin": "1GYS3MKJ9FR763615"
+  },
+  {
+    "Id": "f8c8559d-99ad-4e88-bd77-bc2f2b3ef96a",
+    "make": "Chevrolet",
+    "model": "Caprice Classic",
+    "price": 57572,
+    "year": 1996,
+    "vin": "WUAW2BFC6FN086429"
+  },
+  {
+    "Id": "8e35debf-410e-4dd4-82ec-f055cd53699c",
+    "make": "Ford",
+    "model": "Expedition EL",
+    "price": 58519,
+    "year": 2008,
+    "vin": "WAUFFAFL5DA483238"
+  },
+  {
+    "Id": "efb97fd6-e6ca-4967-8735-a1c9948efbbf",
+    "make": "Buick",
+    "model": "Rainier",
+    "price": 30928,
+    "year": 2004,
+    "vin": "WP1AA2A27EL612940"
+  },
+  {
+    "Id": "52f2b1c8-3578-4aa7-9d1e-26eb9641e05d",
+    "make": "Ford",
+    "model": "Transit Connect",
+    "price": 41050,
+    "year": 2013,
+    "vin": "1FMJU1G56AE378210"
+  },
+  {
+    "Id": "0eed23e6-be5a-4a6c-9bfc-eaa526ec1e11",
+    "make": "Lexus",
+    "model": "SC",
+    "price": 38997,
+    "year": 2008,
+    "vin": "1FMCU5K30AK601798"
+  },
+  {
+    "Id": "d03dcec7-0072-4b41-a92d-a71ee415820d",
+    "make": "Chevrolet",
+    "model": "Impala",
+    "price": 12372,
+    "year": 2010,
+    "vin": "1GYS3GKJ2FR494195"
+  },
+  {
+    "Id": "5a99900e-d2c9-405d-9c9a-debd68b2d32d",
+    "make": "Mitsubishi",
+    "model": "Mirage",
+    "price": 19707,
+    "year": 1991,
+    "vin": "KNALN4D79E5812434"
+  },
+  {
+    "Id": "8166563e-c671-47e5-992e-206410670374",
+    "make": "Mazda",
+    "model": "MX-6",
+    "price": 13538,
+    "year": 1989,
+    "vin": "WBA3C3C5XEK233566"
+  },
+  {
+    "Id": "04253a23-252b-4304-8bae-bb143c35a84d",
+    "make": "Ford",
+    "model": "E250",
+    "price": 26581,
+    "year": 2005,
+    "vin": "JA32U1FU0CU949248"
+  },
+  {
+    "Id": "a05f8a2d-9c77-4a6e-a717-f1fc858ceaef",
+    "make": "Infiniti",
+    "model": "G",
+    "price": 34733,
+    "year": 2007,
+    "vin": "1FTEX1E80AF927260"
+  },
+  {
+    "Id": "7cfa7832-7064-4104-bd89-cd371a8831e8",
+    "make": "Dodge",
+    "model": "D350 Club",
+    "price": 13152,
+    "year": 1993,
+    "vin": "2T1BURHE0EC244505"
+  },
+  {
+    "Id": "d19e9892-8d9b-4124-8cf8-fddbf2129c08",
+    "make": "Toyota",
+    "model": "Avalon",
+    "price": 59677,
+    "year": 2010,
+    "vin": "2C4RRGAG5DR884465"
+  },
+  {
+    "Id": "9e568310-b477-4969-ae3c-2eea383074af",
+    "make": "BMW",
+    "model": "750",
+    "price": 14399,
+    "year": 2006,
+    "vin": "1FMJK1HT3FE621644"
+  },
+  {
+    "Id": "f0635ea6-79c8-48ec-bcd4-d2e99fe1fa53",
+    "make": "Volkswagen",
+    "model": "Type 2",
+    "price": 37847,
+    "year": 1986,
+    "vin": "WAUNG74F79N667430"
+  },
+  {
+    "Id": "a3625651-aa5b-44d5-9925-701b3e7bda51",
+    "make": "Kia",
+    "model": "Rio",
+    "price": 40559,
+    "year": 2004,
+    "vin": "2HNYD28517H808585"
+  },
+  {
+    "Id": "bd8c3116-5207-40dc-be57-449c63832f18",
+    "make": "Ford",
+    "model": "LTD Crown Victoria",
+    "price": 14151,
+    "year": 1985,
+    "vin": "KM8NU4CC7BU124250"
+  },
+  {
+    "Id": "6ebce15d-8cf8-4aca-9ab1-1ff194bf2517",
+    "make": "Saab",
+    "model": "9000",
+    "price": 46665,
+    "year": 1994,
+    "vin": "WAUDG98EX6A236057"
+  },
+  {
+    "Id": "879f73e9-e237-4445-b3de-af7d116e98f4",
+    "make": "Acura",
+    "model": "RL",
+    "price": 29357,
+    "year": 1998,
+    "vin": "5J8TB3H59GL368857"
+  },
+  {
+    "Id": "dbcc75e7-48c2-41a6-bd50-7269cfe4d62c",
+    "make": "Chevrolet",
+    "model": "1500",
+    "price": 52033,
+    "year": 1992,
+    "vin": "1G4GE5G31CF179563"
+  },
+  {
+    "Id": "175ce519-c3e9-4d51-b183-3af2a920555b",
+    "make": "Chevrolet",
+    "model": "Silverado 1500",
+    "price": 56357,
+    "year": 2010,
+    "vin": "1G6KS54Y63U578619"
+  },
+  {
+    "Id": "8925c5fd-5f92-4762-b3ca-1704edab477a",
+    "make": "Chevrolet",
+    "model": "Corvette",
+    "price": 15197,
+    "year": 1978,
+    "vin": "1GYS3UKJ7FR022668"
+  },
+  {
+    "Id": "1835ee2c-532c-4e9f-8c2d-029ec6014e5b",
+    "make": "Infiniti",
+    "model": "QX56",
+    "price": 28633,
+    "year": 2007,
+    "vin": "WAUJC68E42A044950"
+  },
+  {
+    "Id": "495001f7-a341-4423-a235-23a1666b5ebd",
+    "make": "Mitsubishi",
+    "model": "Pajero",
+    "price": 11163,
+    "year": 1985,
+    "vin": "5J6TF1H5XDL667268"
+  },
+  {
+    "Id": "ad271c91-99d7-4e04-a369-444243ee6028",
+    "make": "GMC",
+    "model": "Savana 2500",
+    "price": 47908,
+    "year": 1999,
+    "vin": "WBAYB6C55DC615006"
+  },
+  {
+    "Id": "46c16b86-47b7-40b1-b627-6e781152c4e2",
+    "make": "Ford",
+    "model": "Windstar",
+    "price": 47449,
+    "year": 2001,
+    "vin": "1G6DA8E54D0385556"
+  },
+  {
+    "Id": "cc784fb6-4198-4dc2-99d3-a16d777aaba2",
+    "make": "Saab",
+    "model": "9000",
+    "price": 32023,
+    "year": 1998,
+    "vin": "1FTNF1E8XAK252012"
+  },
+  {
+    "Id": "a12a7a67-8fe9-4e3e-a1f8-b8b2035b12bd",
+    "make": "Mitsubishi",
+    "model": "Pajero",
+    "price": 18459,
+    "year": 1987,
+    "vin": "WBAKF5C56BE607552"
+  },
+  {
+    "Id": "90fa40f6-61aa-471e-bd6a-6a78eb1dd3e8",
+    "make": "Porsche",
+    "model": "Cayman",
+    "price": 54333,
+    "year": 2008,
+    "vin": "1D7RB1GT9AS940493"
+  },
+  {
+    "Id": "f4f3c72e-cfca-418f-9537-00370d049696",
+    "make": "Honda",
+    "model": "Fit",
+    "price": 18480,
+    "year": 2012,
+    "vin": "1GTN1TEX6CZ602024"
+  },
+  {
+    "Id": "ab5d3945-1aa6-4fa3-be15-f5576d2c0914",
+    "make": "Plymouth",
+    "model": "Neon",
+    "price": 35698,
+    "year": 1995,
+    "vin": "KMHEC4A49DA036500"
+  },
+  {
+    "Id": "2913ccf2-ea2f-40c4-a8e0-1f0061fc2d0c",
+    "make": "Chevrolet",
+    "model": "3500",
+    "price": 49546,
+    "year": 1992,
+    "vin": "5GALRBED6AJ529413"
+  },
+  {
+    "Id": "0408934b-5c50-4b8c-836d-d57a4527907d",
+    "make": "Geo",
+    "model": "Metro",
+    "price": 46911,
+    "year": 1995,
+    "vin": "1GTN1TEH3EZ172352"
+  },
+  {
+    "Id": "5801c8e7-f868-4cdc-b9bd-98d923bea2bb",
+    "make": "Mitsubishi",
+    "model": "3000GT",
+    "price": 59836,
+    "year": 1998,
+    "vin": "5YMKW8C54F0194190"
+  },
+  {
+    "Id": "2a93fb34-5af8-4559-839a-582fef3dc9cb",
+    "make": "Acura",
+    "model": "NSX",
+    "price": 37304,
+    "year": 1997,
+    "vin": "1G6AB5RX0E0450558"
+  },
+  {
+    "Id": "7e6a019f-0e6f-4891-adbd-fc03b96ea674",
+    "make": "Volvo",
+    "model": "C30",
+    "price": 25249,
+    "year": 2012,
+    "vin": "WAUBF48H17K725725"
+  },
+  {
+    "Id": "fad200d0-8781-47c1-8a62-044f2a59b6ce",
+    "make": "Ford",
+    "model": "F-Series",
+    "price": 54875,
+    "year": 2005,
+    "vin": "WBAEJ134X3A508463"
+  },
+  {
+    "Id": "beb0bf2b-dca6-47e9-9f1d-87e3b9788678",
+    "make": "Lamborghini",
+    "model": "Murciélago",
+    "price": 35756,
+    "year": 2006,
+    "vin": "WAULFAFR2AA215976"
+  },
+  {
+    "Id": "857b8e08-e25e-47d3-8ff7-34b610acb266",
+    "make": "Ford",
+    "model": "Mustang",
+    "price": 30660,
+    "year": 1983,
+    "vin": "3LN6L2LU9ER171098"
+  },
+  {
+    "Id": "4c206bcb-d1a2-48d6-b62e-236348556a5e",
+    "make": "Peugeot",
+    "model": "207",
+    "price": 37267,
+    "year": 2007,
+    "vin": "2C3CDXFGXEH385377"
+  },
+  {
+    "Id": "e65501bb-815e-47d0-b808-9f38a158ac99",
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "price": 11870,
+    "year": 2006,
+    "vin": "1G4GE5ED0BF589331"
+  },
+  {
+    "Id": "debbb889-80fe-49dc-9240-d297d78ab44d",
+    "make": "Lexus",
+    "model": "RX",
+    "price": 18409,
+    "year": 2001,
+    "vin": "WA1CGBFE3CD834326"
+  },
+  {
+    "Id": "33c30462-0fff-4bd7-a570-21aab91f5a4a",
+    "make": "Cadillac",
+    "model": "Escalade EXT",
+    "price": 34735,
+    "year": 2004,
+    "vin": "WAUBF48H28K082478"
+  },
+  {
+    "Id": "59bd3978-5ac1-4b8a-acc5-b6f2ff904d61",
+    "make": "Acura",
+    "model": "Integra",
+    "price": 49032,
+    "year": 2000,
+    "vin": "1G6EL12Y11B163108"
+  },
+  {
+    "Id": "3646fcc6-2cd7-487f-9cd5-cffcee08309b",
+    "make": "Chevrolet",
+    "model": "Camaro",
+    "price": 56237,
+    "year": 2011,
+    "vin": "5J6TF2H50EL024368"
+  },
+  {
+    "Id": "23f50bd0-5860-4e8a-bbe9-1822dcf0a1c5",
+    "make": "Pontiac",
+    "model": "GTO",
+    "price": 15754,
+    "year": 1966,
+    "vin": "1N6AA0CJ0EN155127"
+  },
+  {
+    "Id": "ca5b4adc-0e25-41d8-8118-b88da2618cee",
+    "make": "Kia",
+    "model": "Amanti",
+    "price": 25311,
+    "year": 2005,
+    "vin": "1D7RE3GK0BS474335"
+  },
+  {
+    "Id": "cb72d795-10a9-4cfe-bdbc-39e2d488f31c",
+    "make": "Bentley",
+    "model": "Continental Super",
+    "price": 14234,
+    "year": 2010,
+    "vin": "1G6DM1E38C0188157"
+  },
+  {
+    "Id": "4089fec4-5b2e-4c63-b998-13c0d6d4e4e1",
+    "make": "Infiniti",
+    "model": "G",
+    "price": 52446,
+    "year": 1993,
+    "vin": "1G6DL8EG9A0941111"
+  },
+  {
+    "Id": "9bd8917e-9696-4692-87c1-f2ca6166ab3a",
+    "make": "Buick",
+    "model": "Skylark",
+    "price": 55073,
+    "year": 1994,
+    "vin": "WBSDX9C56BE248356"
+  },
+  {
+    "Id": "8eac8f4d-d377-49f3-920c-4f3a8ff395ea",
+    "make": "Cadillac",
+    "model": "XLR",
+    "price": 57833,
+    "year": 2005,
+    "vin": "WAUBC48HX5K943961"
+  },
+  {
+    "Id": "eb979bb1-9165-4435-b647-67b1b5ae603d",
+    "make": "Audi",
+    "model": "A6",
+    "price": 26989,
+    "year": 2009,
+    "vin": "WAUJT54B94N572372"
+  },
+  {
+    "Id": "62fd230b-4401-4988-93b9-b09c8475c3c3",
+    "make": "Mercury",
+    "model": "Grand Marquis",
+    "price": 51254,
+    "year": 1989,
+    "vin": "WAU3VAFR1AA289537"
+  },
+  {
+    "Id": "7037a6d5-fe74-4c27-8979-edec1b957739",
+    "make": "Porsche",
+    "model": "Cayenne",
+    "price": 19897,
+    "year": 2011,
+    "vin": "5GALVAED2AJ690637"
+  },
+  {
+    "Id": "f0032caf-74b3-4495-9e20-6ef123093123",
+    "make": "Mitsubishi",
+    "model": "Mirage",
+    "price": 19920,
+    "year": 2002,
+    "vin": "WAUED64BX1N896026"
+  },
+  {
+    "Id": "3ca3fc50-1530-4eb8-981c-82d93fc54622",
+    "make": "Dodge",
+    "model": "Shadow",
+    "price": 22214,
+    "year": 1992,
+    "vin": "2C3CCABG0DH440973"
+  },
+  {
+    "Id": "d03379fc-8166-45e5-8675-76f52ad51c81",
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "price": 51873,
+    "year": 2008,
+    "vin": "1D7CW7GP7AS259006"
+  },
+  {
+    "Id": "f24c56eb-c230-4484-a214-cd44f27e66d2",
+    "make": "Toyota",
+    "model": "T100",
+    "price": 19121,
+    "year": 1995,
+    "vin": "3N1CN7AP7EL515870"
+  },
+  {
+    "Id": "109a9c4a-c94e-44b5-9bb4-a369db0be0cd",
+    "make": "BMW",
+    "model": "3 Series",
+    "price": 19255,
+    "year": 2008,
+    "vin": "WAUSF98K59A626732"
+  },
+  {
+    "Id": "4fff2e45-8093-4b65-a52e-5ecf9c4d2e7c",
+    "make": "Isuzu",
+    "model": "Rodeo",
+    "price": 12420,
+    "year": 1998,
+    "vin": "1C4RDJEG2CC712472"
+  },
+  {
+    "Id": "ba2e65b9-cc90-4971-87c9-83336f436036",
+    "make": "Hyundai",
+    "model": "Accent",
+    "price": 35889,
+    "year": 2005,
+    "vin": "SAJWA4EC7DM758533"
+  },
+  {
+    "Id": "d852d020-0502-4503-adc9-cb1f655a5f35",
+    "make": "Suzuki",
+    "model": "XL-7",
+    "price": 16481,
+    "year": 2002,
+    "vin": "5GALRCED8AJ752042"
+  },
+  {
+    "Id": "fb52dd00-13ab-439e-8a81-60eb4ca629e6",
+    "make": "Porsche",
+    "model": "928",
+    "price": 56871,
+    "year": 1994,
+    "vin": "WAUUFAFH3AN250627"
+  },
+  {
+    "Id": "e2c5a5b6-ed91-4023-ae2c-b11ea5bd66ad",
+    "make": "Jaguar",
+    "model": "XK",
+    "price": 20154,
+    "year": 2011,
+    "vin": "5LMJJ3H51DE441348"
+  },
+  {
+    "Id": "80025735-b509-4b15-a108-c9e272c223e0",
+    "make": "Volkswagen",
+    "model": "GTI",
+    "price": 12011,
+    "year": 2007,
+    "vin": "WA1AY74L49D749569"
+  },
+  {
+    "Id": "f35866ac-8cf5-4ef8-915b-71d2eecfeb47",
+    "make": "Mitsubishi",
+    "model": "Truck",
+    "price": 41534,
+    "year": 1991,
+    "vin": "JN8AS5MT4BW734774"
+  },
+  {
+    "Id": "9f403431-e8bd-47ae-a5af-619075620829",
+    "make": "Chevrolet",
+    "model": "Corvette",
+    "price": 30982,
+    "year": 1996,
+    "vin": "WA1WGBFP4EA753158"
+  },
+  {
+    "Id": "7374e6cb-3182-4471-b5f9-79c61d1fdd5a",
+    "make": "Toyota",
+    "model": "T100",
+    "price": 19060,
+    "year": 1998,
+    "vin": "4T1BF3EK6BU426656"
+  },
+  {
+    "Id": "17629313-fbcf-43e9-907f-ce8b8ceddb0f",
+    "make": "Lincoln",
+    "model": "Mark LT",
+    "price": 31809,
+    "year": 2006,
+    "vin": "SAJWA4DC3FM698464"
+  },
+  {
+    "Id": "a3ea9aa4-0a9b-4056-aaeb-9dcae1bd8def",
+    "make": "Ford",
+    "model": "F150",
+    "price": 26967,
+    "year": 1984,
+    "vin": "1N6AF0LY5FN170321"
+  },
+  {
+    "Id": "01aacf58-714b-4b1e-bfd0-252abd1f145d",
+    "make": "Pontiac",
+    "model": "Safari",
+    "price": 18089,
+    "year": 1989,
+    "vin": "2T1BURHE6EC285141"
+  },
+  {
+    "Id": "c1c1ee81-b932-40ec-bff8-4e18061a91b9",
+    "make": "Pontiac",
+    "model": "Aztek",
+    "price": 17666,
+    "year": 2002,
+    "vin": "3VW467AT7CM726034"
+  },
+  {
+    "Id": "6e848a12-b771-4e2d-8248-b7036dd09834",
+    "make": "Lexus",
+    "model": "SC",
+    "price": 14151,
+    "year": 1999,
+    "vin": "1GD21ZCG0DZ449405"
+  },
+  {
+    "Id": "d66e5cf3-a0b9-4452-a4d5-6e21b9e14a8c",
+    "make": "Subaru",
+    "model": "Legacy",
+    "price": 19807,
+    "year": 1990,
+    "vin": "4JGCB2FB4AA995353"
+  },
+  {
+    "Id": "ee329b80-05ad-48b8-8e17-c5175e6761d1",
+    "make": "Lamborghini",
+    "model": "Aventador",
+    "price": 46662,
+    "year": 2012,
+    "vin": "JTMHY7AJ8E4008326"
+  },
+  {
+    "Id": "9b858b03-7fe0-4407-bb28-5abd523cfae9",
+    "make": "Plymouth",
+    "model": "Breeze",
+    "price": 37650,
+    "year": 1997,
+    "vin": "WBADS43491G895897"
+  },
+  {
+    "Id": "fa6a97fd-79e3-4395-ae1c-ddecdf58346b",
+    "make": "Subaru",
+    "model": "Outback",
+    "price": 57078,
+    "year": 2006,
+    "vin": "JTDKN3DP5C3996000"
+  },
+  {
+    "Id": "76114727-b122-40e7-a2ef-9f127464e1f9",
+    "make": "Isuzu",
+    "model": "Rodeo Sport",
+    "price": 35410,
+    "year": 2001,
+    "vin": "WBASP2C52CC776413"
+  },
+  {
+    "Id": "4857e6a3-c15c-49ca-9c41-e569d1a71b22",
+    "make": "Porsche",
+    "model": "911",
+    "price": 43896,
+    "year": 1994,
+    "vin": "WBABW53474P090602"
+  },
+  {
+    "Id": "2c49ceb0-4b08-4003-95d6-5a475490bdfb",
+    "make": "Audi",
+    "model": "A6",
+    "price": 53825,
+    "year": 2005,
+    "vin": "YV426MDB6F2631064"
+  },
+  {
+    "Id": "38e291fb-e96f-4820-b2c7-fd95e65f484e",
+    "make": "Chevrolet",
+    "model": "Corvette",
+    "price": 37788,
+    "year": 1954,
+    "vin": "WBAEB5C54AC743679"
+  },
+  {
+    "Id": "1e17cdec-0cbc-4aff-b3eb-9c353b9014b5",
+    "make": "Mercedes-Benz",
+    "model": "SLS AMG",
+    "price": 28011,
+    "year": 2011,
+    "vin": "5FPYK1F25CB729815"
+  },
+  {
+    "Id": "e8739f7c-bf1e-4f8d-bc54-4c4306ad5c67",
+    "make": "Chevrolet",
+    "model": "HHR",
+    "price": 58515,
+    "year": 2010,
+    "vin": "WAUEH98E78A294597"
+  },
+  {
+    "Id": "29d3a19b-62e9-40f3-bb2d-594ade16e684",
+    "make": "Jeep",
+    "model": "Wrangler",
+    "price": 19673,
+    "year": 2003,
+    "vin": "1G6DJ5EG4A0848680"
+  },
+  {
+    "Id": "c15b5897-a7bb-4011-872b-36a5a20335c6",
+    "make": "Chevrolet",
+    "model": "Vega",
+    "price": 22603,
+    "year": 1971,
+    "vin": "1FMJK1F51DE663926"
+  },
+  {
+    "Id": "df34169e-f949-4229-bc80-80e2533e1811",
+    "make": "Mitsubishi",
+    "model": "Outlander",
+    "price": 56599,
+    "year": 2004,
+    "vin": "1G6D25EY6B0387053"
+  },
+  {
+    "Id": "abe84dad-e53d-4ac5-9d57-f814d137b9c2",
+    "make": "Mitsubishi",
+    "model": "Pajero",
+    "price": 29382,
+    "year": 1999,
+    "vin": "JM1NC2SFXF0381729"
+  },
+  {
+    "Id": "3f6fe857-af07-4996-ab00-089a1ad0bf39",
+    "make": "Dodge",
+    "model": "Caravan",
+    "price": 25930,
+    "year": 1999,
+    "vin": "WAUEF78E57A105759"
+  },
+  {
+    "Id": "78f543c2-5954-4fee-b347-00cb37c0fa11",
+    "make": "Jaguar",
+    "model": "X-Type",
+    "price": 38980,
+    "year": 2006,
+    "vin": "2G4WC552461455175"
+  },
+  {
+    "Id": "3ebd7565-cf58-4a5c-8aec-2dc0b5602969",
+    "make": "Ford",
+    "model": "F350",
+    "price": 13524,
+    "year": 1993,
+    "vin": "1GTC5LF94C8222469"
+  },
+  {
+    "Id": "0170f11a-9be3-4f2a-b3b0-82796d4539e2",
+    "make": "Lexus",
+    "model": "RX",
+    "price": 50489,
+    "year": 2003,
+    "vin": "JHMZE2H39DS838636"
+  },
+  {
+    "Id": "559fd243-5d3b-46cb-9412-e6e1843e10d7",
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "price": 23567,
+    "year": 2007,
+    "vin": "JTHBE1KS4A0061706"
+  },
+  {
+    "Id": "8abef53a-5341-4549-8021-fdfb07588f7a",
+    "make": "Ford",
+    "model": "Tempo",
+    "price": 13757,
+    "year": 1988,
+    "vin": "JN8AZ2KRXET735564"
+  },
+  {
+    "Id": "813e75d9-fa51-4bbb-ad0f-db154ec34b45",
+    "make": "Lincoln",
+    "model": "MKX",
+    "price": 33082,
+    "year": 2009,
+    "vin": "1N6AF0KY6FN056281"
+  },
+  {
+    "Id": "50f790e3-f90f-46fe-a1db-97e58985206c",
+    "make": "Mitsubishi",
+    "model": "Outlander",
+    "price": 50405,
+    "year": 2003,
+    "vin": "WAULV94E39N010012"
+  },
+  {
+    "Id": "9e3136f6-fa46-4e92-a5fe-6473dfd1e3d2",
+    "make": "Toyota",
+    "model": "Camry",
+    "price": 23957,
+    "year": 2007,
+    "vin": "1G4CW54K844394717"
+  },
+  {
+    "Id": "bcaac105-1ffe-4b88-bb13-5aecd7d31255",
+    "make": "Suzuki",
+    "model": "Sidekick",
+    "price": 42612,
+    "year": 1990,
+    "vin": "WAUGL98E75A843430"
+  },
+  {
+    "Id": "db870a23-51a6-4e17-8baf-a170c7a1ccdd",
+    "make": "Volkswagen",
+    "model": "rio",
+    "price": 17530,
+    "year": 1995,
+    "vin": "3D73M3HL5BG262215"
+  },
+  {
+    "Id": "052a03ad-03ab-4011-9c9d-9a66e88cb5d0",
+    "make": "Chevrolet",
+    "model": "TrailBlazer",
+    "price": 53316,
+    "year": 2004,
+    "vin": "WAUKG98E16A194823"
+  },
+  {
+    "Id": "1cd3eefb-4001-4f11-9a80-53c1938a427a",
+    "make": "Dodge",
+    "model": "Ram Van 3500",
+    "price": 14490,
+    "year": 1996,
+    "vin": "5FRYD4H89FB407946"
+  },
+  {
+    "Id": "caf5ffd2-5358-4387-9d8f-386fbd56f62e",
+    "make": "Chevrolet",
+    "model": "Corvette",
+    "price": 10018,
+    "year": 2004,
+    "vin": "3VWKP7AJ4DM042949"
+  },
+  {
+    "Id": "b9b747eb-6317-4a25-9a3e-17e6ec9b6a64",
+    "make": "Kia",
+    "model": "Rio",
+    "price": 57355,
+    "year": 2005,
+    "vin": "JH4NA12695S499062"
+  },
+  {
+    "Id": "423bd3a6-e5ef-441c-bec9-949a52d4f1d4",
+    "make": "Honda",
+    "model": "Odyssey",
+    "price": 17884,
+    "year": 2003,
+    "vin": "3VW4T7AT3EM006113"
+  },
+  {
+    "Id": "298b9685-983f-4abc-9ee1-04581cf93caf",
+    "make": "Chevrolet",
+    "model": "Corvette",
+    "price": 34551,
+    "year": 1999,
+    "vin": "WAUKD98P36A308749"
+  },
+  {
+    "Id": "1a0e23e7-0f32-4027-b594-f5b3e55d4640",
+    "make": "Buick",
+    "model": "Regal",
+    "price": 57244,
+    "year": 1992,
+    "vin": "3C4PDCAB8CT988074"
+  },
+  {
+    "Id": "1c2a35a3-b307-4b1e-b667-ff201987bba7",
+    "make": "Subaru",
+    "model": "Forester",
+    "price": 56966,
+    "year": 2012,
+    "vin": "5TDBCRFH9FS887783"
+  },
+  {
+    "Id": "250ff65a-8c63-40d5-9c1c-66e35cf7c740",
+    "make": "Ford",
+    "model": "E-Series",
+    "price": 28423,
+    "year": 2005,
+    "vin": "1D7RV1GP7AS727925"
+  },
+  {
+    "Id": "cd8bdfbc-ae81-45d5-a785-c23dd38fbc83",
+    "make": "Toyota",
+    "model": "Previa",
+    "price": 36356,
+    "year": 1991,
+    "vin": "1FMEU3DE2AU682058"
+  },
+  {
+    "Id": "b75234c9-49b4-41ee-9388-06eeb647cb4f",
+    "make": "BMW",
+    "model": "750",
+    "price": 27681,
+    "year": 2006,
+    "vin": "1N6AD0CW9EN565847"
+  },
+  {
+    "Id": "1548fe46-dc5c-4fdc-8575-32eec666edbe",
+    "make": "Infiniti",
+    "model": "G37",
+    "price": 57447,
+    "year": 2009,
+    "vin": "3VW507AT1FM194872"
+  },
+  {
+    "Id": "8ea39832-c87c-4640-ab54-ee7ab4d94583",
+    "make": "Ford",
+    "model": "Explorer",
+    "price": 26472,
+    "year": 2012,
+    "vin": "WBAVC53558F878174"
+  },
+  {
+    "Id": "4a6c242c-70c1-49f3-800c-0536c0e0bd42",
+    "make": "Mercedes-Benz",
+    "model": "SLK-Class",
+    "price": 40604,
+    "year": 2003,
+    "vin": "1G4PS5SK9E4682148"
+  },
+  {
+    "Id": "4b496fcd-129b-4e34-8412-2cf2f684f520",
+    "make": "Nissan",
+    "model": "Pathfinder",
+    "price": 15070,
+    "year": 1994,
+    "vin": "TRUTX28N621022415"
+  },
+  {
+    "Id": "f0b72544-c4ab-4baa-b353-b64ed28526a1",
+    "make": "Mitsubishi",
+    "model": "Eclipse",
+    "price": 17927,
+    "year": 1998,
+    "vin": "WBAVM5C53FV407429"
+  },
+  {
+    "Id": "8bce858b-6eea-4753-9186-4feea897b06f",
+    "make": "BMW",
+    "model": "X6",
+    "price": 14304,
+    "year": 2010,
+    "vin": "2HKRM3H37FH245398"
+  },
+  {
+    "Id": "b0b285ea-e042-4ecd-8335-80c2c03f61e3",
+    "make": "Pontiac",
+    "model": "Grand Am",
+    "price": 41819,
+    "year": 1992,
+    "vin": "1N6AA0CA4DN314228"
+  },
+  {
+    "Id": "66a6618b-1883-4337-a640-e2cddaec751b",
+    "make": "Citroën",
+    "model": "SM",
+    "price": 59945,
+    "year": 1972,
+    "vin": "2HNYB1H69DH047440"
+  },
+  {
+    "Id": "228c8b2c-e53f-4c13-abab-6a1b861990a1",
+    "make": "Jaguar",
+    "model": "XF",
+    "price": 12568,
+    "year": 2012,
+    "vin": "WBAAV33411F376997"
+  },
+  {
+    "Id": "b10a6d4d-2452-4059-a521-09e0d935d3df",
+    "make": "Ford",
+    "model": "Taurus X",
+    "price": 19481,
+    "year": 2008,
+    "vin": "WAUDH98E48A317829"
+  },
+  {
+    "Id": "6f4757fa-7a88-4c7a-94ae-bfc5c6641d48",
+    "make": "GMC",
+    "model": "3500 Club Coupe",
+    "price": 19500,
+    "year": 1997,
+    "vin": "2T1BPRHE2EC890412"
+  },
+  {
+    "Id": "d45bd49a-04ab-4d69-8954-841f35392a8b",
+    "make": "Hyundai",
+    "model": "XG350",
+    "price": 23410,
+    "year": 2003,
+    "vin": "WDDPK5HAXFF115011"
+  },
+  {
+    "Id": "d2112fdb-0121-4100-b596-e4fbb65fbfb7",
+    "make": "Toyota",
+    "model": "TundraMax",
+    "price": 20371,
+    "year": 2012,
+    "vin": "1GYUKBEF2AR548979"
+  },
+  {
+    "Id": "8c89e73a-a8de-4eee-8df9-e26f6bc91dc4",
+    "make": "Porsche",
+    "model": "Boxster",
+    "price": 46871,
+    "year": 2006,
+    "vin": "4T1BF3EK6AU363458"
+  },
+  {
+    "Id": "b11670f8-6d4e-4eea-9618-aa3b8817f860",
+    "make": "Cadillac",
+    "model": "Eldorado",
+    "price": 12646,
+    "year": 1995,
+    "vin": "WAUXU64B43N503987"
+  },
+  {
+    "Id": "e7b8180e-cdf6-490a-9c65-953a97bad83a",
+    "make": "Subaru",
+    "model": "Impreza",
+    "price": 58346,
+    "year": 2002,
+    "vin": "WAUEH98E38A536432"
+  },
+  {
+    "Id": "f2f3e93f-5933-4fff-957a-187cc2060915",
+    "make": "Chevrolet",
+    "model": "Cobalt",
+    "price": 27076,
+    "year": 2005,
+    "vin": "YV1672MW9B2676903"
+  },
+  {
+    "Id": "822ba0db-04f6-48b4-9e5c-13ef2995ac4e",
+    "make": "Subaru",
+    "model": "Legacy",
+    "price": 18290,
+    "year": 2012,
+    "vin": "WBABW33444P249256"
+  },
+  {
+    "Id": "5c67d845-99ce-4638-9b2e-e36b6d3a0a3c",
+    "make": "Dodge",
+    "model": "Neon",
+    "price": 56647,
+    "year": 2004,
+    "vin": "WBA3V9C51FP398858"
+  },
+  {
+    "Id": "1ccfeb4c-83cc-4198-ab2d-f480e3ca7886",
+    "make": "Mercedes-Benz",
+    "model": "300D",
+    "price": 51760,
+    "year": 1993,
+    "vin": "19XFA1E37AE774416"
+  },
+  {
+    "Id": "9f96bcd8-5368-4dbd-bc49-79493b05142a",
+    "make": "Daewoo",
+    "model": "Nubira",
+    "price": 31950,
+    "year": 2002,
+    "vin": "1G6DM5E39C0306627"
+  },
+  {
+    "Id": "8874ebda-bb96-4492-9329-179ab0c87a78",
+    "make": "Chrysler",
+    "model": "LeBaron",
+    "price": 40153,
+    "year": 1993,
+    "vin": "WAUKH98E18A939456"
+  },
+  {
+    "Id": "9cbdde6b-bc0c-47a1-8225-430c048ffaa4",
+    "make": "Nissan",
+    "model": "Rogue",
+    "price": 31540,
+    "year": 2012,
+    "vin": "KNDMG4C3XA6585405"
+  },
+  {
+    "Id": "f1f621f3-7595-4f0f-9c9b-bdc0ec3ec6a0",
+    "make": "Audi",
+    "model": "A6",
+    "price": 53757,
+    "year": 2011,
+    "vin": "JHMZF1D46DS406768"
+  },
+  {
+    "Id": "cadac4c7-bfe4-4886-8ada-7e203cac3290",
+    "make": "Toyota",
+    "model": "RAV4",
+    "price": 44353,
+    "year": 2003,
+    "vin": "YV126MFC2F1154125"
+  },
+  {
+    "Id": "26bb7292-c118-4c19-94a4-51031adc4687",
+    "make": "Ford",
+    "model": "F450",
+    "price": 32224,
+    "year": 2012,
+    "vin": "WA1VMBFE4DD062664"
+  },
+  {
+    "Id": "47f36e11-df1f-447b-b412-0bbea590f592",
+    "make": "Bentley",
+    "model": "Continental Flying Spur",
+    "price": 25966,
+    "year": 2012,
+    "vin": "KNAGN4AD9F5213742"
+  },
+  {
+    "Id": "6aad73a7-3d8c-4927-af1b-7a76506c600e",
+    "make": "Cadillac",
+    "model": "Escalade EXT",
+    "price": 22972,
+    "year": 2011,
+    "vin": "WBAVB73547F530427"
+  },
+  {
+    "Id": "d8d4ca00-a62c-4314-86fd-481cd10f5c53",
+    "make": "Lexus",
+    "model": "SC",
+    "price": 27259,
+    "year": 1995,
+    "vin": "3D73M4CL8BG028339"
+  },
+  {
+    "Id": "0fb73263-106c-4358-a930-968153cbb1f5",
+    "make": "Porsche",
+    "model": "944",
+    "price": 46119,
+    "year": 1990,
+    "vin": "5XYKT3A11CG504418"
+  },
+  {
+    "Id": "e62d6fbf-7aec-4b97-922b-3d003980fc60",
+    "make": "Mazda",
+    "model": "CX-5",
+    "price": 49411,
+    "year": 2013,
+    "vin": "1C4RDJAG4CC401213"
+  },
+  {
+    "Id": "ca6920a9-1715-44ee-a0f8-09b529777d54",
+    "make": "Land Rover",
+    "model": "Range Rover Sport",
+    "price": 42927,
+    "year": 2008,
+    "vin": "WAUVT68E35A361415"
+  },
+  {
+    "Id": "c5350492-13ff-48fe-b029-6f742231528c",
+    "make": "Acura",
+    "model": "TSX",
+    "price": 58905,
+    "year": 2007,
+    "vin": "WAUMFAFL2AA342517"
+  },
+  {
+    "Id": "74337327-ea60-4cc5-8d7d-2b404898f30e",
+    "make": "Ford",
+    "model": "Explorer",
+    "price": 56781,
+    "year": 1992,
+    "vin": "1GD11XEG8FF728117"
+  },
+  {
+    "Id": "c2959052-ae69-43a0-963b-72231ac30c0a",
+    "make": "Pontiac",
+    "model": "Montana",
+    "price": 54442,
+    "year": 2004,
+    "vin": "WA1WMAFE2DD833122"
+  },
+  {
+    "Id": "990ea331-7fd4-40a0-aca6-268613ebefe4",
+    "make": "Mercury",
+    "model": "Grand Marquis",
+    "price": 21158,
+    "year": 2000,
+    "vin": "1GYS4BEF8CR467490"
+  },
+  {
+    "Id": "6b2cdee9-901b-4e37-8813-07745adb15f7",
+    "make": "Volvo",
+    "model": "940",
+    "price": 41747,
+    "year": 1994,
+    "vin": "1FTSF3B53AE612647"
+  },
+  {
+    "Id": "87e0f33e-9bb4-45e8-a571-f614236d7f1d",
+    "make": "Volkswagen",
+    "model": "Corrado",
+    "price": 18253,
+    "year": 1991,
+    "vin": "SCBGU3ZA9FC909204"
+  },
+  {
+    "Id": "05f7c003-f2cc-4933-b1df-27ba70a65cf2",
+    "make": "Isuzu",
+    "model": "i-290",
+    "price": 14783,
+    "year": 2008,
+    "vin": "1G6DS8ED9B0853573"
+  },
+  {
+    "Id": "5a7482dd-e0bb-4b4a-a463-f140cfc88cfd",
+    "make": "Aptera",
+    "model": "Typ-1",
+    "price": 48595,
+    "year": 2008,
+    "vin": "WBALZ5C53CC276986"
+  },
+  {
+    "Id": "1a797223-017e-4326-946c-52654f5cd14c",
+    "make": "Aston Martin",
+    "model": "Rapide",
+    "price": 58123,
+    "year": 2011,
+    "vin": "WVWBN7AN1FE183272"
+  },
+  {
+    "Id": "68316afc-ac26-4635-a895-aa1d5b41dd77",
+    "make": "Kia",
+    "model": "Soul",
+    "price": 18179,
+    "year": 2011,
+    "vin": "3N1CE2CPXEL246795"
+  },
+  {
+    "Id": "9e1212ef-6aab-4f1d-bd7c-82618566926e",
+    "make": "Honda",
+    "model": "Pilot",
+    "price": 53009,
+    "year": 2011,
+    "vin": "SALFP2BG5FH979660"
+  },
+  {
+    "Id": "9629c884-a29e-4f6a-9b56-b8c57f8f6068",
+    "make": "Volvo",
+    "model": "S60",
+    "price": 50319,
+    "year": 2010,
+    "vin": "WA1CMBFP8FA694550"
+  },
+  {
+    "Id": "60f0c6ce-09a9-4711-a9da-3612094087d6",
+    "make": "Cadillac",
+    "model": "STS",
+    "price": 36426,
+    "year": 2010,
+    "vin": "1G4HD5EM3AU401273"
+  },
+  {
+    "Id": "5f31318d-f788-4103-a2c6-cc41997f4cfc",
+    "make": "GMC",
+    "model": "1500",
+    "price": 28875,
+    "year": 1992,
+    "vin": "1G6AK5S30F0903666"
+  },
+  {
+    "Id": "1241961b-585e-48d9-88dc-a8b01de93a65",
+    "make": "Mitsubishi",
+    "model": "Galant",
+    "price": 58710,
+    "year": 2012,
+    "vin": "WA1VMAFE7BD926209"
+  },
+  {
+    "Id": "88d1ce62-8e23-4ade-8aed-e391131b518b",
+    "make": "Infiniti",
+    "model": "I",
+    "price": 12569,
+    "year": 1996,
+    "vin": "TRUUT28N121223803"
+  },
+  {
+    "Id": "39c99299-cb1c-4cd1-a03f-1e5e8fdafa0f",
+    "make": "Buick",
+    "model": "Century",
+    "price": 22880,
+    "year": 1988,
+    "vin": "5N1AT2MK0EC071428"
+  },
+  {
+    "Id": "ec992b2b-2e9d-4aa3-9fe6-16c51cadd2d7",
+    "make": "Toyota",
+    "model": "Land Cruiser",
+    "price": 10678,
+    "year": 2004,
+    "vin": "1FTWX3D58AE874496"
+  },
+  {
+    "Id": "79de3a09-8ba3-426a-a676-71f1a7266b1c",
+    "make": "BMW",
+    "model": "3 Series",
+    "price": 48677,
+    "year": 2009,
+    "vin": "1G6DM8E31D0972254"
+  },
+  {
+    "Id": "dbf06b9a-50f5-4c04-ac3f-626c69e11875",
+    "make": "Chevrolet",
+    "model": "Express 1500",
+    "price": 11572,
+    "year": 2002,
+    "vin": "WVWGU7AN4CE323142"
+  },
+  {
+    "Id": "c22c6722-6c34-4056-adb0-0ea60c668aa0",
+    "make": "Saturn",
+    "model": "VUE",
+    "price": 19367,
+    "year": 2009,
+    "vin": "WUATNAFG4BN186045"
+  },
+  {
+    "Id": "2de8de21-c7c0-4f11-a35a-ca007c76ef19",
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "price": 21843,
+    "year": 2010,
+    "vin": "NM0KS9BN5CT343399"
+  },
+  {
+    "Id": "4efac167-a9f0-406b-9742-5d31c43db697",
+    "make": "Ford",
+    "model": "Focus",
+    "price": 34888,
+    "year": 2009,
+    "vin": "1FTMF1EW0AF099417"
+  },
+  {
+    "Id": "59f6ebe7-7438-4210-9cb3-d211ef886953",
+    "make": "Mazda",
+    "model": "B-Series",
+    "price": 40604,
+    "year": 1992,
+    "vin": "1N6AA0CC9CN129608"
+  },
+  {
+    "Id": "9665d368-c9a0-4cda-9827-0ffc319f1d3c",
+    "make": "Mitsubishi",
+    "model": "Starion",
+    "price": 48224,
+    "year": 1989,
+    "vin": "WBAYA6C59DC885486"
+  },
+  {
+    "Id": "cc43f188-4e6b-41fd-a9b5-cafbd6d91eee",
+    "make": "Maserati",
+    "model": "Coupe",
+    "price": 26761,
+    "year": 2005,
+    "vin": "JM3ER2W35A0843239"
+  },
+  {
+    "Id": "1c7b63a9-4768-4d17-a939-0ae933941c6e",
+    "make": "Dodge",
+    "model": "Ram",
+    "price": 28857,
+    "year": 1994,
+    "vin": "19UUA65554A131190"
+  },
+  {
+    "Id": "c7ad24bf-abd5-472a-b7b0-d3c9903631a4",
+    "make": "Lamborghini",
+    "model": "Gallardo",
+    "price": 52136,
+    "year": 2006,
+    "vin": "1G6DM5EG8A0671767"
+  },
+  {
+    "Id": "24d14332-53e7-4c0a-8111-69bf5b5e7f1b",
+    "make": "Lotus",
+    "model": "Exige",
+    "price": 30472,
+    "year": 2006,
+    "vin": "5N1AA0ND5EN128897"
+  },
+  {
+    "Id": "9fd24915-7413-4fb2-b5a4-c319faf0b6ab",
+    "make": "Mazda",
+    "model": "MPV",
+    "price": 14969,
+    "year": 1998,
+    "vin": "2D4RN3D12AR212163"
+  },
+  {
+    "Id": "44e4b95d-bd25-4fd7-8bb2-2368d1aaf03d",
+    "make": "Buick",
+    "model": "Skylark",
+    "price": 53613,
+    "year": 1988,
+    "vin": "WAULC68E35A415741"
+  },
+  {
+    "Id": "44c98e93-ba78-4462-9fd4-a4d0205cee8a",
+    "make": "Buick",
+    "model": "Roadmaster",
+    "price": 52422,
+    "year": 1992,
+    "vin": "WAUKF98E88A428543"
+  },
+  {
+    "Id": "a96294ce-ebb1-492e-a236-57be7ab74cf1",
+    "make": "Dodge",
+    "model": "Viper",
+    "price": 29299,
+    "year": 2000,
+    "vin": "JN8CS1MU4DM369893"
+  },
+  {
+    "Id": "e0f0b482-5c0e-41d0-b546-790115e487fd",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "price": 33295,
+    "year": 2009,
+    "vin": "JN1AJ0HP3CM453712"
+  },
+  {
+    "Id": "8e8c7253-c272-4030-8bd7-b3c115acc907",
+    "make": "Mercedes-Benz",
+    "model": "SL-Class",
+    "price": 14146,
+    "year": 1993,
+    "vin": "1FTSW2A55AE555699"
+  },
+  {
+    "Id": "b9c5a3a0-8fe5-4c9b-bd23-050bd5e5fb5e",
+    "make": "Mercury",
+    "model": "Mystique",
+    "price": 28110,
+    "year": 1996,
+    "vin": "KL4CJFSB2EB465106"
+  },
+  {
+    "Id": "45efd5d9-2b99-4ace-ae2f-084672aad245",
+    "make": "Saab",
+    "model": "9-7X",
+    "price": 49451,
+    "year": 2008,
+    "vin": "WBAKA8C56AC522222"
+  },
+  {
+    "Id": "22d670db-c4f6-4dbc-8a4f-fad43008da59",
+    "make": "GMC",
+    "model": "Savana 1500",
+    "price": 56466,
+    "year": 2012,
+    "vin": "1GD422CG7EF484247"
+  },
+  {
+    "Id": "2c73c123-98a8-478e-893c-d312ef6ba9d8",
+    "make": "Infiniti",
+    "model": "M",
+    "price": 39345,
+    "year": 2003,
+    "vin": "WBABD53424P914575"
+  },
+  {
+    "Id": "35058d78-8a56-4139-ad28-00285fbb73b8",
+    "make": "Chevrolet",
+    "model": "Traverse",
+    "price": 35158,
+    "year": 2012,
+    "vin": "JH4CU2F60AC826077"
+  },
+  {
+    "Id": "9f5bc55c-f983-4244-96f4-cad982faab2e",
+    "make": "Ford",
+    "model": "Crown Victoria",
+    "price": 15553,
+    "year": 2001,
+    "vin": "WAUPL68E65A250835"
+  },
+  {
+    "Id": "d0fe3433-fbdb-49df-9d59-1dec533fb967",
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "price": 23633,
+    "year": 2003,
+    "vin": "1G6DH577180133777"
+  },
+  {
+    "Id": "11a7ffad-08fe-4909-9297-45619c148a18",
+    "make": "Volvo",
+    "model": "940",
+    "price": 32348,
+    "year": 1993,
+    "vin": "KNADM5A37F6120909"
+  },
+  {
+    "Id": "ed74fb47-74b2-4821-9986-987b46fb3333",
+    "make": "BMW",
+    "model": "3 Series",
+    "price": 25946,
+    "year": 1994,
+    "vin": "1N6AF0LY3FN074252"
+  },
+  {
+    "Id": "3dd03d93-b517-40c0-a99b-415374200472",
+    "make": "Toyota",
+    "model": "Highlander",
+    "price": 18511,
+    "year": 2003,
+    "vin": "TRUWT28N711518119"
+  },
+  {
+    "Id": "50e70c72-b6fc-429b-94a6-fd50a009d196",
+    "make": "Oldsmobile",
+    "model": "Achieva",
+    "price": 41168,
+    "year": 1992,
+    "vin": "1FTSX2A54AE386448"
+  },
+  {
+    "Id": "deb40729-1a31-4143-946d-793c115fc95d",
+    "make": "Buick",
+    "model": "Park Avenue",
+    "price": 10916,
+    "year": 1992,
+    "vin": "WAUDF78EX5A183091"
+  },
+  {
+    "Id": "bc2b3550-4853-4db9-9e1d-ec56bff4758b",
+    "make": "Chevrolet",
+    "model": "G-Series G10",
+    "price": 35700,
+    "year": 1994,
+    "vin": "SAJWA2EK6EM250261"
+  },
+  {
+    "Id": "57330e44-796e-4766-ba13-5da99988a4e2",
+    "make": "Hyundai",
+    "model": "Elantra",
+    "price": 39580,
+    "year": 2009,
+    "vin": "3C4PDCAB6DT861051"
+  },
+  {
+    "Id": "35fac85d-2e5a-4286-adca-d040ec6e153d",
+    "make": "Mazda",
+    "model": "B-Series Plus",
+    "price": 25177,
+    "year": 1997,
+    "vin": "WAUKH68D31A995121"
+  },
+  {
+    "Id": "5a7631ac-5698-48b6-9f92-5302567d22b7",
+    "make": "Mitsubishi",
+    "model": "Eclipse",
+    "price": 56678,
+    "year": 2011,
+    "vin": "1G4HR57Y06U064327"
+  },
+  {
+    "Id": "44ada798-bb22-4c8c-9204-d976c4646892",
+    "make": "Ford",
+    "model": "Explorer",
+    "price": 23641,
+    "year": 2000,
+    "vin": "KMHDB8AE7AU737237"
+  },
+  {
+    "Id": "73d5edb6-8e1d-4354-b0c7-2454f3c19d6f",
+    "make": "Maybach",
+    "model": "62",
+    "price": 30777,
+    "year": 2008,
+    "vin": "JHMZF1C41DS802124"
+  },
+  {
+    "Id": "68bf86f8-710c-439e-b5f1-391834bbfb10",
+    "make": "Mitsubishi",
+    "model": "Montero",
+    "price": 12990,
+    "year": 1999,
+    "vin": "3GYFK66N66G787240"
+  },
+  {
+    "Id": "b904cdb2-38b5-4cb7-a407-027be9829970",
+    "make": "Jeep",
+    "model": "Wrangler",
+    "price": 51880,
+    "year": 1994,
+    "vin": "1FTEX1CM8BF681897"
+  },
+  {
+    "Id": "46d1c00c-4b06-4202-858a-8fa58cd80f96",
+    "make": "Ford",
+    "model": "E350",
+    "price": 30009,
+    "year": 2007,
+    "vin": "WA1AV94L07D324237"
+  },
+  {
+    "Id": "9577d8db-dfae-416b-9830-5ec81bce5137",
+    "make": "Mitsubishi",
+    "model": "Mirage",
+    "price": 39873,
+    "year": 1993,
+    "vin": "WAUFGAFC9DN214262"
+  },
+  {
+    "Id": "f188c127-b6ad-4fd9-a95f-a213053c3c73",
+    "make": "BMW",
+    "model": "M Roadster",
+    "price": 32285,
+    "year": 2006,
+    "vin": "4JGBB9FB2AA807496"
+  },
+  {
+    "Id": "9e174c2b-a201-4a52-94e0-c5311ca293f9",
+    "make": "Kia",
+    "model": "Sportage",
+    "price": 41367,
+    "year": 1997,
+    "vin": "WVGAV7AX3BW640984"
+  },
+  {
+    "Id": "bd8da9d8-78ec-4ed8-8c66-16344b4f11a3",
+    "make": "Mitsubishi",
+    "model": "Pajero",
+    "price": 32190,
+    "year": 1997,
+    "vin": "WBANV13588C599905"
+  },
+  {
+    "Id": "1243e370-7492-42dc-8837-152089c6eee6",
+    "make": "Pontiac",
+    "model": "Grand Prix",
+    "price": 36728,
+    "year": 1980,
+    "vin": "WP0AB2A92FS212791"
+  },
+  {
+    "Id": "c8e8d306-db7b-4d9b-9b6c-d9a609b47af8",
+    "make": "Infiniti",
+    "model": "G",
+    "price": 33993,
+    "year": 1995,
+    "vin": "KMHTC6AD0FU640330"
+  },
+  {
+    "Id": "16314c6e-6232-46e4-849d-07d765fa30f5",
+    "make": "Subaru",
+    "model": "XT",
+    "price": 52771,
+    "year": 1989,
+    "vin": "3C63DRJL8CG144739"
+  },
+  {
+    "Id": "d4c35c17-d830-45d5-8dc6-21c7388eec13",
+    "make": "Mercury",
+    "model": "Villager",
+    "price": 39954,
+    "year": 2000,
+    "vin": "WA1YL54B95N478957"
+  },
+  {
+    "Id": "10307b9e-4e1c-422f-8bd4-3bbf8a39e93a",
+    "make": "Mitsubishi",
+    "model": "Montero",
+    "price": 43206,
+    "year": 1993,
+    "vin": "2G61P5S33D9990189"
+  },
+  {
+    "Id": "6f035f76-6f1f-4d1b-a887-80bbba3e3306",
+    "make": "Lincoln",
+    "model": "Town Car",
+    "price": 27363,
+    "year": 1997,
+    "vin": "1C6RD7FP2CS571451"
+  },
+  {
+    "Id": "941c82c5-7b40-44d1-b7d6-6b7b3063d8a6",
+    "make": "Cadillac",
+    "model": "CTS-V",
+    "price": 27952,
+    "year": 2006,
+    "vin": "SCFEBBBK0BG769975"
+  },
+  {
+    "Id": "8103c827-383a-4f6d-8e8d-3209ba4f9ef5",
+    "make": "Land Rover",
+    "model": "Defender 110",
+    "price": 49956,
+    "year": 1993,
+    "vin": "KMHEC4A47FA207750"
+  },
+  {
+    "Id": "b39739b7-f4ef-4866-84bc-88bcc611b87d",
+    "make": "GMC",
+    "model": "Savana 1500",
+    "price": 34337,
+    "year": 1997,
+    "vin": "19UUB2F56FA546686"
+  },
+  {
+    "Id": "58237043-80a3-4f23-8c4f-b8cfd1887bde",
+    "make": "Pontiac",
+    "model": "Solstice",
+    "price": 37172,
+    "year": 2006,
+    "vin": "3D4PG6FV3AT990794"
+  },
+  {
+    "Id": "4f4f5f55-1881-42b6-bae3-bdf790e9df6b",
+    "make": "Chevrolet",
+    "model": "Lumina",
+    "price": 30216,
+    "year": 1993,
+    "vin": "WBANV93598C159416"
+  },
+  {
+    "Id": "8e5c7cea-25af-4938-83aa-e2bb61360e65",
+    "make": "BMW",
+    "model": "6 Series",
+    "price": 30470,
+    "year": 2010,
+    "vin": "1N6AD0CU4DN738882"
+  },
+  {
+    "Id": "e70a2129-3401-4831-a62c-0dbc190b6ad4",
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "price": 52729,
+    "year": 2007,
+    "vin": "3N1CN7AP0EL338191"
+  },
+  {
+    "Id": "1c6e1a6a-368d-4635-b520-81568ee63ada",
+    "make": "Volkswagen",
+    "model": "GTI",
+    "price": 50666,
+    "year": 1996,
+    "vin": "1G4HD57296U623819"
+  },
+  {
+    "Id": "c3329880-4920-45b8-846a-a99aa6b61b50",
+    "make": "Subaru",
+    "model": "Legacy",
+    "price": 37951,
+    "year": 2007,
+    "vin": "WAUVFAFH8CN260531"
+  },
+  {
+    "Id": "6ac0269a-43d5-4aff-92ee-b976d766d3b1",
+    "make": "Toyota",
+    "model": "Celica",
+    "price": 26325,
+    "year": 1984,
+    "vin": "WAUVC58E75A026989"
+  },
+  {
+    "Id": "237d8667-f3ff-4e22-9276-f355d05f0494",
+    "make": "Mazda",
+    "model": "B-Series Plus",
+    "price": 31586,
+    "year": 1999,
+    "vin": "WBAVA33537F735717"
+  },
+  {
+    "Id": "89eab3be-7571-4a91-b2f7-a879ba020e32",
+    "make": "Subaru",
+    "model": "Outback",
+    "price": 22101,
+    "year": 2003,
+    "vin": "WBA3B9C56EP924747"
+  },
+  {
+    "Id": "680eabef-8f7d-445a-b7bd-f39bef3484b7",
+    "make": "Audi",
+    "model": "A6",
+    "price": 26494,
+    "year": 1999,
+    "vin": "WBAPM7C55AA520075"
+  },
+  {
+    "Id": "2eb55124-dec3-4833-a4bb-80729a4b7cc9",
+    "make": "Ford",
+    "model": "Escort",
+    "price": 11501,
+    "year": 2000,
+    "vin": "WA1EY74L09D078368"
+  },
+  {
+    "Id": "c24de55e-a867-45ec-b06d-dbe393d07878",
+    "make": "Honda",
+    "model": "Accord",
+    "price": 52570,
+    "year": 1986,
+    "vin": "1GTN1TEH5EZ424974"
+  },
+  {
+    "Id": "c43502c8-7cc4-4004-8804-4d4d1e62cdab",
+    "make": "Scion",
+    "model": "tC",
+    "price": 39856,
+    "year": 2012,
+    "vin": "1N6AA0CH8DN970381"
+  },
+  {
+    "Id": "ea5777ad-f3b9-44b0-8b89-0c5a6fdad56f",
+    "make": "Nissan",
+    "model": "Frontier",
+    "price": 18684,
+    "year": 2006,
+    "vin": "3VW217AU9FM131365"
+  },
+  {
+    "Id": "b23ea296-1849-47af-8641-d6af0f25590b",
+    "make": "Volkswagen",
+    "model": "GTI",
+    "price": 56967,
+    "year": 2010,
+    "vin": "WA1LFAFP7CA145020"
+  },
+  {
+    "Id": "9f04910e-2d41-48be-ace9-3e06f2376235",
+    "make": "Suzuki",
+    "model": "Equator",
+    "price": 30734,
+    "year": 2010,
+    "vin": "WBA3D3C55EF817590"
+  },
+  {
+    "Id": "caa3d7a3-b081-420f-b60f-245c7d2404b5",
+    "make": "Ford",
+    "model": "F250",
+    "price": 28942,
+    "year": 1993,
+    "vin": "2HNYD18222H155497"
+  },
+  {
+    "Id": "3671f329-919b-453e-b649-6d748cba4736",
+    "make": "Mazda",
+    "model": "Mazda6",
+    "price": 16775,
+    "year": 2009,
+    "vin": "JTEBU4BF5BK721682"
+  },
+  {
+    "Id": "8434d1be-f767-49a5-9d94-4f21f6055121",
+    "make": "Porsche",
+    "model": "928",
+    "price": 16406,
+    "year": 1991,
+    "vin": "WAUJGBFC2DN831003"
+  },
+  {
+    "Id": "fca7d000-87ae-499e-a71f-7894b24eade5",
+    "make": "Toyota",
+    "model": "Camry",
+    "price": 42010,
+    "year": 2006,
+    "vin": "WAUDGAFL5DA390532"
+  },
+  {
+    "Id": "89b8f981-65a7-4137-9138-b9bd3ba99ff0",
+    "make": "Ford",
+    "model": "Edge",
+    "price": 53751,
+    "year": 2008,
+    "vin": "JN8AF5MR9DT688517"
+  },
+  {
+    "Id": "c214cc05-05f8-4c56-9223-7c1af8299b18",
+    "make": "Chevrolet",
+    "model": "Corvette",
+    "price": 15734,
+    "year": 1992,
+    "vin": "5UXFB93583L865185"
+  },
+  {
+    "Id": "3c327e80-6729-48f8-a930-37bcfa909001",
+    "make": "Nissan",
+    "model": "Xterra",
+    "price": 35636,
+    "year": 2007,
+    "vin": "1FTEW1CW3AK640412"
+  },
+  {
+    "Id": "799145b7-f097-49dd-ba75-99540567e30c",
+    "make": "Cadillac",
+    "model": "SRX",
+    "price": 53367,
+    "year": 2012,
+    "vin": "1GYEE23A490976264"
+  },
+  {
+    "Id": "29d279ab-2c6b-4b2b-946b-51238f7947e3",
+    "make": "McLaren",
+    "model": "MP4-12C",
+    "price": 11570,
+    "year": 2012,
+    "vin": "1FMJK1G57EE037264"
+  },
+  {
+    "Id": "174b43f6-11f1-45fc-a6b3-6dd860a15e4b",
+    "make": "GMC",
+    "model": "1500",
+    "price": 54993,
+    "year": 1996,
+    "vin": "3N1CN7AP6EL509610"
+  },
+  {
+    "Id": "7176c153-6718-4ca3-a76a-08fe020a85dc",
+    "make": "Hyundai",
+    "model": "Elantra",
+    "price": 58528,
+    "year": 2012,
+    "vin": "1N6AA0EC4FN124494"
+  },
+  {
+    "Id": "d18d737b-9100-422a-ac62-e4411ec1520e",
+    "make": "Ford",
+    "model": "Thunderbird",
+    "price": 21699,
+    "year": 1977,
+    "vin": "1G6DG8EY9B0777907"
+  },
+  {
+    "Id": "52497604-f1d6-4e4f-80bc-e0cd44ca4d38",
+    "make": "Toyota",
+    "model": "Celica",
+    "price": 31703,
+    "year": 1978,
+    "vin": "WAULFAFH7CN287694"
+  },
+  {
+    "Id": "48a1b8e5-d9cb-40e1-92f8-937586f0d2d9",
+    "make": "Mazda",
+    "model": "MX-6",
+    "price": 55001,
+    "year": 1994,
+    "vin": "JN8AS5MTXBW001760"
+  },
+  {
+    "Id": "7fb62ba6-66bc-4d89-bd3d-7eaffa8791f2",
+    "make": "Saturn",
+    "model": "VUE",
+    "price": 50934,
+    "year": 2009,
+    "vin": "2C3CDXHG0FH891864"
+  },
+  {
+    "Id": "fce64560-47f4-4bf8-a13a-2c1788de7dec",
+    "make": "Chevrolet",
+    "model": "Equinox",
+    "price": 27585,
+    "year": 2012,
+    "vin": "1N6AD0CW1FN137983"
+  },
+  {
+    "Id": "f21e6ef5-c329-4cb3-a097-323b458b7c60",
+    "make": "Ford",
+    "model": "Bronco II",
+    "price": 43784,
+    "year": 1990,
+    "vin": "KNAFX6A86F5091538"
+  },
+  {
+    "Id": "5df71ecb-0d95-4617-82e9-da30e87af5cb",
+    "make": "Volkswagen",
+    "model": "Rabbit",
+    "price": 26550,
+    "year": 2006,
+    "vin": "WAUGL98E67A725114"
+  },
+  {
+    "Id": "d2a0bb9f-c75b-4e26-acff-d02595b20f19",
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "price": 11404,
+    "year": 2012,
+    "vin": "JN1BJ0HRXEM403432"
+  },
+  {
+    "Id": "66729981-5ee1-4a39-8493-f7e2279f7e89",
+    "make": "Pontiac",
+    "model": "Grand Prix",
+    "price": 42750,
+    "year": 1973,
+    "vin": "1G6KS54Y23U192974"
+  },
+  {
+    "Id": "01e28b32-1549-41fb-98c1-93b7c94cf626",
+    "make": "Chevrolet",
+    "model": "Beretta",
+    "price": 47763,
+    "year": 1995,
+    "vin": "SALVP2BG1FH949759"
+  },
+  {
+    "Id": "60f24b90-f917-47e8-b525-17635409c24b",
+    "make": "Ford",
+    "model": "F150",
+    "price": 34509,
+    "year": 1997,
+    "vin": "JHMFB4F24CS733275"
+  },
+  {
+    "Id": "6d40b2dc-7a5d-410e-a89f-56b6990c339f",
+    "make": "Ford",
+    "model": "Thunderbird",
+    "price": 55516,
+    "year": 1965,
+    "vin": "1C6RD6HT8CS311883"
+  },
+  {
+    "Id": "5a96314f-b9e3-48b4-8971-9cbd635bbfda",
+    "make": "Ford",
+    "model": "Courier",
+    "price": 34440,
+    "year": 1989,
+    "vin": "1GYS4CEF9ER977730"
+  },
+  {
+    "Id": "0c60aff1-5d63-4559-9181-31ff34c412cd",
+    "make": "Lincoln",
+    "model": "Mark VIII",
+    "price": 14645,
+    "year": 1993,
+    "vin": "WBAEH73485C054378"
+  },
+  {
+    "Id": "f10f13eb-7291-4d53-a1e9-11a20238e024",
+    "make": "GMC",
+    "model": "1500 Club Coupe",
+    "price": 12084,
+    "year": 1999,
+    "vin": "1G6DC8EG9A0251424"
+  },
+  {
+    "Id": "ff08f838-87ed-488a-ba84-488f85f4c2ba",
+    "make": "Volvo",
+    "model": "C30",
+    "price": 29404,
+    "year": 2011,
+    "vin": "3D4PH1FG1BT076482"
+  },
+  {
+    "Id": "065e4b60-85b1-4a16-b2fc-86f8a429765c",
+    "make": "Chevrolet",
+    "model": "Camaro",
+    "price": 12777,
+    "year": 1994,
+    "vin": "3VW4T7AT7EM513287"
+  },
+  {
+    "Id": "6a6508e2-8083-4252-9908-2e471589fb88",
+    "make": "Mitsubishi",
+    "model": "Cordia",
+    "price": 22989,
+    "year": 1988,
+    "vin": "WA1YD54B13N558604"
+  },
+  {
+    "Id": "2aac31ee-5164-41ae-ba34-b4e75f89c069",
+    "make": "Ford",
+    "model": "Contour",
+    "price": 29881,
+    "year": 1995,
+    "vin": "3C63DPGL8CG824586"
+  },
+  {
+    "Id": "d619795a-58a3-4950-812d-221377baa18b",
+    "make": "Ford",
+    "model": "Focus",
+    "price": 23144,
+    "year": 2013,
+    "vin": "WBA3G7C56EK592568"
+  },
+  {
+    "Id": "a525e00a-2816-447f-b89b-29b7f9f493cf",
+    "make": "Chevrolet",
+    "model": "Express 1500",
+    "price": 32865,
+    "year": 2007,
+    "vin": "5TDDCRFH1FS595392"
+  },
+  {
+    "Id": "eceb0e2e-585d-4e7d-bfd4-66bf0dc90fa7",
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "price": 25917,
+    "year": 2000,
+    "vin": "2C4RDGBG0ER520887"
+  },
+  {
+    "Id": "195bfdba-c397-4538-a87c-0941d89486b3",
+    "make": "Suzuki",
+    "model": "Swift",
+    "price": 55639,
+    "year": 2000,
+    "vin": "WAU2GBFC8EN609894"
+  },
+  {
+    "Id": "08293fbf-f64a-4728-b278-4ddedff44d1b",
+    "make": "Toyota",
+    "model": "Echo",
+    "price": 10745,
+    "year": 2000,
+    "vin": "JH4DB75651S164799"
+  },
+  {
+    "Id": "6ef4f8af-6fe8-4a20-8ca4-eef543a85f94",
+    "make": "Dodge",
+    "model": "Ram",
+    "price": 27524,
+    "year": 2009,
+    "vin": "3C3CFFCR1CT936519"
+  },
+  {
+    "Id": "b2235727-6c31-4fb0-aea9-b337f37ec35a",
+    "make": "Ford",
+    "model": "Excursion",
+    "price": 22523,
+    "year": 2000,
+    "vin": "SCFFDCCD7BG161830"
+  },
+  {
+    "Id": "af896c09-566d-4d79-8ed6-87bf889a6f1a",
+    "make": "Chevrolet",
+    "model": "Venture",
+    "price": 23229,
+    "year": 2002,
+    "vin": "WA1AGBFE0CD113176"
+  },
+  {
+    "Id": "9d36cb3b-4fd7-44e3-a509-3e90e57b7b85",
+    "make": "Eagle",
+    "model": "Talon",
+    "price": 30296,
+    "year": 1992,
+    "vin": "1G4GH5E38CF453187"
+  },
+  {
+    "Id": "6f402524-4337-4196-bc6b-1ef2d279524b",
+    "make": "Pontiac",
+    "model": "Vibe",
+    "price": 56951,
+    "year": 2009,
+    "vin": "WAUNF78P46A332036"
+  },
+  {
+    "Id": "4fcbffe6-1bdc-4475-a38c-7bd269c806d9",
+    "make": "Bentley",
+    "model": "Continental GTC",
+    "price": 47327,
+    "year": 2007,
+    "vin": "3GYFNBEY2AS102927"
+  },
+  {
+    "Id": "77b73f56-3b79-4f79-b068-4d2ccbb6f7e8",
+    "make": "GMC",
+    "model": "Savana 2500",
+    "price": 16408,
+    "year": 2004,
+    "vin": "1D7RV1GT0BS451697"
+  },
+  {
+    "Id": "144b853d-9432-4323-9228-7d550aac553d",
+    "make": "BMW",
+    "model": "325",
+    "price": 20116,
+    "year": 2004,
+    "vin": "WBS3C9C59FP431669"
+  },
+  {
+    "Id": "8185f4c3-e56f-4cb6-b581-b403b4804356",
+    "make": "Hyundai",
+    "model": "Azera",
+    "price": 57025,
+    "year": 2012,
+    "vin": "JH4CU25609C201160"
+  },
+  {
+    "Id": "eb6021c3-56df-4015-bb37-01843a85a59b",
+    "make": "BMW",
+    "model": "X5 M",
+    "price": 37688,
+    "year": 2013,
+    "vin": "WA1DMAFP5FA145791"
+  },
+  {
+    "Id": "134d2d19-80ba-456d-b2ce-d877fea20830",
+    "make": "Ford",
+    "model": "Crown Victoria",
+    "price": 43834,
+    "year": 1999,
+    "vin": "JTHBP5C29A5103533"
+  },
+  {
+    "Id": "5531f074-07ec-4980-89f8-9fe94592ac7b",
+    "make": "BMW",
+    "model": "5 Series",
+    "price": 39859,
+    "year": 2008,
+    "vin": "WAUEH98E76A332665"
+  },
+  {
+    "Id": "6b36e932-e169-47bf-a453-21c4a689332f",
+    "make": "Audi",
+    "model": "80",
+    "price": 19800,
+    "year": 1990,
+    "vin": "2C3CCAJG8EH816743"
+  },
+  {
+    "Id": "acdc0e5f-d31c-4cdf-8989-faf868b3d136",
+    "make": "Chevrolet",
+    "model": "Camaro",
+    "price": 57082,
+    "year": 2002,
+    "vin": "JN1AZ4EH0FM889077"
+  },
+  {
+    "Id": "98a92867-1d60-4f3a-a15f-2472c4a7ad37",
+    "make": "Chevrolet",
+    "model": "G-Series 1500",
+    "price": 53264,
+    "year": 1997,
+    "vin": "WAUXD68D42A358760"
+  },
+  {
+    "Id": "47453313-2b20-4435-bda3-8b5a54ef5350",
+    "make": "Audi",
+    "model": "A5",
+    "price": 20085,
+    "year": 2011,
+    "vin": "KM8JT3AB1CU491961"
+  },
+  {
+    "Id": "c442ac50-12fb-4cf9-a99f-fbf6d1ced2fc",
+    "make": "Honda",
+    "model": "CR-X",
+    "price": 47981,
+    "year": 1985,
+    "vin": "1FTEX1CM3BK592018"
+  },
+  {
+    "Id": "cf7fc4d5-1c03-445b-886e-72de3150347b",
+    "make": "Pontiac",
+    "model": "Sunbird",
+    "price": 35529,
+    "year": 1986,
+    "vin": "1D7RB1CT6AS157430"
+  },
+  {
+    "Id": "4829cf0e-6280-4d81-ab7a-eeac87b1b185",
+    "make": "GMC",
+    "model": "Suburban 1500",
+    "price": 30983,
+    "year": 1996,
+    "vin": "SALVP1BGXCH581250"
+  },
+  {
+    "Id": "a2393d01-a043-46d0-a46e-792bf2b5b07c",
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "price": 22203,
+    "year": 2002,
+    "vin": "WAUDG78E46A805487"
+  },
+  {
+    "Id": "aee97aa0-99fa-4f63-9b77-6b2b5fb02330",
+    "make": "Infiniti",
+    "model": "G37",
+    "price": 21283,
+    "year": 2009,
+    "vin": "SCBGC3ZA5EC063624"
+  },
+  {
+    "Id": "8aa0144a-8de6-4ea8-840e-272168dc8bac",
+    "make": "Chevrolet",
+    "model": "Corsica",
+    "price": 16212,
+    "year": 1996,
+    "vin": "3GTU2YEJ8BG625000"
+  },
+  {
+    "Id": "3f65de93-c5b1-4c69-8cdc-2465262332ac",
+    "make": "Dodge",
+    "model": "Ram Wagon B150",
+    "price": 20919,
+    "year": 1992,
+    "vin": "1G4PN5SKXC4570673"
+  },
+  {
+    "Id": "092622e4-265a-41fb-94dc-0d814d2c54cf",
+    "make": "Volvo",
+    "model": "XC70",
+    "price": 30549,
+    "year": 2006,
+    "vin": "1G4GC5EC0BF397470"
+  },
+  {
+    "Id": "2b0eb25b-e13a-456f-a980-08e4e60bc506",
+    "make": "Dodge",
+    "model": "Neon",
+    "price": 55536,
+    "year": 2004,
+    "vin": "1FTEW1C82AF514648"
+  },
+  {
+    "Id": "9080d180-72f2-4f12-b3c2-0912ffeedbd7",
+    "make": "Ford",
+    "model": "Taurus",
+    "price": 12737,
+    "year": 1987,
+    "vin": "WAUHGBFC1DN254642"
+  },
+  {
+    "Id": "0404ae9d-ea4f-48ea-b50a-1ca54c5bb93c",
+    "make": "Ford",
+    "model": "Expedition EL",
+    "price": 32473,
+    "year": 2010,
+    "vin": "WAUDL64F65N783696"
+  },
+  {
+    "Id": "f9b8285b-9d64-4ed5-8c3b-859d2742e315",
+    "make": "Porsche",
+    "model": "928",
+    "price": 22029,
+    "year": 1987,
+    "vin": "19UUA9F21EA702231"
+  },
+  {
+    "Id": "d84bec2e-16bf-4335-8c42-9fac9c2aac2a",
+    "make": "Volkswagen",
+    "model": "New Beetle",
+    "price": 31713,
+    "year": 2009,
+    "vin": "KMHGH4JH3FU056661"
+  },
+  {
+    "Id": "e10f2784-201b-46fd-ae59-1683ef1ddf9d",
+    "make": "Pontiac",
+    "model": "Sunfire",
+    "price": 11459,
+    "year": 1996,
+    "vin": "WP0AB2A98AS649543"
+  },
+  {
+    "Id": "21dbabcc-3355-4aa4-b8ea-32d097291865",
+    "make": "Dodge",
+    "model": "D250",
+    "price": 52079,
+    "year": 1993,
+    "vin": "JTHFE2C22B2643105"
+  },
+  {
+    "Id": "2a8d0c71-f8a5-4c27-92c6-1169ae0eb5f1",
+    "make": "Mitsubishi",
+    "model": "3000GT",
+    "price": 33331,
+    "year": 1994,
+    "vin": "WBAKF3C50DJ752603"
+  },
+  {
+    "Id": "6ee079d2-f278-4e96-9b8b-b6717e4293f9",
+    "make": "Chevrolet",
+    "model": "Volt",
+    "price": 32964,
+    "year": 2011,
+    "vin": "1G4HP57M29U884061"
+  },
+  {
+    "Id": "d689537e-b027-4310-9bc7-8c11847b0b18",
+    "make": "Cadillac",
+    "model": "Escalade ESV",
+    "price": 23637,
+    "year": 2007,
+    "vin": "1J4NF1FB4BD675147"
+  },
+  {
+    "Id": "ab42b06a-b96f-4e04-83f5-b9b06f2a2c43",
+    "make": "Mercedes-Benz",
+    "model": "SLR McLaren",
+    "price": 57537,
+    "year": 2008,
+    "vin": "1GKS1FFJ2BR366330"
+  },
+  {
+    "Id": "190786fa-41c9-4b4c-b503-02147ab5cf52",
+    "make": "Ford",
+    "model": "Laser",
+    "price": 33965,
+    "year": 1989,
+    "vin": "19VDE3F33EE227454"
+  },
+  {
+    "Id": "96ee07d5-4444-4644-b287-ed75616d5fd5",
+    "make": "Saab",
+    "model": "900",
+    "price": 18682,
+    "year": 1999,
+    "vin": "JN1CV6FE3FM226851"
+  },
+  {
+    "Id": "72bdd515-27a5-4661-801b-3627cc53e497",
+    "make": "Suzuki",
+    "model": "Swift",
+    "price": 17273,
+    "year": 1991,
+    "vin": "SCBDR3ZA4BC867135"
+  },
+  {
+    "Id": "2d38843d-b1f3-40c4-bdf6-631580be94d0",
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "price": 26053,
+    "year": 1989,
+    "vin": "1D4RE3GG5BC749829"
+  },
+  {
+    "Id": "48c33fc3-4449-4423-9fc0-e709be291eaf",
+    "make": "Chevrolet",
+    "model": "Malibu",
+    "price": 16762,
+    "year": 2004,
+    "vin": "3VWA17AU1FM821896"
+  },
+  {
+    "Id": "617c2a8f-0046-43a1-9ac5-2d66373c445e",
+    "make": "Pontiac",
+    "model": "Sunfire",
+    "price": 40343,
+    "year": 1999,
+    "vin": "3D73M4EL5AG716715"
+  },
+  {
+    "Id": "50ccdf46-3628-471d-9b51-3195e46d5a95",
+    "make": "Mercury",
+    "model": "Cougar",
+    "price": 18207,
+    "year": 1970,
+    "vin": "3GYFNFE31CS652344"
+  },
+  {
+    "Id": "d5197db1-4287-435d-b2b1-089833f670c6",
+    "make": "Ford",
+    "model": "GT500",
+    "price": 41106,
+    "year": 2007,
+    "vin": "JN1CV6FE2EM364587"
+  },
+  {
+    "Id": "1eb73ac2-f630-4508-8a8a-94447d7d1243",
+    "make": "Land Rover",
+    "model": "LR3",
+    "price": 21435,
+    "year": 2005,
+    "vin": "JM1BL1H46A1296117"
+  },
+  {
+    "Id": "6b44851c-ae08-43cb-aa54-0c6f9abdbc96",
+    "make": "GMC",
+    "model": "Savana 3500",
+    "price": 57361,
+    "year": 1996,
+    "vin": "WAUUL78E27A998980"
+  },
+  {
+    "Id": "9d055aa3-a9e5-4e1a-a064-815a62dbcbbc",
+    "make": "Buick",
+    "model": "Skyhawk",
+    "price": 53241,
+    "year": 1984,
+    "vin": "WAUAKAFB4BN594253"
+  },
+  {
+    "Id": "951de44a-07a7-4d88-a724-e96ab59dfc56",
+    "make": "GMC",
+    "model": "Yukon XL 2500",
+    "price": 42250,
+    "year": 2002,
+    "vin": "WBAFU9C52CD417107"
+  },
+  {
+    "Id": "eb0214d2-0831-4cb3-9388-02a4b27e3f50",
+    "make": "Kia",
+    "model": "Sportage",
+    "price": 42805,
+    "year": 2002,
+    "vin": "WBAEB5C50AC403543"
+  },
+  {
+    "Id": "8c0a1db8-d6d3-4b5d-bd2a-3f27aed6492b",
+    "make": "Jeep",
+    "model": "Liberty",
+    "price": 29694,
+    "year": 2010,
+    "vin": "WAUEFBFLXBN225806"
+  },
+  {
+    "Id": "8773a6a7-3393-42d8-9df8-39a3b713fca6",
+    "make": "Mercury",
+    "model": "Grand Marquis",
+    "price": 58620,
+    "year": 1993,
+    "vin": "WAUJT64B63N419467"
+  },
+  {
+    "Id": "a6c024dd-e6ee-4e3d-bec3-d2a18398d76b",
+    "make": "Pontiac",
+    "model": "Bonneville",
+    "price": 50940,
+    "year": 1988,
+    "vin": "2C3CDXBG6CH581626"
+  },
+  {
+    "Id": "c9e770e0-1ca1-4c9f-8913-a5a3df507abb",
+    "make": "Mitsubishi",
+    "model": "Lancer Evolution",
+    "price": 51217,
+    "year": 2011,
+    "vin": "1G6AH5RX0D0106192"
+  },
+  {
+    "Id": "06757a99-6117-49a6-b27e-0e05f0e93ba4",
+    "make": "Lexus",
+    "model": "LS",
+    "price": 52953,
+    "year": 1990,
+    "vin": "WAUSH74F88N537512"
+  },
+  {
+    "Id": "13154ecc-b061-4520-8be3-5d2e4a257e16",
+    "make": "Honda",
+    "model": "CR-V",
+    "price": 24347,
+    "year": 1999,
+    "vin": "5BZAF0AA5EN431812"
+  },
+  {
+    "Id": "3a2bada8-94d5-431d-916e-1a28c916bd8e",
+    "make": "Honda",
+    "model": "CR-V",
+    "price": 10080,
+    "year": 2011,
+    "vin": "KMHGH4JH3DU021471"
+  },
+  {
+    "Id": "b0d65225-e223-49da-9f54-9371249dfb94",
+    "make": "GMC",
+    "model": "Savana 1500",
+    "price": 41864,
+    "year": 1998,
+    "vin": "WAUKF78E98A972487"
+  },
+  {
+    "Id": "bc7ae802-ced5-4f6d-abf3-81645c5fba5d",
+    "make": "Honda",
+    "model": "Prelude",
+    "price": 58346,
+    "year": 2001,
+    "vin": "SCFBF04B88G351195"
+  },
+  {
+    "Id": "3e7ac7a3-a7d1-4915-99dc-2ecc6b08dfd1",
+    "make": "Land Rover",
+    "model": "LR3",
+    "price": 27861,
+    "year": 2006,
+    "vin": "1FTEW1CM8EF266988"
+  },
+  {
+    "Id": "d0f24c92-034c-4fa1-acab-1f74a3531e01",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "price": 16582,
+    "year": 2006,
+    "vin": "YV1982BW5A1006010"
+  },
+  {
+    "Id": "6be6905b-e795-4f68-b23a-0462f1dbd9c6",
+    "make": "Pontiac",
+    "model": "Grand Am",
+    "price": 22678,
+    "year": 1991,
+    "vin": "1G6KH5EY0AU601399"
+  },
+  {
+    "Id": "04b80368-adcc-41fc-82bd-50254b2a7efd",
+    "make": "Ford",
+    "model": "Fusion",
+    "price": 45228,
+    "year": 2010,
+    "vin": "JN8AF5MR0BT664166"
+  },
+  {
+    "Id": "122f6403-e04c-4152-99ff-aade0dd0d10f",
+    "make": "Oldsmobile",
+    "model": "Regency",
+    "price": 48876,
+    "year": 1997,
+    "vin": "2HNYD18836H762826"
+  },
+  {
+    "Id": "6299a64d-d464-4402-be5c-173e6ad19c9d",
+    "make": "Mercury",
+    "model": "Mountaineer",
+    "price": 58770,
+    "year": 2007,
+    "vin": "1C3CDFCA4DD053568"
+  },
+  {
+    "Id": "5e5d4f36-036f-498e-8228-44769dcacc63",
+    "make": "Chrysler",
+    "model": "New Yorker",
+    "price": 50902,
+    "year": 1996,
+    "vin": "5N1AT2MK9EC345077"
+  },
+  {
+    "Id": "71c1e70b-cfa4-4d29-b240-c5b2d6d6dfa1",
+    "make": "Ford",
+    "model": "F250",
+    "price": 55202,
+    "year": 2001,
+    "vin": "SCFEBBDL7EG545922"
+  },
+  {
+    "Id": "3715e035-4ae4-4fdb-b082-f0e28fa8fe16",
+    "make": "Maybach",
+    "model": "Landaulet",
+    "price": 13540,
+    "year": 2011,
+    "vin": "WAUYGAFC9CN203947"
+  },
+  {
+    "Id": "1353a795-d937-464b-904a-ca05cc6d4588",
+    "make": "Toyota",
+    "model": "Avalon",
+    "price": 12895,
+    "year": 2001,
+    "vin": "5FRYD3H99GB242128"
+  },
+  {
+    "Id": "a7b8a4b9-35d9-4e02-b417-6653df292cfa",
+    "make": "Mazda",
+    "model": "B-Series Plus",
+    "price": 29066,
+    "year": 1994,
+    "vin": "1FTEX1C83AF035281"
+  },
+  {
+    "Id": "dca638b4-c8f6-493e-8e41-56a7906521d1",
+    "make": "Land Rover",
+    "model": "Defender Ice Edition",
+    "price": 10341,
+    "year": 2010,
+    "vin": "3C63D2ELXCG367589"
+  },
+  {
+    "Id": "aaf71823-8c9c-4890-aaca-31014b400fcd",
+    "make": "Volvo",
+    "model": "850",
+    "price": 58889,
+    "year": 1996,
+    "vin": "1GYFC66888R513774"
+  },
+  {
+    "Id": "7c592b54-220b-4c00-bb26-dd10abafaf97",
+    "make": "Lincoln",
+    "model": "Mark VIII",
+    "price": 48445,
+    "year": 1998,
+    "vin": "JH4CU2F60BC813461"
+  },
+  {
+    "Id": "b7fea227-4662-49b5-9c11-2c60843f5de3",
+    "make": "Kia",
+    "model": "Sorento",
+    "price": 16061,
+    "year": 2005,
+    "vin": "WBSBR93455P815349"
+  },
+  {
+    "Id": "e2a9d916-bfa7-4a93-9854-b13b1dc472a6",
+    "make": "Audi",
+    "model": "90",
+    "price": 27770,
+    "year": 1995,
+    "vin": "WAU2GAFC9CN357807"
+  },
+  {
+    "Id": "fb6f0b8e-0d41-46f0-93d2-7ac50f54d135",
+    "make": "Honda",
+    "model": "CR-V",
+    "price": 18235,
+    "year": 2008,
+    "vin": "1C4NJCBA5FD416718"
+  },
+  {
+    "Id": "f6abb288-0e51-4da6-ae3d-f4a3a3d8b217",
+    "make": "Buick",
+    "model": "Century",
+    "price": 36954,
+    "year": 2002,
+    "vin": "WDDGF4HB6EA751539"
+  },
+  {
+    "Id": "43c4b68d-8ef8-4576-8474-57cf22546340",
+    "make": "Mercury",
+    "model": "Grand Marquis",
+    "price": 30639,
+    "year": 1987,
+    "vin": "WA1DGBFE3CD232594"
+  },
+  {
+    "Id": "bd6bf169-c9f9-4b9d-bea4-9f161830ebc4",
+    "make": "Dodge",
+    "model": "Intrepid",
+    "price": 20974,
+    "year": 1996,
+    "vin": "1GT022CGXEF283705"
+  },
+  {
+    "Id": "2dcf2a00-1979-4611-a7a6-fb45f9e48590",
+    "make": "Chevrolet",
+    "model": "Silverado 3500",
+    "price": 58126,
+    "year": 2004,
+    "vin": "1N6AD0CU1DN395206"
+  },
+  {
+    "Id": "ba7842d6-07b1-4fed-86ba-b33b0f6ba6b4",
+    "make": "Chevrolet",
+    "model": "Corvair 500",
+    "price": 22391,
+    "year": 1963,
+    "vin": "3GYFNKE68BS406604"
+  },
+  {
+    "Id": "9b13cfb6-e323-4ece-ab83-aaea61c03118",
+    "make": "Dodge",
+    "model": "Intrepid",
+    "price": 23342,
+    "year": 1994,
+    "vin": "WBA4B3C53FG507072"
+  },
+  {
+    "Id": "571e707b-69ef-463e-b168-dfaa66ec4b93",
+    "make": "Kia",
+    "model": "Sedona",
+    "price": 28416,
+    "year": 2011,
+    "vin": "1G6DJ5E31C0405452"
+  },
+  {
+    "Id": "8168fd95-d6b1-41d9-9611-7ba001170c8d",
+    "make": "Mercedes-Benz",
+    "model": "M-Class",
+    "price": 52705,
+    "year": 2008,
+    "vin": "JTMHY7AJ4B4601595"
+  },
+  {
+    "Id": "ad8eb456-a2bd-43be-b503-32eaff4e0186",
+    "make": "Jensen",
+    "model": "Interceptor",
+    "price": 50480,
+    "year": 1966,
+    "vin": "WBAUN7C51DV986034"
+  },
+  {
+    "Id": "da756ef4-4838-49b4-950e-ed41dc2fc10f",
+    "make": "Mazda",
+    "model": "Mazdaspeed 3",
+    "price": 12871,
+    "year": 2011,
+    "vin": "KNADH5A32A6688904"
+  },
+  {
+    "Id": "214aefdd-2051-4468-aa98-23efe7c9b1fd",
+    "make": "Ford",
+    "model": "Econoline E350",
+    "price": 16255,
+    "year": 1995,
+    "vin": "5UXFG43509L721028"
+  },
+  {
+    "Id": "1e21e8bb-3dd7-407f-87d3-ea4e6125a479",
+    "make": "Ford",
+    "model": "Taurus",
+    "price": 21456,
+    "year": 1993,
+    "vin": "3C63D3GL4CG969214"
+  },
+  {
+    "Id": "f523098a-1e36-4177-823a-7cdcd4061996",
+    "make": "Suzuki",
+    "model": "Swift",
+    "price": 45932,
+    "year": 1988,
+    "vin": "1N6AD0CUXDN877348"
+  },
+  {
+    "Id": "70975e1e-3cf1-48d3-acef-c610e7c93892",
+    "make": "Infiniti",
+    "model": "M",
+    "price": 29374,
+    "year": 2009,
+    "vin": "1GYS3GEF1BR632729"
+  },
+  {
+    "Id": "fda72d4a-6517-4941-bd47-252d65035b55",
+    "make": "Lincoln",
+    "model": "Town Car",
+    "price": 47324,
+    "year": 2008,
+    "vin": "2HNYD18281H122986"
+  },
+  {
+    "Id": "555a36cd-e37f-4cbc-bd0f-527b3666bf10",
+    "make": "Ford",
+    "model": "Mustang",
+    "price": 55524,
+    "year": 1987,
+    "vin": "1N4AA5AP7EC121033"
+  },
+  {
+    "Id": "fd9eaa48-f551-4aa2-8965-f9230c988c91",
+    "make": "Chevrolet",
+    "model": "Corvette",
+    "price": 11617,
+    "year": 2003,
+    "vin": "JN8AZ1FY2EW249566"
+  },
+  {
+    "Id": "6e445b7a-43db-4805-a65e-9a934053f69d",
+    "make": "Subaru",
+    "model": "Loyale",
+    "price": 46158,
+    "year": 1990,
+    "vin": "WBAUL7C56AV138586"
+  },
+  {
+    "Id": "1c6a6fb4-4eb7-46d7-8e66-18f414e02f6f",
+    "make": "Mercury",
+    "model": "Capri",
+    "price": 42322,
+    "year": 1985,
+    "vin": "1FTWW3A53AE667781"
+  },
+  {
+    "Id": "7a31984e-856a-4260-93c0-7d4fc198fb33",
+    "make": "Saturn",
+    "model": "L-Series",
+    "price": 40659,
+    "year": 2004,
+    "vin": "JTDZN3EU7E3712856"
+  },
+  {
+    "Id": "19987d3f-0663-425b-9b22-43afb45e1648",
+    "make": "Chevrolet",
+    "model": "Colorado",
+    "price": 54370,
+    "year": 2006,
+    "vin": "WBA6B4C57ED485334"
+  },
+  {
+    "Id": "aa7a1ead-912d-460c-b839-43f08a97d775",
+    "make": "Chevrolet",
+    "model": "Corvette",
+    "price": 23472,
+    "year": 1998,
+    "vin": "JN8AF5MRXDT736591"
+  },
+  {
+    "Id": "1b38cd9d-6768-4067-85fd-5fbdbb380c5b",
+    "make": "Chevrolet",
+    "model": "S10",
+    "price": 25293,
+    "year": 1999,
+    "vin": "5N1AA0NC0FN867488"
+  },
+  {
+    "Id": "a5c48606-d06d-47a7-804b-a45d965603d9",
+    "make": "Subaru",
+    "model": "Tribeca",
+    "price": 36588,
+    "year": 2011,
+    "vin": "WAU3GAFD2FN763252"
+  },
+  {
+    "Id": "4e27b641-5ee4-4bb6-b10f-0c7176f0aa9e",
+    "make": "Chrysler",
+    "model": "Sebring",
+    "price": 47968,
+    "year": 2002,
+    "vin": "KM8NU4CC8BU999062"
+  },
+  {
+    "Id": "6fe19874-f90b-4335-8257-46803130e822",
+    "make": "Mazda",
+    "model": "Miata MX-5",
+    "price": 36518,
+    "year": 2003,
+    "vin": "5TDBK3EH2CS013949"
+  },
+  {
+    "Id": "bf87db61-7182-4cc1-9381-00f0f6d745f8",
+    "make": "Chevrolet",
+    "model": "HHR",
+    "price": 31585,
+    "year": 2008,
+    "vin": "3C3CFFER9FT475538"
+  },
+  {
+    "Id": "a7ecb7b8-a119-4fa5-856e-a82ad464674b",
+    "make": "Lexus",
+    "model": "LS",
+    "price": 19817,
+    "year": 2010,
+    "vin": "4T1BF1FK0DU413469"
+  },
+  {
+    "Id": "cb96b1f8-1c26-4993-af88-01c35aad3415",
+    "make": "Mercedes-Benz",
+    "model": "CLK-Class",
+    "price": 40930,
+    "year": 2008,
+    "vin": "WA1EV94LX7D744170"
+  },
+  {
+    "Id": "3a681083-3793-4884-81e9-145f02073bbc",
+    "make": "Mercedes-Benz",
+    "model": "SLS-Class",
+    "price": 56635,
+    "year": 2012,
+    "vin": "3N1AB6AP9CL685946"
+  },
+  {
+    "Id": "d696c445-eb81-40cf-83e7-03765221360e",
+    "make": "Mitsubishi",
+    "model": "Chariot",
+    "price": 41509,
+    "year": 1996,
+    "vin": "1FTSW2A55AE453786"
+  },
+  {
+    "Id": "3fa4be6e-b468-4c41-b9f9-fe4e38815a02",
+    "make": "Ford",
+    "model": "Expedition EL",
+    "price": 14830,
+    "year": 2008,
+    "vin": "WA1VFBFL8EA674586"
+  },
+  {
+    "Id": "a63c0ce6-edd4-4c04-8fbd-25c0e097771b",
+    "make": "Dodge",
+    "model": "Ram",
+    "price": 31860,
+    "year": 2008,
+    "vin": "5J8TB3H51FL408055"
+  },
+  {
+    "Id": "8e14a767-f8a5-4c0e-bc82-aa90b44d60c8",
+    "make": "Mercedes-Benz",
+    "model": "W201",
+    "price": 17372,
+    "year": 1990,
+    "vin": "1G6DL8EV0A0862571"
+  },
+  {
+    "Id": "108b744f-574c-4c64-b423-f98972cd9e9e",
+    "make": "Alfa Romeo",
+    "model": "164",
+    "price": 24119,
+    "year": 1995,
+    "vin": "KMHTC6AD2FU311256"
+  },
+  {
+    "Id": "b422dd47-9c82-4405-a786-3ae1b7cd6a18",
+    "make": "Subaru",
+    "model": "Brat",
+    "price": 39691,
+    "year": 1985,
+    "vin": "WA1LFBFP7CA626276"
+  },
+  {
+    "Id": "0154d43d-d8da-45ea-9e3a-1f5025a7fbc3",
+    "make": "Dodge",
+    "model": "Ram 1500",
+    "price": 13993,
+    "year": 1996,
+    "vin": "19XFB4F25FE441918"
+  },
+  {
+    "Id": "543c1f03-6653-4470-a0a0-4db56ee0e762",
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "price": 44394,
+    "year": 1998,
+    "vin": "WAUSFAFL3BA687497"
+  },
+  {
+    "Id": "291dd91d-ca89-48f5-9dd7-7e9eb842f35f",
+    "make": "Scion",
+    "model": "tC",
+    "price": 41246,
+    "year": 2007,
+    "vin": "JM3ER2A51C0633023"
+  },
+  {
+    "Id": "293d10c1-0467-4655-9e0e-a37726e7c5f5",
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "price": 40452,
+    "year": 2001,
+    "vin": "WAUVVAFR8BA987055"
+  },
+  {
+    "Id": "17984b31-7496-47f7-a267-f07116921ca7",
+    "make": "Ford",
+    "model": "Freestar",
+    "price": 16313,
+    "year": 2007,
+    "vin": "5GAKRAKD5FJ170993"
+  },
+  {
+    "Id": "5b168664-fc3f-41cf-83d6-b521151a1510",
+    "make": "Volkswagen",
+    "model": "Passat",
+    "price": 29414,
+    "year": 2003,
+    "vin": "2T1KE4EE7BC967655"
+  },
+  {
+    "Id": "a52b6268-b8d6-4a9f-a25f-af2499f7ca15",
+    "make": "Volvo",
+    "model": "S80",
+    "price": 48856,
+    "year": 2002,
+    "vin": "WVGAV7AX6FW344556"
+  },
+  {
+    "Id": "00f84689-7367-4f1f-b2d7-674b1a9407ef",
+    "make": "Subaru",
+    "model": "Justy",
+    "price": 30231,
+    "year": 1988,
+    "vin": "WBAAX13473P712549"
+  },
+  {
+    "Id": "12f3112b-b585-40d6-854c-0ad92f67e697",
+    "make": "BMW",
+    "model": "6 Series",
+    "price": 17937,
+    "year": 2006,
+    "vin": "WAUGFBFC0EN452595"
+  },
+  {
+    "Id": "86d2f25b-235a-41eb-a8cc-19d98f2f0118",
+    "make": "Dodge",
+    "model": "Caravan",
+    "price": 53362,
+    "year": 2007,
+    "vin": "WBAWV53578P628234"
+  },
+  {
+    "Id": "6ee42ab4-ee3e-4f76-8dc7-36fc02c19cc2",
+    "make": "Dodge",
+    "model": "Ram 1500",
+    "price": 29432,
+    "year": 2000,
+    "vin": "WAUCH74F49N039281"
+  },
+  {
+    "Id": "ec522a63-dc6b-45bc-bfa6-39c1b324d909",
+    "make": "Ford",
+    "model": "Mustang",
+    "price": 51989,
+    "year": 1980,
+    "vin": "JN1CV6FE2FM019528"
+  },
+  {
+    "Id": "f67d72c4-18d0-4ff2-8c5b-7e3b563467d3",
+    "make": "Audi",
+    "model": "100",
+    "price": 10638,
+    "year": 1989,
+    "vin": "WAUCVAFR6AA777091"
+  },
+  {
+    "Id": "28eaae9e-f6e8-4efa-8384-15a5a7f08e27",
+    "make": "Mitsubishi",
+    "model": "Chariot",
+    "price": 24530,
+    "year": 1992,
+    "vin": "JM1NC2JF6C0827954"
+  },
+  {
+    "Id": "01862bb0-0fda-4752-957f-d671d02f7208",
+    "make": "Buick",
+    "model": "Skylark",
+    "price": 23574,
+    "year": 1989,
+    "vin": "WBAGN83524D917944"
+  },
+  {
+    "Id": "e9561428-6bf5-40d7-b531-4136f49807b5",
+    "make": "BMW",
+    "model": "X3",
+    "price": 50634,
+    "year": 2010,
+    "vin": "WBAPL33549A251445"
+  },
+  {
+    "Id": "d50185ac-7df0-426b-95bc-f50cb29065d8",
+    "make": "Mercedes-Benz",
+    "model": "S-Class",
+    "price": 43258,
+    "year": 1990,
+    "vin": "1GTN1UEH5EZ501364"
+  },
+  {
+    "Id": "36eda9a2-2096-4bde-98ec-c3dda9a420a3",
+    "make": "Honda",
+    "model": "Accord",
+    "price": 43653,
+    "year": 2000,
+    "vin": "1G6AX5S37E0795367"
+  },
+  {
+    "Id": "f58937b4-9e0e-4c55-9f1d-b54f9fbfeaed",
+    "make": "Saturn",
+    "model": "Outlook",
+    "price": 32393,
+    "year": 2009,
+    "vin": "1G6DG577990676427"
+  },
+  {
+    "Id": "2838688b-f5c0-43af-ad02-876f22c84954",
+    "make": "Lexus",
+    "model": "ES",
+    "price": 41000,
+    "year": 2001,
+    "vin": "SALAB2V63FA647480"
+  },
+  {
+    "Id": "1924aa43-10ec-4e8f-91ba-9452c9fa5a26",
+    "make": "Toyota",
+    "model": "Land Cruiser",
+    "price": 39230,
+    "year": 1999,
+    "vin": "1B3CB4HA5AD156994"
+  },
+  {
+    "Id": "a4a7bc4a-ade9-46e5-9dcb-679724776a9b",
+    "make": "Mazda",
+    "model": "MX-5",
+    "price": 40872,
+    "year": 1996,
+    "vin": "5TDBK3EH6DS612547"
+  },
+  {
+    "Id": "a98245b9-7642-4d61-9f7d-6a68c59aec22",
+    "make": "Plymouth",
+    "model": "Voyager",
+    "price": 26380,
+    "year": 1993,
+    "vin": "1C4RDJAG9FC996533"
+  },
+  {
+    "Id": "36deffc5-9b58-4f7c-bce2-b057ba992d12",
+    "make": "Jeep",
+    "model": "Wrangler",
+    "price": 44960,
+    "year": 1993,
+    "vin": "1G6DS1E37D0354482"
+  },
+  {
+    "Id": "a82dcef2-38d9-4333-a99e-a10abf5c7e1f",
+    "make": "Lexus",
+    "model": "LS",
+    "price": 48046,
+    "year": 1990,
+    "vin": "3C4PDDEGXFT670764"
+  },
+  {
+    "Id": "c01aebcb-d14a-4632-9cac-0366c0c64337",
+    "make": "Subaru",
+    "model": "Outback",
+    "price": 48009,
+    "year": 2005,
+    "vin": "1GKS1GEJ1DR514090"
+  },
+  {
+    "Id": "f9c152ee-23f3-4143-9761-0ff4c8b3aa96",
+    "make": "Chevrolet",
+    "model": "Cobalt SS",
+    "price": 28777,
+    "year": 2008,
+    "vin": "WAUEH98E57A998957"
+  },
+  {
+    "Id": "e1659336-2eea-476f-8d56-e60f7ee7ea11",
+    "make": "Nissan",
+    "model": "Rogue",
+    "price": 37284,
+    "year": 2010,
+    "vin": "WP0CB2A8XFS269613"
+  },
+  {
+    "Id": "88d76597-ae55-435c-848f-85b15c506444",
+    "make": "Volkswagen",
+    "model": "Touareg",
+    "price": 28967,
+    "year": 2003,
+    "vin": "WBAPM5G54BN017971"
+  },
+  {
+    "Id": "794d371f-c5b7-4e88-8b75-9b5723d1c672",
+    "make": "Honda",
+    "model": "Accord",
+    "price": 33519,
+    "year": 2006,
+    "vin": "JTJHY7AXXB4571665"
+  },
+  {
+    "Id": "201a9737-5b74-4f61-ada7-a8bb448e1d7f",
+    "make": "Smart",
+    "model": "Fortwo",
+    "price": 19659,
+    "year": 2008,
+    "vin": "SAJWA0F71F8139402"
+  },
+  {
+    "Id": "fe812e94-1b55-42e0-b215-37ac2af5f346",
+    "make": "Hyundai",
+    "model": "Azera",
+    "price": 38157,
+    "year": 2006,
+    "vin": "1G6DP5E3XC0995469"
+  },
+  {
+    "Id": "d36b5c26-3be1-419f-b45b-c5c786f3e5d5",
+    "make": "Chevrolet",
+    "model": "Suburban 2500",
+    "price": 54215,
+    "year": 1998,
+    "vin": "2G61P5S30E9630413"
+  },
+  {
+    "Id": "aaf4f523-3a4c-4891-bfd2-f1781b8ed7cd",
+    "make": "Kia",
+    "model": "Mentor",
+    "price": 26696,
+    "year": 1997,
+    "vin": "WBABD534X4P906885"
+  },
+  {
+    "Id": "cb28595b-09f5-4e08-850e-a3930f99dfbf",
+    "make": "Honda",
+    "model": "Odyssey",
+    "price": 56578,
+    "year": 1998,
+    "vin": "WAUNF68P46A923574"
+  },
+  {
+    "Id": "bfe92ea6-a26b-41f2-bb00-116b2a65c783",
+    "make": "Mercury",
+    "model": "Sable",
+    "price": 54657,
+    "year": 1996,
+    "vin": "JN1BJ0HR9DM639102"
+  },
+  {
+    "Id": "6f123c5a-1faf-464e-bf1d-a88b331eb8b7",
+    "make": "Bentley",
+    "model": "Continental",
+    "price": 27930,
+    "year": 2008,
+    "vin": "ZHWGU5BZ0CL167139"
+  },
+  {
+    "Id": "8bb7d493-6fd0-47bc-bea5-1ad47111d610",
+    "make": "Lincoln",
+    "model": "Continental",
+    "price": 36339,
+    "year": 1989,
+    "vin": "2G4GN5ECXB9516435"
+  },
+  {
+    "Id": "bb9580dd-2635-4873-ac00-00eebdc75e68",
+    "make": "Ford",
+    "model": "E-Series",
+    "price": 18606,
+    "year": 1995,
+    "vin": "4T1BF1FK5EU816915"
+  },
+  {
+    "Id": "20db3c2d-60cd-4c03-930b-09e8f4784eda",
+    "make": "Suzuki",
+    "model": "SX4",
+    "price": 56409,
+    "year": 2007,
+    "vin": "1ZVBP8AM5C5945728"
+  },
+  {
+    "Id": "54893f8d-c617-4bf7-b8e4-fe2783153d0c",
+    "make": "Toyota",
+    "model": "RAV4",
+    "price": 42706,
+    "year": 2002,
+    "vin": "1C3CDFDH7ED115669"
+  },
+  {
+    "Id": "2432eaec-bfd3-4f34-b459-bc407e5a9e47",
+    "make": "Porsche",
+    "model": "928",
+    "price": 39103,
+    "year": 1987,
+    "vin": "KMHHU6KJ4FU266327"
+  },
+  {
+    "Id": "572813fb-9846-45f2-a05f-c7b7b4ec31fe",
+    "make": "Volkswagen",
+    "model": "Beetle",
+    "price": 28437,
+    "year": 1967,
+    "vin": "1ZVBP8AM0C5781367"
+  },
+  {
+    "Id": "38a353c7-42fa-4b13-9299-73834cec6959",
+    "make": "Toyota",
+    "model": "FJ Cruiser",
+    "price": 29981,
+    "year": 2012,
+    "vin": "WAUWGAFC7DN798371"
+  },
+  {
+    "Id": "062d3ba0-b248-4b9c-a021-72758ea8636c",
+    "make": "Mercedes-Benz",
+    "model": "CLK-Class",
+    "price": 15858,
+    "year": 2008,
+    "vin": "WP0CA2A8XDS927737"
+  },
+  {
+    "Id": "17cd211d-44bb-4622-9d44-5b66fc60b7ba",
+    "make": "Chevrolet",
+    "model": "Express 2500",
+    "price": 29997,
+    "year": 2004,
+    "vin": "YV4960BZ9A1131129"
+  },
+  {
+    "Id": "56df0202-8164-41dd-bd8d-4225a0e3b149",
+    "make": "Pontiac",
+    "model": "Firebird",
+    "price": 47819,
+    "year": 1999,
+    "vin": "1G6DD67V290156888"
+  },
+  {
+    "Id": "a85e1b74-bd53-451c-adf3-5db726f9e9d0",
+    "make": "Mercedes-Benz",
+    "model": "S-Class",
+    "price": 36650,
+    "year": 1988,
+    "vin": "WBAVC53527F989599"
+  },
+  {
+    "Id": "6dc82e5f-2e4f-4733-9118-2827c7d98f86",
+    "make": "Subaru",
+    "model": "Legacy",
+    "price": 17323,
+    "year": 1996,
+    "vin": "2C4RDGBG7ER946396"
+  },
+  {
+    "Id": "434a804c-801d-4c13-a51a-ca64d316d152",
+    "make": "GMC",
+    "model": "Canyon",
+    "price": 20960,
+    "year": 2008,
+    "vin": "1FTEW1CM0BF109144"
+  },
+  {
+    "Id": "edc8c57e-b27a-4ce1-8143-44afd5065184",
+    "make": "Saab",
+    "model": "900",
+    "price": 19432,
+    "year": 1995,
+    "vin": "WBAVS135X8F378023"
+  },
+  {
+    "Id": "368de63d-b507-4b4f-a949-a407f139dc55",
+    "make": "Suzuki",
+    "model": "Reno",
+    "price": 42518,
+    "year": 2007,
+    "vin": "SCFFDAAM9EG701982"
+  },
+  {
+    "Id": "0af5fdf8-6bb9-4736-b8ad-e85d02004de3",
+    "make": "Volkswagen",
+    "model": "New Beetle",
+    "price": 35668,
+    "year": 2003,
+    "vin": "1GD21ZCGXDZ043339"
+  },
+  {
+    "Id": "a3a8b3ed-49d6-4b22-a25a-a7a9b76b5c9f",
+    "make": "Lincoln",
+    "model": "Continental Mark VII",
+    "price": 19844,
+    "year": 1987,
+    "vin": "JA32X2HU5CU743711"
+  },
+  {
+    "Id": "1bef15c2-2d14-4ffd-81fa-597b1525fd55",
+    "make": "Dodge",
+    "model": "Stratus",
+    "price": 25346,
+    "year": 1998,
+    "vin": "2HNYD2H86DH000500"
+  },
+  {
+    "Id": "6d4f085b-572f-452a-ae65-b8668dace8ac",
+    "make": "Kia",
+    "model": "Rio",
+    "price": 18133,
+    "year": 2005,
+    "vin": "SCFAB423X2K051799"
+  },
+  {
+    "Id": "56b1362a-0621-4773-9648-2b178d79f06c",
+    "make": "Toyota",
+    "model": "Avalon",
+    "price": 13561,
+    "year": 2005,
+    "vin": "1G6AX5SX7E0367446"
+  },
+  {
+    "Id": "4fd241d5-56ff-4afc-a743-a66f6f0bdff5",
+    "make": "Dodge",
+    "model": "D350 Club",
+    "price": 45726,
+    "year": 1992,
+    "vin": "19UYA41603A529345"
+  },
+  {
+    "Id": "5e359b94-26db-4679-807c-4fd85ff1cc31",
+    "make": "BMW",
+    "model": "525",
+    "price": 17959,
+    "year": 2006,
+    "vin": "WAUGL78E46A833265"
+  },
+  {
+    "Id": "bb4f7f03-2b52-4c01-8973-4b9cd68522d1",
+    "make": "Mercury",
+    "model": "Lynx",
+    "price": 49405,
+    "year": 1985,
+    "vin": "WP0CB2A83CS150958"
+  },
+  {
+    "Id": "72092c1b-e816-4ee7-834a-64946058cd23",
+    "make": "Lexus",
+    "model": "IS F",
+    "price": 13761,
+    "year": 2009,
+    "vin": "WAUNE78P78A132421"
+  },
+  {
+    "Id": "8f9ba145-4596-4e3e-9476-11fdd738198c",
+    "make": "Mazda",
+    "model": "B-Series",
+    "price": 49700,
+    "year": 2008,
+    "vin": "KNAFZ6A37F5958444"
+  },
+  {
+    "Id": "1ea9c1af-6c4c-4cc3-898e-a7b7ee5306cd",
+    "make": "Mitsubishi",
+    "model": "RVR",
+    "price": 11338,
+    "year": 1995,
+    "vin": "YV4852CZ2B1832783"
+  },
+  {
+    "Id": "2cfb63f5-4272-4748-8bf2-8a346f3d429a",
+    "make": "Lamborghini",
+    "model": "Diablo",
+    "price": 48213,
+    "year": 2001,
+    "vin": "2FMGK5D85FB243423"
+  },
+  {
+    "Id": "055af4e3-0c10-4fc8-b957-92eaf820bd4e",
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "price": 41013,
+    "year": 2002,
+    "vin": "5NPDH4AE6CH307224"
+  },
+  {
+    "Id": "a6ca7721-9e9e-4dd1-b81f-65dad7861a3f",
+    "make": "Chevrolet",
+    "model": "S10",
+    "price": 37027,
+    "year": 1998,
+    "vin": "WAUWFAFH7AN688351"
+  },
+  {
+    "Id": "92c3128f-7beb-4357-ad1f-e6e2630cd3e4",
+    "make": "GMC",
+    "model": "Yukon",
+    "price": 59778,
+    "year": 1999,
+    "vin": "3FA6P0PU6FR068591"
+  },
+  {
+    "Id": "c14d50f8-ad26-4d48-80b4-eb2ffb920323",
+    "make": "Plymouth",
+    "model": "Grand Voyager",
+    "price": 14382,
+    "year": 1999,
+    "vin": "3D73M4CL1BG662995"
+  },
+  {
+    "Id": "edd68823-7c47-4832-a4c1-5969bd95fd94",
+    "make": "Jaguar",
+    "model": "XJ",
+    "price": 44302,
+    "year": 2006,
+    "vin": "2G61W5S82F9492910"
+  },
+  {
+    "Id": "691c6b09-3b59-4285-91da-df336bddb036",
+    "make": "Chevrolet",
+    "model": "Silverado 2500",
+    "price": 47534,
+    "year": 1999,
+    "vin": "WAUPL58E65A346765"
+  },
+  {
+    "Id": "3f5b5b7c-79f3-4fb6-aa3e-bbab5a9727a9",
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "price": 26861,
+    "year": 1985,
+    "vin": "JTDKN3DU3B0132780"
+  },
+  {
+    "Id": "048499e2-14ea-41f4-b145-4460a05d6814",
+    "make": "GMC",
+    "model": "Safari",
+    "price": 41348,
+    "year": 2004,
+    "vin": "5UXZV4C54BL886945"
+  },
+  {
+    "Id": "c345360f-52ff-406f-b73e-498030a50181",
+    "make": "Volvo",
+    "model": "V90",
+    "price": 40225,
+    "year": 1997,
+    "vin": "WDDGF4HB9EG820396"
+  },
+  {
+    "Id": "a7e72d79-dbb5-4b75-b3cb-77e18ab99caa",
+    "make": "Toyota",
+    "model": "Celica",
+    "price": 56645,
+    "year": 2000,
+    "vin": "1G6DS1ED3B0533267"
+  },
+  {
+    "Id": "173de7ae-da9f-44e8-b4ab-462620ab967a",
+    "make": "Pontiac",
+    "model": "Firefly",
+    "price": 12048,
+    "year": 1994,
+    "vin": "1GYFC13259R807752"
+  },
+  {
+    "Id": "4c774cf4-8186-4a3b-957f-67ca1ea0544a",
+    "make": "Lexus",
+    "model": "IS",
+    "price": 52483,
+    "year": 2007,
+    "vin": "2C4JRGAGXER369475"
+  },
+  {
+    "Id": "663bf618-ed6c-4d7f-8050-99ba6ad69002",
+    "make": "Isuzu",
+    "model": "Space",
+    "price": 59321,
+    "year": 1992,
+    "vin": "WBA3C1C56FP655410"
+  },
+  {
+    "Id": "275cd373-c616-4753-b0a7-8b67825f33cd",
+    "make": "GMC",
+    "model": "Yukon",
+    "price": 58527,
+    "year": 2009,
+    "vin": "WAUFFBFL8CA526216"
+  },
+  {
+    "Id": "4be0fff1-381c-428e-83d4-b9c017dfc7a9",
+    "make": "Mercury",
+    "model": "Cougar",
+    "price": 51218,
+    "year": 1996,
+    "vin": "JH4CU2F68BC492656"
+  },
+  {
+    "Id": "7700ed9c-5b40-4a71-901c-147e22d695a2",
+    "make": "Nissan",
+    "model": "Frontier",
+    "price": 12372,
+    "year": 2000,
+    "vin": "1G4GD5G30FF222099"
+  },
+  {
+    "Id": "592128bc-91fb-4491-9e51-f6ba6774210c",
+    "make": "Chevrolet",
+    "model": "Suburban 1500",
+    "price": 15343,
+    "year": 2012,
+    "vin": "1C3BCBEB7CN349349"
+  },
+  {
+    "Id": "ebf6fe87-8e3e-4c74-aa90-1236f4ed6d04",
+    "make": "Mitsubishi",
+    "model": "Montero Sport",
+    "price": 59969,
+    "year": 2003,
+    "vin": "4T1BD1FK4CU665990"
+  },
+  {
+    "Id": "e9c77156-4118-40a5-992f-be837e468f12",
+    "make": "Chevrolet",
+    "model": "Monte Carlo",
+    "price": 29312,
+    "year": 1995,
+    "vin": "1N6BF0KL6FN020664"
+  },
+  {
+    "Id": "7da047e1-a97c-44a2-91c1-61f3dbe53eba",
+    "make": "Toyota",
+    "model": "Camry",
+    "price": 49465,
+    "year": 1995,
+    "vin": "5UXZV4C52DL267246"
+  },
+  {
+    "Id": "7dbc3859-9b90-4d54-9670-b3aa18e7328a",
+    "make": "GMC",
+    "model": "Sierra",
+    "price": 56779,
+    "year": 2011,
+    "vin": "WBSKG9C51DJ333641"
+  },
+  {
+    "Id": "58d56aff-2a6f-4624-bd3d-a24092091abb",
+    "make": "Infiniti",
+    "model": "QX56",
+    "price": 30478,
+    "year": 2008,
+    "vin": "4T3BA3BB6BU684525"
+  },
+  {
+    "Id": "a02ec1dd-1113-46fd-a65d-3901d2d2de25",
+    "make": "Honda",
+    "model": "Pilot",
+    "price": 46655,
+    "year": 2004,
+    "vin": "KNADH5A38B6292705"
+  },
+  {
+    "Id": "650584bb-c0a1-4b6b-9f2e-9e9afc02d772",
+    "make": "Cadillac",
+    "model": "XLR",
+    "price": 22041,
+    "year": 2006,
+    "vin": "5TDDK3DC4CS240686"
+  },
+  {
+    "Id": "f014f2a9-a796-4065-947b-74c09fd7ea1a",
+    "make": "Buick",
+    "model": "LeSabre",
+    "price": 54112,
+    "year": 2001,
+    "vin": "WP0AA2A90AS211876"
+  },
+  {
+    "Id": "1f15a664-42ff-4a80-9f4c-c20d42788dc5",
+    "make": "Mercedes-Benz",
+    "model": "W126",
+    "price": 57742,
+    "year": 1981,
+    "vin": "WBSDX9C58DE574372"
+  },
+  {
+    "Id": "c1b1187c-31d4-451a-9e57-e2d1e43ad340",
+    "make": "Dodge",
+    "model": "Dakota Club",
+    "price": 30750,
+    "year": 1999,
+    "vin": "WBAUL73528V649464"
+  },
+  {
+    "Id": "cb65068e-1ceb-4b74-87d4-3131203f8662",
+    "make": "Kia",
+    "model": "Sportage",
+    "price": 28632,
+    "year": 2001,
+    "vin": "2C3CK3CV8AH919116"
+  },
+  {
+    "Id": "12fd19e4-7210-477a-87ba-a5e874baf8bd",
+    "make": "Mercury",
+    "model": "Villager",
+    "price": 23290,
+    "year": 2002,
+    "vin": "2T1BU4EE3DC333295"
+  },
+  {
+    "Id": "79396d21-35a7-469b-8489-530e8691577b",
+    "make": "Audi",
+    "model": "TT",
+    "price": 57006,
+    "year": 2000,
+    "vin": "WBS3U9C55FJ322206"
+  },
+  {
+    "Id": "e1591df2-c74e-4d51-abae-b66cd124bd20",
+    "make": "Infiniti",
+    "model": "J",
+    "price": 21889,
+    "year": 1994,
+    "vin": "5N1CR2MM9EC359229"
+  },
+  {
+    "Id": "510d8b05-7421-49a7-a40f-fad29aa2cc37",
+    "make": "Maserati",
+    "model": "Spyder",
+    "price": 16366,
+    "year": 1991,
+    "vin": "3VW4A7AT8DM876136"
+  },
+  {
+    "Id": "fd5269e7-1052-4cb0-841a-42c18f71e4bc",
+    "make": "Chevrolet",
+    "model": "G-Series G20",
+    "price": 42625,
+    "year": 1992,
+    "vin": "WBABD53435P604369"
+  },
+  {
+    "Id": "d59222b3-9223-498e-b4b4-8ef187c5a8de",
+    "make": "Lotus",
+    "model": "Exige",
+    "price": 36297,
+    "year": 2004,
+    "vin": "5N1AN0NUXFN897630"
+  },
+  {
+    "Id": "5036ef3e-e069-4245-9d09-7e1c21fad2bc",
+    "make": "Volvo",
+    "model": "XC70",
+    "price": 14931,
+    "year": 2009,
+    "vin": "1N4AL2AP1BC341210"
+  },
+  {
+    "Id": "d923fcfe-2aa7-48a2-b4cb-decfec0f98d0",
+    "make": "Nissan",
+    "model": "Maxima",
+    "price": 20370,
+    "year": 2006,
+    "vin": "19VDE1F38FE371345"
+  },
+  {
+    "Id": "fa8d965c-cb5e-413e-87bc-eed4c28a3a02",
+    "make": "Oldsmobile",
+    "model": "Achieva",
+    "price": 36709,
+    "year": 1994,
+    "vin": "YV4952CF0E1611746"
+  },
+  {
+    "Id": "6ddfce23-a370-4fce-9e9e-363ba319b372",
+    "make": "Mitsubishi",
+    "model": "Endeavor",
+    "price": 31845,
+    "year": 2004,
+    "vin": "1N6AA0CA9EN426752"
+  },
+  {
+    "Id": "ad8969c6-1729-44ae-b1a7-020b01e5cc0b",
+    "make": "Buick",
+    "model": "Hearse",
+    "price": 54502,
+    "year": 1996,
+    "vin": "JN8AZ2NEXF9704127"
+  },
+  {
+    "Id": "c5411dfd-ba15-47af-80e1-8500b38ad4a5",
+    "make": "Mazda",
+    "model": "Millenia",
+    "price": 48440,
+    "year": 1997,
+    "vin": "1GD311CG5FF172289"
+  },
+  {
+    "Id": "349cc161-0334-4510-8d1e-c5a3b61f39c4",
+    "make": "Mazda",
+    "model": "Mazda5",
+    "price": 57788,
+    "year": 2007,
+    "vin": "3D73M4CL0AG287843"
+  },
+  {
+    "Id": "71503477-e70d-44c9-9304-d2f6e0e19b61",
+    "make": "Mazda",
+    "model": "Mazda6",
+    "price": 24826,
+    "year": 2010,
+    "vin": "WAULT54B82N090014"
+  },
+  {
+    "Id": "db2e258e-23a2-4173-90b9-505c9192eef8",
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "price": 35339,
+    "year": 2001,
+    "vin": "2C3CDXFG5EH274333"
+  },
+  {
+    "Id": "297292f8-9b51-427a-87c7-5cf1e277159e",
+    "make": "Chrysler",
+    "model": "300M",
+    "price": 35129,
+    "year": 2003,
+    "vin": "WAUFMAFC5EN287803"
+  },
+  {
+    "Id": "c4157e01-253d-4c81-8a1d-50ea2ad543a9",
+    "make": "Lincoln",
+    "model": "Aviator",
+    "price": 29918,
+    "year": 2004,
+    "vin": "1GTC5LF90C8655996"
+  },
+  {
+    "Id": "a54265b5-8fa7-457a-97c4-b9f0f4b3c4d0",
+    "make": "Volkswagen",
+    "model": "GTI",
+    "price": 37341,
+    "year": 1988,
+    "vin": "1FAHP3E23CL347776"
+  },
+  {
+    "Id": "3c55dcb5-0fa2-4f1c-be51-e4a2e9b680ea",
+    "make": "Geo",
+    "model": "Prizm",
+    "price": 37301,
+    "year": 1993,
+    "vin": "1FMJU1J50AE446901"
+  },
+  {
+    "Id": "17285faa-463e-4ee2-99df-012b398982c0",
+    "make": "Mitsubishi",
+    "model": "Starion",
+    "price": 23736,
+    "year": 1989,
+    "vin": "1G6KF549X2U941922"
+  },
+  {
+    "Id": "84cfb4d0-51f2-4066-a7b4-b59bfe8ac4f6",
+    "make": "Ford",
+    "model": "Mustang",
+    "price": 21728,
+    "year": 1984,
+    "vin": "5UXFE4C52AL304813"
+  },
+  {
+    "Id": "24582d9c-362d-4b17-91c7-d91a870a721b",
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "price": 47650,
+    "year": 2010,
+    "vin": "2FMHK6CC1AB348792"
+  },
+  {
+    "Id": "25070fee-347e-43e7-a213-9ea594b7c709",
+    "make": "BMW",
+    "model": "Z3",
+    "price": 48464,
+    "year": 2001,
+    "vin": "1G6AS5S36F0375714"
+  },
+  {
+    "Id": "26e97f6e-4df5-4eac-8856-326630696752",
+    "make": "Lexus",
+    "model": "GS",
+    "price": 17756,
+    "year": 2008,
+    "vin": "WBAAV53491J592752"
+  },
+  {
+    "Id": "2db01017-cb4c-4fe6-b3c3-4203ea348804",
+    "make": "Honda",
+    "model": "Odyssey",
+    "price": 41939,
+    "year": 2005,
+    "vin": "SALVP2BG3FH115329"
+  },
+  {
+    "Id": "71a6494e-c939-4631-9344-88e18af9f5be",
+    "make": "BMW",
+    "model": "7 Series",
+    "price": 12596,
+    "year": 1996,
+    "vin": "5GALRBED5AJ518144"
+  },
+  {
+    "Id": "a2ba39c2-73c5-4731-b5e4-6bc9dc08a97b",
+    "make": "Honda",
+    "model": "Ridgeline",
+    "price": 31809,
+    "year": 2008,
+    "vin": "1C3CDFCB6ED172054"
+  },
+  {
+    "Id": "52004b23-7c2b-4a0c-a49a-99b46d5b15fa",
+    "make": "Mercedes-Benz",
+    "model": "500SEL",
+    "price": 38795,
+    "year": 1993,
+    "vin": "WBAPN7C5XBA898018"
+  },
+  {
+    "Id": "8451badf-a906-41af-b8e5-dd42858e51fb",
+    "make": "Ford",
+    "model": "Mustang",
+    "price": 24765,
+    "year": 2010,
+    "vin": "1G6KD57Y99U456478"
+  },
+  {
+    "Id": "509be904-d47d-4a9b-9ce4-058f6a5456ff",
+    "make": "Pontiac",
+    "model": "Sunfire",
+    "price": 21905,
+    "year": 2001,
+    "vin": "3D73M4HL6BG640774"
+  },
+  {
+    "Id": "75f84f74-2e07-40fc-b103-9415a87d0e6b",
+    "make": "Mazda",
+    "model": "B-Series",
+    "price": 10559,
+    "year": 1991,
+    "vin": "JH4CU2E8XCC464281"
+  },
+  {
+    "Id": "3f329443-61f1-41ad-8c66-e0fa92c42684",
+    "make": "Lexus",
+    "model": "ES",
+    "price": 17990,
+    "year": 2008,
+    "vin": "SAJWA4DC1EM466962"
+  },
+  {
+    "Id": "78442c92-ce23-47bb-96a2-e50c8ff4dfa4",
+    "make": "Audi",
+    "model": "Q5",
+    "price": 14195,
+    "year": 2011,
+    "vin": "5GADV23L35D844684"
+  },
+  {
+    "Id": "73c6636f-df80-4375-8f81-9439a962f907",
+    "make": "Toyota",
+    "model": "Tercel",
+    "price": 38344,
+    "year": 1992,
+    "vin": "1FTEW1CM1DK064001"
+  },
+  {
+    "Id": "0a82a94d-e08e-4b70-8096-367911e300ee",
+    "make": "Dodge",
+    "model": "Journey",
+    "price": 14833,
+    "year": 2011,
+    "vin": "SCBFC7ZA0EC598704"
+  },
+  {
+    "Id": "03b96bd9-4d47-41d2-93eb-9644887adb8d",
+    "make": "Mercury",
+    "model": "Cougar",
+    "price": 11323,
+    "year": 1993,
+    "vin": "JN8AZ1MU4EW383060"
+  },
+  {
+    "Id": "9832b5f0-e22a-4b9b-8794-017155137ad4",
+    "make": "Chevrolet",
+    "model": "Beretta",
+    "price": 10066,
+    "year": 1996,
+    "vin": "1FTEW1CM6EK734093"
+  },
+  {
+    "Id": "bef7c91d-6908-460a-8be1-670a25cd3b4a",
+    "make": "Bentley",
+    "model": "Continental Flying Spur",
+    "price": 28494,
+    "year": 2009,
+    "vin": "WDDGF4HB6ER562522"
+  },
+  {
+    "Id": "d7f3c5b3-8a36-4593-bf0f-a4dbbb3b9ba1",
+    "make": "Mercedes-Benz",
+    "model": "300CE",
+    "price": 16280,
+    "year": 1993,
+    "vin": "2G4GR5GX4F9732842"
+  },
+  {
+    "Id": "6f783a7c-9d3c-4cbd-9681-7544fb109e5d",
+    "make": "Mercedes-Benz",
+    "model": "S-Class",
+    "price": 23929,
+    "year": 1996,
+    "vin": "WA1LGBFE9ED748778"
+  },
+  {
+    "Id": "ab91a85f-a62a-4754-b329-b0dca339e552",
+    "make": "Maserati",
+    "model": "430",
+    "price": 56005,
+    "year": 1990,
+    "vin": "1GD022CG6CZ184774"
+  },
+  {
+    "Id": "b3c23c93-22ef-47ca-9968-d6b47bead2ad",
+    "make": "Mercury",
+    "model": "Mountaineer",
+    "price": 22734,
+    "year": 2000,
+    "vin": "WBAWV53507P446938"
+  },
+  {
+    "Id": "9c1a39b4-f6a1-42c2-b63d-66d97dd27b93",
+    "make": "Acura",
+    "model": "RL",
+    "price": 24128,
+    "year": 2008,
+    "vin": "1GT3CZBG2AF926918"
+  },
+  {
+    "Id": "217759dc-35a4-4247-b9b0-053a2381ebdc",
+    "make": "Rambler",
+    "model": "Classic",
+    "price": 11315,
+    "year": 1963,
+    "vin": "SCFAD01A26G674992"
+  },
+  {
+    "Id": "4f07ec9c-8099-44bf-bfea-4a9ce247ea14",
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "price": 53888,
+    "year": 2008,
+    "vin": "5TDDK3DC3ES477317"
+  },
+  {
+    "Id": "754b77a3-9266-4a8c-8512-c048c96578be",
+    "make": "Nissan",
+    "model": "350Z Roadster",
+    "price": 54497,
+    "year": 2006,
+    "vin": "1G4GD5GRXCF662086"
+  },
+  {
+    "Id": "201d4a80-fd2f-41bc-9c2c-43272737da46",
+    "make": "Lincoln",
+    "model": "Navigator",
+    "price": 58012,
+    "year": 2011,
+    "vin": "WA1C8AFPXEA962818"
+  },
+  {
+    "Id": "719d2809-d427-43de-b888-91015c3b8bdd",
+    "make": "Ford",
+    "model": "Explorer",
+    "price": 27361,
+    "year": 1993,
+    "vin": "WBA6A0C59DD651458"
+  },
+  {
+    "Id": "1cab8097-7383-4211-856c-164a9c5535a5",
+    "make": "Audi",
+    "model": "RS 6",
+    "price": 52453,
+    "year": 2003,
+    "vin": "1GD021EG5FZ372620"
+  },
+  {
+    "Id": "2d495613-2b27-4b64-a346-b1c862e815df",
+    "make": "Volkswagen",
+    "model": "Golf",
+    "price": 26693,
+    "year": 2006,
+    "vin": "YV4902DZ3B2627601"
+  },
+  {
+    "Id": "dabb2c2b-bebe-4822-bcb2-918c2dadff98",
+    "make": "Ford",
+    "model": "F-Series",
+    "price": 31613,
+    "year": 2005,
+    "vin": "5NPDH4AE2CH054287"
+  },
+  {
+    "Id": "d3437cac-5d0f-46ce-813b-d7e55e3439aa",
+    "make": "Mazda",
+    "model": "Millenia",
+    "price": 10959,
+    "year": 2000,
+    "vin": "WAUFMBFC2EN250844"
+  },
+  {
+    "Id": "e7edf306-c20b-4a6d-801a-9135220a9569",
+    "make": "Ford",
+    "model": "Ranger",
+    "price": 31004,
+    "year": 2009,
+    "vin": "1C3CDFAA9DD404462"
+  },
+  {
+    "Id": "5bdce4fa-3186-4a4e-8ffa-1be564dd59ce",
+    "make": "Dodge",
+    "model": "Daytona",
+    "price": 45503,
+    "year": 1992,
+    "vin": "WBA3B1C50DF173960"
+  },
+  {
+    "Id": "f3d7c761-1896-4f4c-ae43-b5ebf30c2a8f",
+    "make": "Lexus",
+    "model": "GX",
+    "price": 42688,
+    "year": 2003,
+    "vin": "5UXFG43548L026324"
+  },
+  {
+    "Id": "416220c0-512d-411c-af2a-a7d1402e51da",
+    "make": "Mitsubishi",
+    "model": "Chariot",
+    "price": 30358,
+    "year": 1987,
+    "vin": "2T1KU4EE6DC056643"
+  },
+  {
+    "Id": "23a8b452-8679-4cbf-a078-2b7b7cd295d1",
+    "make": "Ford",
+    "model": "Falcon",
+    "price": 40536,
+    "year": 1966,
+    "vin": "SCFFDCBD6CG578861"
+  },
+  {
+    "Id": "f7bec6d2-caa8-4374-ade8-b1fe117fa262",
+    "make": "Cadillac",
+    "model": "DeVille",
+    "price": 12572,
+    "year": 1999,
+    "vin": "JN8AS5MTXCW235477"
+  },
+  {
+    "Id": "3433591a-96ab-4f85-adc0-9961765d7931",
+    "make": "Ferrari",
+    "model": "F430",
+    "price": 56013,
+    "year": 2007,
+    "vin": "5TDBK3EH0CS381787"
+  },
+  {
+    "Id": "d19a6aff-c3b0-4cc9-b010-30e9cdf7000f",
+    "make": "Kia",
+    "model": "Soul",
+    "price": 14209,
+    "year": 2011,
+    "vin": "KNAFU6A23C5009989"
+  },
+  {
+    "Id": "c5b593d4-c201-4894-a131-5e886292e2a4",
+    "make": "Ford",
+    "model": "Taurus",
+    "price": 56496,
+    "year": 1995,
+    "vin": "3C63DPNLXCG784644"
+  },
+  {
+    "Id": "5ffeb6b0-ba8c-4e15-94b6-d5f940355cc9",
+    "make": "Volkswagen",
+    "model": "R32",
+    "price": 23906,
+    "year": 2009,
+    "vin": "1GYUKJEF5AR064668"
+  },
+  {
+    "Id": "47478cc5-d2c4-4c83-abbd-da27c2eb2900",
+    "make": "Lamborghini",
+    "model": "Countach",
+    "price": 53169,
+    "year": 1990,
+    "vin": "5GAKRAKD3FJ337058"
+  },
+  {
+    "Id": "74d585c8-81f0-449e-8a15-d34c49adde47",
+    "make": "Suzuki",
+    "model": "XL-7",
+    "price": 36758,
+    "year": 2003,
+    "vin": "2T1BU4EE6BC273090"
+  },
+  {
+    "Id": "68bd1efe-3abb-4998-9b74-06269d8cc91f",
+    "make": "Subaru",
+    "model": "Impreza",
+    "price": 41834,
+    "year": 2000,
+    "vin": "WAUEH74F18N751710"
+  },
+  {
+    "Id": "dfb7ef97-82eb-492d-8d9e-a365b90b93d2",
+    "make": "Cadillac",
+    "model": "Seville",
+    "price": 14062,
+    "year": 1999,
+    "vin": "WA1DKAFP8CA422080"
+  },
+  {
+    "Id": "4c49db7a-d502-4218-97d5-f684490cce18",
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "price": 54988,
+    "year": 1991,
+    "vin": "19UYA425X2A159137"
+  },
+  {
+    "Id": "6d84e965-85d2-4860-8656-d33a8950411a",
+    "make": "GMC",
+    "model": "Canyon",
+    "price": 14967,
+    "year": 2007,
+    "vin": "4A31K5DF3CE688624"
+  },
+  {
+    "Id": "271d9713-163e-426a-a8d2-6ebaf842f3ca",
+    "make": "Chevrolet",
+    "model": "Astro",
+    "price": 36399,
+    "year": 1992,
+    "vin": "1FTWW3B54AE277965"
+  },
+  {
+    "Id": "6c2b6b44-84b8-4405-b6cc-eae02a54c3b0",
+    "make": "Honda",
+    "model": "Prelude",
+    "price": 43300,
+    "year": 1986,
+    "vin": "YV4952CT2E1625881"
+  },
+  {
+    "Id": "e1a90234-ca1c-4d77-afc9-128e648efcda",
+    "make": "GMC",
+    "model": "Yukon",
+    "price": 10340,
+    "year": 1994,
+    "vin": "1GD312CG6DF227433"
+  },
+  {
+    "Id": "7a301ba3-7156-4bdf-bdac-5d52a8d9a2d9",
+    "make": "Chevrolet",
+    "model": "Malibu",
+    "price": 27915,
+    "year": 2008,
+    "vin": "2G4WC552271652489"
+  },
+  {
+    "Id": "7c7e41ee-b546-42ff-98be-182927080393",
+    "make": "Dodge",
+    "model": "Neon",
+    "price": 46928,
+    "year": 1995,
+    "vin": "5GADT13S752369897"
+  },
+  {
+    "Id": "b404213b-3e57-4bc4-83d4-dbf60767495d",
+    "make": "Suzuki",
+    "model": "Swift",
+    "price": 46785,
+    "year": 1992,
+    "vin": "1G4GA5GR6CF170616"
+  },
+  {
+    "Id": "2397839f-4426-42a0-8098-6908d2306faa",
+    "make": "GMC",
+    "model": "Envoy",
+    "price": 25262,
+    "year": 2003,
+    "vin": "SCFEBBBKXEG264403"
+  },
+  {
+    "Id": "cc0dfcf9-d121-492c-845f-309408e176bb",
+    "make": "Mazda",
+    "model": "MPV",
+    "price": 17709,
+    "year": 1995,
+    "vin": "KNDMB5C1XF6003989"
+  },
+  {
+    "Id": "182c61ce-e3c9-44ee-a4ca-1eafc5db5b97",
+    "make": "Ford",
+    "model": "Taurus",
+    "price": 35217,
+    "year": 1997,
+    "vin": "YV426MDA6F2180385"
+  },
+  {
+    "Id": "6faf6a9d-677b-4a20-a2b2-e415d5ca941d",
+    "make": "Chevrolet",
+    "model": "Tahoe",
+    "price": 56454,
+    "year": 2004,
+    "vin": "WA1CMAFE2BD564894"
+  }
+]
