@@ -9,7 +9,7 @@ namespace LINQ.Equality.Models
     internal class Choice
     {
         public int Order { get; set; }
-        public string Discription { get; set; }
+        public string Description { get; set; }
 
         public override bool Equals(object? obj)
         {
@@ -19,7 +19,7 @@ namespace LINQ.Equality.Models
                 return true; 
             
             Choice? other = obj as Choice;
-            return other!.Order == this.Order && other.Discription == this.Discription;
+            return other!.Order == this.Order && other.Description == this.Description;
         }
 
         public override int GetHashCode()

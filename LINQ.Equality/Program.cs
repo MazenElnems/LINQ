@@ -20,10 +20,10 @@ namespace LINQ.Equality
                     Title = "Question One" ,
                     Choices = new List<Choice>
                     {
-                        new Choice{ Order = 1 , Discription = "A"},
-                        new Choice{ Order = 2 , Discription = "B"},
-                        new Choice{ Order = 3 , Discription = "C"},
-                        new Choice{ Order = 4 , Discription = "D"},
+                        new Choice{ Order = 1 , Description = "A"},
+                        new Choice{ Order = 2 , Description = "B"},
+                        new Choice{ Order = 3 , Description = "C"},
+                        new Choice{ Order = 4 , Description = "D"},
                     }
                 },
                 new Question
@@ -31,10 +31,10 @@ namespace LINQ.Equality
                      Title = "Question Two" ,
                     Choices = new List<Choice>
                     {
-                        new Choice{ Order = 1 , Discription = "A"},
-                        new Choice{ Order = 2 , Discription = "B"},
-                        new Choice{ Order = 3 , Discription = "C"},
-                        new Choice{ Order = 4 , Discription = "D"},
+                        new Choice{ Order = 1 , Description = "A"},
+                        new Choice{ Order = 2 , Description = "B"},
+                        new Choice{ Order = 3 , Description = "C"},
+                        new Choice{ Order = 4 , Description = "D"},
                     }
                 },
                 new Question
@@ -42,10 +42,10 @@ namespace LINQ.Equality
                     Title = "Question Three" ,
                     Choices = new List<Choice>
                     {
-                        new Choice{ Order = 1 , Discription = "A"},
-                        new Choice{ Order = 2 , Discription = "B"},
-                        new Choice{ Order = 3 , Discription = "C"},
-                        new Choice{ Order = 4 , Discription = "D"},
+                        new Choice{ Order = 1 , Description = "A"},
+                        new Choice{ Order = 2 , Description = "B"},
+                        new Choice{ Order = 3 , Description = "C"},
+                        new Choice{ Order = 4 , Description = "D"},
                     }
                 },
             };
@@ -57,10 +57,10 @@ namespace LINQ.Equality
                     Title = "Question One" ,
                     Choices = new List<Choice>
                     {
-                        new Choice{ Order = 1 , Discription = "A"},
-                        new Choice{ Order = 2 , Discription = "B"},
-                        new Choice{ Order = 3 , Discription = "C"},
-                        new Choice{ Order = 4 , Discription = "D"},
+                        new Choice{ Order = 1 , Description = "A"},
+                        new Choice{ Order = 2 , Description = "B"},
+                        new Choice{ Order = 3 , Description = "C"},
+                        new Choice{ Order = 4 , Description = "D"},
                     }
                 },
                 new Question
@@ -68,10 +68,10 @@ namespace LINQ.Equality
                      Title = "Question Two" ,
                     Choices = new List<Choice>
                     {
-                        new Choice{ Order = 1 , Discription = "A"},
-                        new Choice{ Order = 2 , Discription = "B"},
-                        new Choice{ Order = 3 , Discription = "C"},
-                        new Choice{ Order = 4 , Discription = "D"},
+                        new Choice{ Order = 1 , Description = "A"},
+                        new Choice{ Order = 2 , Description = "B"},
+                        new Choice{ Order = 3 , Description = "C"},
+                        new Choice{ Order = 4 , Description = "D"},
                     }
                 },
                 new Question
@@ -79,10 +79,10 @@ namespace LINQ.Equality
                     Title = "Question Three" ,
                     Choices = new List<Choice>
                     {
-                        new Choice{ Order = 1 , Discription = "A"},
-                        new Choice{ Order = 2 , Discription = "B"},
-                        new Choice{ Order = 3 , Discription = "C"},
-                        new Choice{ Order = 4 , Discription = "D"},
+                        new Choice{ Order = 1 , Description = "A"},
+                        new Choice{ Order = 2 , Description = "B"},
+                        new Choice{ Order = 3 , Description = "C"},
+                        new Choice{ Order = 4 , Description = "D"},
                     }
                 },
             };
