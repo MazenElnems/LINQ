@@ -14,7 +14,10 @@ namespace Grouping
             // it groups data based on attribute/feature 
             var carGroups = cars.GroupBy(c => c.Make);
 
-            foreach(var group in carGroups )
+            var carGroups2 = from c in cars
+                             group c by c.Make;
+
+            foreach(var group in carGroups2)
             {
                 Sep($" < {group.Key} > ");
                 group.Print();
