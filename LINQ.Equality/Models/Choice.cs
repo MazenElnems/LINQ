@@ -24,7 +24,7 @@ namespace LINQ.Equality.Models
 
         public override int GetHashCode()
         {
-            return HashCode.Combine(Order, Discription);
+            return HashCode.Combine(Order, Description);
         }
     }
 }
